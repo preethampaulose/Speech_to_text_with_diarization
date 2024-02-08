@@ -1,0 +1,150 @@
+{
+    "text": " just like everybody else, my life style, my definition of new dislash won't keep functioning.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.6,
+            "text": " just like everybody else, my life style, my definition of new dislash won't keep",
+            "tokens": [
+                50364,
+                445,
+                411,
+                2201,
+                1646,
+                11,
+                452,
+                993,
+                3758,
+                11,
+                452,
+                7123,
+                295,
+                777,
+                43186,
+                1299,
+                1582,
+                380,
+                1066,
+                50692
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4537027359008789,
+            "compression_ratio": 1.1204819277108433,
+            "no_speech_prob": 0.08209206908941269,
+            "words": [
+                {
+                    "word": " just",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.459496408700943
+                },
+                {
+                    "word": " like",
+                    "start": 0.36,
+                    "end": 0.58,
+                    "probability": 0.9957386255264282
+                },
+                {
+                    "word": " everybody",
+                    "start": 0.58,
+                    "end": 0.92,
+                    "probability": 0.9702931046485901
+                },
+                {
+                    "word": " else,",
+                    "start": 0.92,
+                    "end": 1.72,
+                    "probability": 0.9996123909950256
+                },
+                {
+                    "word": " my",
+                    "start": 2.34,
+                    "end": 2.4,
+                    "probability": 0.9424039721488953
+                },
+                {
+                    "word": " life",
+                    "start": 2.4,
+                    "end": 2.72,
+                    "probability": 0.44712674617767334
+                },
+                {
+                    "word": " style,",
+                    "start": 2.72,
+                    "end": 3.22,
+                    "probability": 0.5691558122634888
+                },
+                {
+                    "word": " my",
+                    "start": 4.82,
+                    "end": 4.82,
+                    "probability": 0.916904628276825
+                },
+                {
+                    "word": " definition",
+                    "start": 4.82,
+                    "end": 5.24,
+                    "probability": 0.9727411866188049
+                },
+                {
+                    "word": " of",
+                    "start": 5.24,
+                    "end": 5.54,
+                    "probability": 0.9949082732200623
+                },
+                {
+                    "word": " new",
+                    "start": 5.54,
+                    "end": 5.7,
+                    "probability": 0.6949789524078369
+                },
+                {
+                    "word": " dislash",
+                    "start": 5.7,
+                    "end": 6.14,
+                    "probability": 0.47404420375823975
+                },
+                {
+                    "word": " won't",
+                    "start": 6.14,
+                    "end": 6.42,
+                    "probability": 0.9392477869987488
+                },
+                {
+                    "word": " keep",
+                    "start": 6.42,
+                    "end": 6.6,
+                    "probability": 0.9865650534629822
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.6,
+            "end": 6.94,
+            "text": " functioning.",
+            "tokens": [
+                50692,
+                18483,
+                13,
+                50720
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4537027359008789,
+            "compression_ratio": 1.1204819277108433,
+            "no_speech_prob": 0.08209206908941269,
+            "words": [
+                {
+                    "word": " functioning.",
+                    "start": 6.6,
+                    "end": 6.94,
+                    "probability": 0.1982330083847046
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

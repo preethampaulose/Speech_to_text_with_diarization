@@ -1,0 +1,110 @@
+{
+    "text": "\ufffd\ufffd- the car is ideal if you of course",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": "\ufffd\ufffd- the car is ideal",
+            "tokens": [
+                50364,
+                46014,
+                12,
+                264,
+                1032,
+                307,
+                7157,
+                50524
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.2223564147949215,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.5137543678283691,
+            "words": [
+                {
+                    "word": "\ufffd\ufffd",
+                    "start": 0.0,
+                    "end": 0.08,
+                    "probability": 3.1411973395734094e-06
+                },
+                {
+                    "word": "-",
+                    "start": 0.08,
+                    "end": 0.22,
+                    "probability": 0.015322706662118435
+                },
+                {
+                    "word": " the",
+                    "start": 0.22,
+                    "end": 0.22,
+                    "probability": 0.0017619364662095904
+                },
+                {
+                    "word": " car",
+                    "start": 0.22,
+                    "end": 0.38,
+                    "probability": 0.4520564079284668
+                },
+                {
+                    "word": " is",
+                    "start": 0.38,
+                    "end": 0.88,
+                    "probability": 0.01641084812581539
+                },
+                {
+                    "word": " ideal",
+                    "start": 0.88,
+                    "end": 2.24,
+                    "probability": 0.0005106156459078193
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.2,
+            "end": 4.24,
+            "text": " if you of course",
+            "tokens": [
+                50524,
+                498,
+                291,
+                295,
+                1164,
+                51200
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.2223564147949215,
+            "compression_ratio": 0.8367346938775511,
+            "no_speech_prob": 0.5137543678283691,
+            "words": [
+                {
+                    "word": " if",
+                    "start": 2.9299999999999997,
+                    "end": 3.34,
+                    "probability": 0.07817003130912781
+                },
+                {
+                    "word": " you",
+                    "start": 3.34,
+                    "end": 3.92,
+                    "probability": 0.5005004405975342
+                },
+                {
+                    "word": " of",
+                    "start": 3.92,
+                    "end": 3.92,
+                    "probability": 0.00024908437626436353
+                },
+                {
+                    "word": " course",
+                    "start": 3.92,
+                    "end": 4.24,
+                    "probability": 0.6701011061668396
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

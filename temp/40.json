@@ -1,0 +1,647 @@
+{
+    "text": " I passed out in 2015 from college. At that time I got like 7, 8 kind of package, CTC. Then after first increment I was around 11, 12. Then I did preparation for two years. So that was no earning and like burning my savings. And after that the regular the basic salary 56, 100. But in hand what I'm getting right now is comparable to what was I getting in. After my first increment.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.88,
+            "text": " I passed out in 2015 from college. At that time I got like 7, 8 kind of package, CTC.",
+            "tokens": [
+                50364,
+                286,
+                4678,
+                484,
+                294,
+                7546,
+                490,
+                3859,
+                13,
+                1711,
+                300,
+                565,
+                286,
+                658,
+                411,
+                1614,
+                11,
+                1649,
+                733,
+                295,
+                7372,
+                11,
+                383,
+                18238,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33973495165507,
+            "compression_ratio": 1.4978902953586497,
+            "no_speech_prob": 0.12533266842365265,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.2482793927192688
+                },
+                {
+                    "word": " passed",
+                    "start": 0.28,
+                    "end": 0.52,
+                    "probability": 0.7509599328041077
+                },
+                {
+                    "word": " out",
+                    "start": 0.52,
+                    "end": 0.78,
+                    "probability": 0.8836886286735535
+                },
+                {
+                    "word": " in",
+                    "start": 0.78,
+                    "end": 1.14,
+                    "probability": 0.9522950649261475
+                },
+                {
+                    "word": " 2015",
+                    "start": 1.14,
+                    "end": 1.8,
+                    "probability": 0.9798437356948853
+                },
+                {
+                    "word": " from",
+                    "start": 1.8,
+                    "end": 2.42,
+                    "probability": 0.6660820245742798
+                },
+                {
+                    "word": " college.",
+                    "start": 2.42,
+                    "end": 2.9,
+                    "probability": 0.9370369911193848
+                },
+                {
+                    "word": " At",
+                    "start": 3.92,
+                    "end": 4.06,
+                    "probability": 0.9361559748649597
+                },
+                {
+                    "word": " that",
+                    "start": 4.06,
+                    "end": 4.14,
+                    "probability": 0.7657337784767151
+                },
+                {
+                    "word": " time",
+                    "start": 4.14,
+                    "end": 4.3,
+                    "probability": 0.9988381266593933
+                },
+                {
+                    "word": " I",
+                    "start": 4.3,
+                    "end": 4.46,
+                    "probability": 0.5712838172912598
+                },
+                {
+                    "word": " got",
+                    "start": 4.46,
+                    "end": 4.78,
+                    "probability": 0.9966493248939514
+                },
+                {
+                    "word": " like",
+                    "start": 4.78,
+                    "end": 5.02,
+                    "probability": 0.8605303168296814
+                },
+                {
+                    "word": " 7,",
+                    "start": 5.02,
+                    "end": 5.32,
+                    "probability": 0.5291764736175537
+                },
+                {
+                    "word": " 8",
+                    "start": 5.5,
+                    "end": 5.96,
+                    "probability": 0.8544350862503052
+                },
+                {
+                    "word": " kind",
+                    "start": 5.96,
+                    "end": 6.34,
+                    "probability": 0.827378511428833
+                },
+                {
+                    "word": " of",
+                    "start": 6.34,
+                    "end": 6.48,
+                    "probability": 0.995446503162384
+                },
+                {
+                    "word": " package,",
+                    "start": 6.48,
+                    "end": 7.0,
+                    "probability": 0.6740604043006897
+                },
+                {
+                    "word": " CTC.",
+                    "start": 7.36,
+                    "end": 7.88,
+                    "probability": 0.7568821609020233
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.7,
+            "end": 15.32,
+            "text": " Then after first increment I was around 11, 12. Then I did preparation for two years.",
+            "tokens": [
+                50764,
+                1396,
+                934,
+                700,
+                26200,
+                286,
+                390,
+                926,
+                2975,
+                11,
+                2272,
+                13,
+                1396,
+                286,
+                630,
+                13081,
+                337,
+                732,
+                924,
+                13,
+                51114
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33973495165507,
+            "compression_ratio": 1.4978902953586497,
+            "no_speech_prob": 0.12533266842365265,
+            "words": [
+                {
+                    "word": " Then",
+                    "start": 8.7,
+                    "end": 8.86,
+                    "probability": 0.9187436103820801
+                },
+                {
+                    "word": " after",
+                    "start": 8.86,
+                    "end": 9.08,
+                    "probability": 0.9361761212348938
+                },
+                {
+                    "word": " first",
+                    "start": 9.08,
+                    "end": 9.52,
+                    "probability": 0.8316605091094971
+                },
+                {
+                    "word": " increment",
+                    "start": 9.52,
+                    "end": 10.06,
+                    "probability": 0.7628230452537537
+                },
+                {
+                    "word": " I",
+                    "start": 10.06,
+                    "end": 10.34,
+                    "probability": 0.7187220454216003
+                },
+                {
+                    "word": " was",
+                    "start": 10.34,
+                    "end": 10.46,
+                    "probability": 0.9882071614265442
+                },
+                {
+                    "word": " around",
+                    "start": 10.46,
+                    "end": 10.68,
+                    "probability": 0.9957695007324219
+                },
+                {
+                    "word": " 11,",
+                    "start": 10.68,
+                    "end": 10.98,
+                    "probability": 0.9261049032211304
+                },
+                {
+                    "word": " 12.",
+                    "start": 11.12,
+                    "end": 11.84,
+                    "probability": 0.9301950931549072
+                },
+                {
+                    "word": " Then",
+                    "start": 13.72,
+                    "end": 13.86,
+                    "probability": 0.9767875075340271
+                },
+                {
+                    "word": " I",
+                    "start": 13.86,
+                    "end": 14.02,
+                    "probability": 0.9379713535308838
+                },
+                {
+                    "word": " did",
+                    "start": 14.02,
+                    "end": 14.18,
+                    "probability": 0.9756964445114136
+                },
+                {
+                    "word": " preparation",
+                    "start": 14.18,
+                    "end": 14.54,
+                    "probability": 0.9818861484527588
+                },
+                {
+                    "word": " for",
+                    "start": 14.54,
+                    "end": 14.82,
+                    "probability": 0.9988406300544739
+                },
+                {
+                    "word": " two",
+                    "start": 14.82,
+                    "end": 14.96,
+                    "probability": 0.6118324398994446
+                },
+                {
+                    "word": " years.",
+                    "start": 14.96,
+                    "end": 15.32,
+                    "probability": 0.9962804913520813
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 15.66,
+            "end": 18.12,
+            "text": " So that was no earning and like burning my savings.",
+            "tokens": [
+                51114,
+                407,
+                300,
+                390,
+                572,
+                12353,
+                293,
+                411,
+                9488,
+                452,
+                13454,
+                13,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33973495165507,
+            "compression_ratio": 1.4978902953586497,
+            "no_speech_prob": 0.12533266842365265,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 15.66,
+                    "end": 15.68,
+                    "probability": 0.8751572370529175
+                },
+                {
+                    "word": " that",
+                    "start": 15.68,
+                    "end": 15.78,
+                    "probability": 0.9005022644996643
+                },
+                {
+                    "word": " was",
+                    "start": 15.78,
+                    "end": 16.02,
+                    "probability": 0.9967536330223083
+                },
+                {
+                    "word": " no",
+                    "start": 16.02,
+                    "end": 16.18,
+                    "probability": 0.8652533888816833
+                },
+                {
+                    "word": " earning",
+                    "start": 16.18,
+                    "end": 16.54,
+                    "probability": 0.5294235944747925
+                },
+                {
+                    "word": " and",
+                    "start": 16.54,
+                    "end": 17.18,
+                    "probability": 0.8427271246910095
+                },
+                {
+                    "word": " like",
+                    "start": 17.18,
+                    "end": 17.32,
+                    "probability": 0.7755511403083801
+                },
+                {
+                    "word": " burning",
+                    "start": 17.32,
+                    "end": 17.48,
+                    "probability": 0.9484832882881165
+                },
+                {
+                    "word": " my",
+                    "start": 17.48,
+                    "end": 17.74,
+                    "probability": 0.9804168343544006
+                },
+                {
+                    "word": " savings.",
+                    "start": 17.74,
+                    "end": 18.12,
+                    "probability": 0.9979811310768127
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 19.06,
+            "end": 23.46,
+            "text": " And after that the regular the basic salary 56, 100.",
+            "tokens": [
+                51264,
+                400,
+                934,
+                300,
+                264,
+                3890,
+                264,
+                3875,
+                15360,
+                19687,
+                11,
+                2319,
+                13,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33973495165507,
+            "compression_ratio": 1.4978902953586497,
+            "no_speech_prob": 0.12533266842365265,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 19.06,
+                    "end": 19.14,
+                    "probability": 0.9002267122268677
+                },
+                {
+                    "word": " after",
+                    "start": 19.14,
+                    "end": 19.38,
+                    "probability": 0.9909662008285522
+                },
+                {
+                    "word": " that",
+                    "start": 19.38,
+                    "end": 20.1,
+                    "probability": 0.9971957206726074
+                },
+                {
+                    "word": " the",
+                    "start": 20.1,
+                    "end": 20.62,
+                    "probability": 0.6598782539367676
+                },
+                {
+                    "word": " regular",
+                    "start": 20.62,
+                    "end": 21.04,
+                    "probability": 0.9801733493804932
+                },
+                {
+                    "word": " the",
+                    "start": 21.04,
+                    "end": 21.88,
+                    "probability": 0.32698845863342285
+                },
+                {
+                    "word": " basic",
+                    "start": 21.88,
+                    "end": 22.14,
+                    "probability": 0.3823030889034271
+                },
+                {
+                    "word": " salary",
+                    "start": 22.14,
+                    "end": 22.52,
+                    "probability": 0.9939940571784973
+                },
+                {
+                    "word": " 56,",
+                    "start": 22.52,
+                    "end": 22.98,
+                    "probability": 0.3911687731742859
+                },
+                {
+                    "word": " 100.",
+                    "start": 23.46,
+                    "end": 23.46,
+                    "probability": 0.7137593626976013
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 24.04,
+            "end": 28.82,
+            "text": " But in hand what I'm getting right now is comparable to what was I getting in.",
+            "tokens": [
+                51514,
+                583,
+                294,
+                1011,
+                437,
+                286,
+                478,
+                1242,
+                558,
+                586,
+                307,
+                25323,
+                281,
+                437,
+                390,
+                286,
+                1242,
+                294,
+                13,
+                51764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33973495165507,
+            "compression_ratio": 1.4978902953586497,
+            "no_speech_prob": 0.12533266842365265,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 24.04,
+                    "end": 24.26,
+                    "probability": 0.9883339405059814
+                },
+                {
+                    "word": " in",
+                    "start": 24.26,
+                    "end": 24.38,
+                    "probability": 0.964190661907196
+                },
+                {
+                    "word": " hand",
+                    "start": 24.38,
+                    "end": 24.62,
+                    "probability": 0.8209795355796814
+                },
+                {
+                    "word": " what",
+                    "start": 24.62,
+                    "end": 24.8,
+                    "probability": 0.4859727621078491
+                },
+                {
+                    "word": " I'm",
+                    "start": 24.8,
+                    "end": 25.18,
+                    "probability": 0.8263875246047974
+                },
+                {
+                    "word": " getting",
+                    "start": 25.18,
+                    "end": 25.18,
+                    "probability": 0.9981252551078796
+                },
+                {
+                    "word": " right",
+                    "start": 25.18,
+                    "end": 25.52,
+                    "probability": 0.9903623461723328
+                },
+                {
+                    "word": " now",
+                    "start": 25.52,
+                    "end": 26.06,
+                    "probability": 0.9939649701118469
+                },
+                {
+                    "word": " is",
+                    "start": 26.06,
+                    "end": 27.0,
+                    "probability": 0.9555956125259399
+                },
+                {
+                    "word": " comparable",
+                    "start": 27.0,
+                    "end": 27.38,
+                    "probability": 0.6865778565406799
+                },
+                {
+                    "word": " to",
+                    "start": 27.38,
+                    "end": 27.64,
+                    "probability": 0.9963035583496094
+                },
+                {
+                    "word": " what",
+                    "start": 27.64,
+                    "end": 27.74,
+                    "probability": 0.9821823239326477
+                },
+                {
+                    "word": " was",
+                    "start": 27.74,
+                    "end": 28.02,
+                    "probability": 0.41480788588523865
+                },
+                {
+                    "word": " I",
+                    "start": 28.02,
+                    "end": 28.24,
+                    "probability": 0.5413388013839722
+                },
+                {
+                    "word": " getting",
+                    "start": 28.24,
+                    "end": 28.48,
+                    "probability": 0.9371529817581177
+                },
+                {
+                    "word": " in.",
+                    "start": 28.48,
+                    "end": 28.82,
+                    "probability": 0.8240005970001221
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2882,
+            "start": 28.82,
+            "end": 30.1,
+            "text": " After my first increment.",
+            "tokens": [
+                50364,
+                2381,
+                452,
+                700,
+                26200,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.41966375708580017,
+            "compression_ratio": 0.7575757575757576,
+            "no_speech_prob": 0.38921672105789185,
+            "words": [
+                {
+                    "word": " After",
+                    "start": 28.82,
+                    "end": 29.38,
+                    "probability": 0.05042904615402222
+                },
+                {
+                    "word": " my",
+                    "start": 29.38,
+                    "end": 29.56,
+                    "probability": 0.9755514860153198
+                },
+                {
+                    "word": " first",
+                    "start": 29.56,
+                    "end": 29.78,
+                    "probability": 0.9800706505775452
+                },
+                {
+                    "word": " increment.",
+                    "start": 29.78,
+                    "end": 30.1,
+                    "probability": 0.009716211818158627
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

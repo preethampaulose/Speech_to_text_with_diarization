@@ -1,0 +1,1023 @@
+{
+    "text": " My first job was at McKenzie in Dubai office, so it started with 35 lakh rupees in Dubai. And then when I decided to come back to India for 6 month I was at 0 because I was just living on my savings to start my first company. Then I started drawing 6 lakh rupees salary from my first startup, then I shut down, then again 0 for 6-7 months. Second startup, I drew 15 lakh salary because I was married by then, fear then it was acquired by an academy and then I went to the market level salary. But then again for the last 8-9 months I am on 0 because I have left it for 2 work on my.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.26,
+            "text": " My first job was at McKenzie in Dubai office, so it started with 35 lakh rupees in Dubai.",
+            "tokens": [
+                50364,
+                1222,
+                700,
+                1691,
+                390,
+                412,
+                21765,
+                32203,
+                294,
+                29100,
+                3398,
+                11,
+                370,
+                309,
+                1409,
+                365,
+                6976,
+                33314,
+                24638,
+                294,
+                29100,
+                13,
+                50700
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32847253568879853,
+            "compression_ratio": 1.5841121495327102,
+            "no_speech_prob": 0.3230558931827545,
+            "words": [
+                {
+                    "word": " My",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.5072212815284729
+                },
+                {
+                    "word": " first",
+                    "start": 0.36,
+                    "end": 0.68,
+                    "probability": 0.9863150119781494
+                },
+                {
+                    "word": " job",
+                    "start": 0.68,
+                    "end": 1.12,
+                    "probability": 0.9835108518600464
+                },
+                {
+                    "word": " was",
+                    "start": 1.12,
+                    "end": 1.52,
+                    "probability": 0.9827972650527954
+                },
+                {
+                    "word": " at",
+                    "start": 1.52,
+                    "end": 1.66,
+                    "probability": 0.9734786748886108
+                },
+                {
+                    "word": " McKenzie",
+                    "start": 1.66,
+                    "end": 2.04,
+                    "probability": 0.5956258773803711
+                },
+                {
+                    "word": " in",
+                    "start": 2.04,
+                    "end": 2.42,
+                    "probability": 0.9620836973190308
+                },
+                {
+                    "word": " Dubai",
+                    "start": 2.42,
+                    "end": 2.66,
+                    "probability": 0.7515735030174255
+                },
+                {
+                    "word": " office,",
+                    "start": 2.66,
+                    "end": 3.16,
+                    "probability": 0.9449581503868103
+                },
+                {
+                    "word": " so",
+                    "start": 3.16,
+                    "end": 3.46,
+                    "probability": 0.6964123845100403
+                },
+                {
+                    "word": " it",
+                    "start": 3.46,
+                    "end": 3.58,
+                    "probability": 0.4634474217891693
+                },
+                {
+                    "word": " started",
+                    "start": 3.58,
+                    "end": 3.86,
+                    "probability": 0.3670979142189026
+                },
+                {
+                    "word": " with",
+                    "start": 3.86,
+                    "end": 4.68,
+                    "probability": 0.9922971129417419
+                },
+                {
+                    "word": " 35",
+                    "start": 4.68,
+                    "end": 5.12,
+                    "probability": 0.9043282866477966
+                },
+                {
+                    "word": " lakh",
+                    "start": 5.12,
+                    "end": 5.44,
+                    "probability": 0.8692545294761658
+                },
+                {
+                    "word": " rupees",
+                    "start": 5.44,
+                    "end": 5.68,
+                    "probability": 0.9733772277832031
+                },
+                {
+                    "word": " in",
+                    "start": 5.68,
+                    "end": 5.9,
+                    "probability": 0.8318528532981873
+                },
+                {
+                    "word": " Dubai.",
+                    "start": 5.9,
+                    "end": 6.26,
+                    "probability": 0.9994015693664551
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.88,
+            "end": 12.18,
+            "text": " And then when I decided to come back to India for 6 month I was at 0 because I was just",
+            "tokens": [
+                50700,
+                400,
+                550,
+                562,
+                286,
+                3047,
+                281,
+                808,
+                646,
+                281,
+                5282,
+                337,
+                1386,
+                1618,
+                286,
+                390,
+                412,
+                1958,
+                570,
+                286,
+                390,
+                445,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32847253568879853,
+            "compression_ratio": 1.5841121495327102,
+            "no_speech_prob": 0.3230558931827545,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 6.88,
+                    "end": 6.96,
+                    "probability": 0.8085695505142212
+                },
+                {
+                    "word": " then",
+                    "start": 6.96,
+                    "end": 7.08,
+                    "probability": 0.9806148409843445
+                },
+                {
+                    "word": " when",
+                    "start": 7.08,
+                    "end": 7.2,
+                    "probability": 0.7869762182235718
+                },
+                {
+                    "word": " I",
+                    "start": 7.2,
+                    "end": 7.32,
+                    "probability": 0.9832639098167419
+                },
+                {
+                    "word": " decided",
+                    "start": 7.32,
+                    "end": 7.64,
+                    "probability": 0.9962987303733826
+                },
+                {
+                    "word": " to",
+                    "start": 7.64,
+                    "end": 7.84,
+                    "probability": 0.9954822063446045
+                },
+                {
+                    "word": " come",
+                    "start": 7.84,
+                    "end": 8.02,
+                    "probability": 0.992183268070221
+                },
+                {
+                    "word": " back",
+                    "start": 8.02,
+                    "end": 8.26,
+                    "probability": 0.983953595161438
+                },
+                {
+                    "word": " to",
+                    "start": 8.26,
+                    "end": 8.42,
+                    "probability": 0.9903197288513184
+                },
+                {
+                    "word": " India",
+                    "start": 8.42,
+                    "end": 8.7,
+                    "probability": 0.9956575632095337
+                },
+                {
+                    "word": " for",
+                    "start": 8.7,
+                    "end": 9.26,
+                    "probability": 0.8209275603294373
+                },
+                {
+                    "word": " 6",
+                    "start": 9.26,
+                    "end": 9.46,
+                    "probability": 0.47639137506484985
+                },
+                {
+                    "word": " month",
+                    "start": 9.46,
+                    "end": 9.68,
+                    "probability": 0.4642516076564789
+                },
+                {
+                    "word": " I",
+                    "start": 9.68,
+                    "end": 9.82,
+                    "probability": 0.5838102102279663
+                },
+                {
+                    "word": " was",
+                    "start": 9.82,
+                    "end": 9.92,
+                    "probability": 0.9748562574386597
+                },
+                {
+                    "word": " at",
+                    "start": 9.92,
+                    "end": 10.08,
+                    "probability": 0.9979159235954285
+                },
+                {
+                    "word": " 0",
+                    "start": 10.08,
+                    "end": 10.54,
+                    "probability": 0.40968701243400574
+                },
+                {
+                    "word": " because",
+                    "start": 10.54,
+                    "end": 11.22,
+                    "probability": 0.4574945271015167
+                },
+                {
+                    "word": " I",
+                    "start": 11.22,
+                    "end": 11.38,
+                    "probability": 0.9822062253952026
+                },
+                {
+                    "word": " was",
+                    "start": 11.38,
+                    "end": 12.0,
+                    "probability": 0.9982048273086548
+                },
+                {
+                    "word": " just",
+                    "start": 12.0,
+                    "end": 12.18,
+                    "probability": 0.9843400716781616
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.18,
+            "end": 14.92,
+            "text": " living on my savings to start my first company.",
+            "tokens": [
+                50964,
+                2647,
+                322,
+                452,
+                13454,
+                281,
+                722,
+                452,
+                700,
+                2237,
+                13,
+                51162
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32847253568879853,
+            "compression_ratio": 1.5841121495327102,
+            "no_speech_prob": 0.3230558931827545,
+            "words": [
+                {
+                    "word": " living",
+                    "start": 12.18,
+                    "end": 12.34,
+                    "probability": 0.9605066776275635
+                },
+                {
+                    "word": " on",
+                    "start": 12.34,
+                    "end": 12.54,
+                    "probability": 0.994492769241333
+                },
+                {
+                    "word": " my",
+                    "start": 12.54,
+                    "end": 12.72,
+                    "probability": 0.9937224984169006
+                },
+                {
+                    "word": " savings",
+                    "start": 12.72,
+                    "end": 13.02,
+                    "probability": 0.997826874256134
+                },
+                {
+                    "word": " to",
+                    "start": 13.02,
+                    "end": 13.38,
+                    "probability": 0.9499024748802185
+                },
+                {
+                    "word": " start",
+                    "start": 13.38,
+                    "end": 13.66,
+                    "probability": 0.9858668446540833
+                },
+                {
+                    "word": " my",
+                    "start": 13.66,
+                    "end": 13.86,
+                    "probability": 0.9945376515388489
+                },
+                {
+                    "word": " first",
+                    "start": 13.86,
+                    "end": 14.34,
+                    "probability": 0.991635799407959
+                },
+                {
+                    "word": " company.",
+                    "start": 14.34,
+                    "end": 14.92,
+                    "probability": 0.9950724244117737
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 16.02,
+            "end": 23.34,
+            "text": " Then I started drawing 6 lakh rupees salary from my first startup, then I shut down,",
+            "tokens": [
+                51162,
+                1396,
+                286,
+                1409,
+                6316,
+                1386,
+                33314,
+                24638,
+                15360,
+                490,
+                452,
+                700,
+                18578,
+                11,
+                550,
+                286,
+                5309,
+                760,
+                11,
+                51558
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32847253568879853,
+            "compression_ratio": 1.5841121495327102,
+            "no_speech_prob": 0.3230558931827545,
+            "words": [
+                {
+                    "word": " Then",
+                    "start": 16.02,
+                    "end": 16.32,
+                    "probability": 0.9818108081817627
+                },
+                {
+                    "word": " I",
+                    "start": 16.32,
+                    "end": 16.7,
+                    "probability": 0.9573847651481628
+                },
+                {
+                    "word": " started",
+                    "start": 16.7,
+                    "end": 17.06,
+                    "probability": 0.9948558807373047
+                },
+                {
+                    "word": " drawing",
+                    "start": 17.06,
+                    "end": 17.4,
+                    "probability": 0.8844207525253296
+                },
+                {
+                    "word": " 6",
+                    "start": 17.4,
+                    "end": 17.86,
+                    "probability": 0.5848341584205627
+                },
+                {
+                    "word": " lakh",
+                    "start": 17.86,
+                    "end": 18.14,
+                    "probability": 0.9896782636642456
+                },
+                {
+                    "word": " rupees",
+                    "start": 18.14,
+                    "end": 18.46,
+                    "probability": 0.9761247038841248
+                },
+                {
+                    "word": " salary",
+                    "start": 18.46,
+                    "end": 18.98,
+                    "probability": 0.9449435472488403
+                },
+                {
+                    "word": " from",
+                    "start": 18.98,
+                    "end": 20.06,
+                    "probability": 0.8060302138328552
+                },
+                {
+                    "word": " my",
+                    "start": 20.06,
+                    "end": 20.3,
+                    "probability": 0.9883997440338135
+                },
+                {
+                    "word": " first",
+                    "start": 20.3,
+                    "end": 20.48,
+                    "probability": 0.9655670523643494
+                },
+                {
+                    "word": " startup,",
+                    "start": 20.48,
+                    "end": 21.24,
+                    "probability": 0.9329462051391602
+                },
+                {
+                    "word": " then",
+                    "start": 22.0,
+                    "end": 22.06,
+                    "probability": 0.9225903153419495
+                },
+                {
+                    "word": " I",
+                    "start": 22.06,
+                    "end": 22.16,
+                    "probability": 0.6693708896636963
+                },
+                {
+                    "word": " shut",
+                    "start": 22.16,
+                    "end": 22.34,
+                    "probability": 0.8658276796340942
+                },
+                {
+                    "word": " down,",
+                    "start": 22.34,
+                    "end": 23.34,
+                    "probability": 0.9911587834358215
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 23.68,
+            "end": 26.4,
+            "text": " then again 0 for 6-7 months.",
+            "tokens": [
+                51558,
+                550,
+                797,
+                1958,
+                337,
+                1386,
+                12,
+                22,
+                2493,
+                13,
+                51714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.32847253568879853,
+            "compression_ratio": 1.5841121495327102,
+            "no_speech_prob": 0.3230558931827545,
+            "words": [
+                {
+                    "word": " then",
+                    "start": 23.68,
+                    "end": 24.02,
+                    "probability": 0.978122889995575
+                },
+                {
+                    "word": " again",
+                    "start": 24.02,
+                    "end": 24.26,
+                    "probability": 0.8497817516326904
+                },
+                {
+                    "word": " 0",
+                    "start": 24.26,
+                    "end": 24.7,
+                    "probability": 0.7386281490325928
+                },
+                {
+                    "word": " for",
+                    "start": 24.7,
+                    "end": 25.2,
+                    "probability": 0.7164953351020813
+                },
+                {
+                    "word": " 6",
+                    "start": 25.2,
+                    "end": 25.54,
+                    "probability": 0.9204199314117432
+                },
+                {
+                    "word": "-7",
+                    "start": 25.54,
+                    "end": 25.9,
+                    "probability": 0.6344970017671585
+                },
+                {
+                    "word": " months.",
+                    "start": 25.9,
+                    "end": 26.4,
+                    "probability": 0.7332437038421631
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 2640,
+            "start": 26.4,
+            "end": 34.04,
+            "text": " Second startup, I drew 15 lakh salary because I was married by then,",
+            "tokens": [
+                50380,
+                5736,
+                18578,
+                11,
+                286,
+                12804,
+                2119,
+                33314,
+                15360,
+                570,
+                286,
+                390,
+                5259,
+                538,
+                550,
+                11,
+                50748
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33936685415414664,
+            "compression_ratio": 1.4578313253012047,
+            "no_speech_prob": 0.13801266252994537,
+            "words": [
+                {
+                    "word": " Second",
+                    "start": 26.4,
+                    "end": 27.22,
+                    "probability": 0.45979416370391846
+                },
+                {
+                    "word": " startup,",
+                    "start": 27.22,
+                    "end": 27.76,
+                    "probability": 0.3363761603832245
+                },
+                {
+                    "word": " I",
+                    "start": 28.22,
+                    "end": 28.26,
+                    "probability": 0.9591665863990784
+                },
+                {
+                    "word": " drew",
+                    "start": 28.26,
+                    "end": 28.68,
+                    "probability": 0.9741163849830627
+                },
+                {
+                    "word": " 15",
+                    "start": 28.68,
+                    "end": 29.42,
+                    "probability": 0.4799717366695404
+                },
+                {
+                    "word": " lakh",
+                    "start": 29.42,
+                    "end": 29.94,
+                    "probability": 0.7919953465461731
+                },
+                {
+                    "word": " salary",
+                    "start": 29.94,
+                    "end": 30.54,
+                    "probability": 0.9834475517272949
+                },
+                {
+                    "word": " because",
+                    "start": 30.54,
+                    "end": 32.56,
+                    "probability": 0.4849756956100464
+                },
+                {
+                    "word": " I",
+                    "start": 32.56,
+                    "end": 32.78,
+                    "probability": 0.9779466390609741
+                },
+                {
+                    "word": " was",
+                    "start": 32.78,
+                    "end": 32.98,
+                    "probability": 0.9961530566215515
+                },
+                {
+                    "word": " married",
+                    "start": 32.98,
+                    "end": 33.2,
+                    "probability": 0.7822462916374207
+                },
+                {
+                    "word": " by",
+                    "start": 33.2,
+                    "end": 33.54,
+                    "probability": 0.9280343055725098
+                },
+                {
+                    "word": " then,",
+                    "start": 33.54,
+                    "end": 34.04,
+                    "probability": 0.983059287071228
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2640,
+            "start": 34.24,
+            "end": 38.82,
+            "text": " fear then it was acquired by an academy and then I went to the market level salary.",
+            "tokens": [
+                50748,
+                4240,
+                550,
+                309,
+                390,
+                17554,
+                538,
+                364,
+                25525,
+                293,
+                550,
+                286,
+                1437,
+                281,
+                264,
+                2142,
+                1496,
+                15360,
+                13,
+                51012
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33936685415414664,
+            "compression_ratio": 1.4578313253012047,
+            "no_speech_prob": 0.13801266252994537,
+            "words": [
+                {
+                    "word": " fear",
+                    "start": 34.24,
+                    "end": 34.42,
+                    "probability": 0.15178650617599487
+                },
+                {
+                    "word": " then",
+                    "start": 34.42,
+                    "end": 34.68,
+                    "probability": 0.7377908825874329
+                },
+                {
+                    "word": " it",
+                    "start": 34.68,
+                    "end": 34.82,
+                    "probability": 0.8289496898651123
+                },
+                {
+                    "word": " was",
+                    "start": 34.82,
+                    "end": 35.0,
+                    "probability": 0.9951220154762268
+                },
+                {
+                    "word": " acquired",
+                    "start": 35.0,
+                    "end": 35.38,
+                    "probability": 0.9831156134605408
+                },
+                {
+                    "word": " by",
+                    "start": 35.38,
+                    "end": 36.18,
+                    "probability": 0.9913793802261353
+                },
+                {
+                    "word": " an",
+                    "start": 36.18,
+                    "end": 36.32,
+                    "probability": 0.6365075707435608
+                },
+                {
+                    "word": " academy",
+                    "start": 36.32,
+                    "end": 36.7,
+                    "probability": 0.7627841234207153
+                },
+                {
+                    "word": " and",
+                    "start": 36.7,
+                    "end": 37.16,
+                    "probability": 0.7206488251686096
+                },
+                {
+                    "word": " then",
+                    "start": 37.16,
+                    "end": 37.36,
+                    "probability": 0.9431312084197998
+                },
+                {
+                    "word": " I",
+                    "start": 37.36,
+                    "end": 37.48,
+                    "probability": 0.9663359522819519
+                },
+                {
+                    "word": " went",
+                    "start": 37.48,
+                    "end": 37.64,
+                    "probability": 0.9974210262298584
+                },
+                {
+                    "word": " to",
+                    "start": 37.64,
+                    "end": 37.82,
+                    "probability": 0.993124783039093
+                },
+                {
+                    "word": " the",
+                    "start": 37.82,
+                    "end": 37.9,
+                    "probability": 0.9825499653816223
+                },
+                {
+                    "word": " market",
+                    "start": 37.9,
+                    "end": 38.16,
+                    "probability": 0.935932457447052
+                },
+                {
+                    "word": " level",
+                    "start": 38.16,
+                    "end": 38.4,
+                    "probability": 0.8455735445022583
+                },
+                {
+                    "word": " salary.",
+                    "start": 38.4,
+                    "end": 38.82,
+                    "probability": 0.9934555888175964
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2640,
+            "start": 39.56,
+            "end": 45.3,
+            "text": " But then again for the last 8-9 months I am on 0 because I have left it for 2 work on my.",
+            "tokens": [
+                51012,
+                583,
+                550,
+                797,
+                337,
+                264,
+                1036,
+                1649,
+                12,
+                24,
+                2493,
+                286,
+                669,
+                322,
+                1958,
+                570,
+                286,
+                362,
+                1411,
+                309,
+                337,
+                568,
+                589,
+                322,
+                452,
+                13,
+                51312
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.33936685415414664,
+            "compression_ratio": 1.4578313253012047,
+            "no_speech_prob": 0.13801266252994537,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 39.56,
+                    "end": 39.68,
+                    "probability": 0.9561818242073059
+                },
+                {
+                    "word": " then",
+                    "start": 39.68,
+                    "end": 39.86,
+                    "probability": 0.9682173728942871
+                },
+                {
+                    "word": " again",
+                    "start": 39.86,
+                    "end": 40.16,
+                    "probability": 0.8729269504547119
+                },
+                {
+                    "word": " for",
+                    "start": 40.16,
+                    "end": 40.54,
+                    "probability": 0.6421343088150024
+                },
+                {
+                    "word": " the",
+                    "start": 40.54,
+                    "end": 40.66,
+                    "probability": 0.992012083530426
+                },
+                {
+                    "word": " last",
+                    "start": 40.66,
+                    "end": 41.32,
+                    "probability": 0.9974218606948853
+                },
+                {
+                    "word": " 8",
+                    "start": 41.32,
+                    "end": 41.58,
+                    "probability": 0.5820109844207764
+                },
+                {
+                    "word": "-9",
+                    "start": 41.58,
+                    "end": 41.84,
+                    "probability": 0.6920735538005829
+                },
+                {
+                    "word": " months",
+                    "start": 41.84,
+                    "end": 42.1,
+                    "probability": 0.9769381284713745
+                },
+                {
+                    "word": " I",
+                    "start": 42.1,
+                    "end": 42.2,
+                    "probability": 0.7361040115356445
+                },
+                {
+                    "word": " am",
+                    "start": 42.2,
+                    "end": 42.28,
+                    "probability": 0.854283332824707
+                },
+                {
+                    "word": " on",
+                    "start": 42.28,
+                    "end": 42.38,
+                    "probability": 0.9675687551498413
+                },
+                {
+                    "word": " 0",
+                    "start": 42.38,
+                    "end": 42.66,
+                    "probability": 0.34731438755989075
+                },
+                {
+                    "word": " because",
+                    "start": 42.66,
+                    "end": 43.04,
+                    "probability": 0.8341183662414551
+                },
+                {
+                    "word": " I",
+                    "start": 43.04,
+                    "end": 43.22,
+                    "probability": 0.992151141166687
+                },
+                {
+                    "word": " have",
+                    "start": 43.22,
+                    "end": 43.36,
+                    "probability": 0.9897140860557556
+                },
+                {
+                    "word": " left",
+                    "start": 43.36,
+                    "end": 43.54,
+                    "probability": 0.9484401345252991
+                },
+                {
+                    "word": " it",
+                    "start": 43.54,
+                    "end": 43.96,
+                    "probability": 0.9639912843704224
+                },
+                {
+                    "word": " for",
+                    "start": 43.96,
+                    "end": 44.1,
+                    "probability": 0.9713659882545471
+                },
+                {
+                    "word": " 2",
+                    "start": 44.1,
+                    "end": 44.8,
+                    "probability": 0.7428666949272156
+                },
+                {
+                    "word": " work",
+                    "start": 44.8,
+                    "end": 45.0,
+                    "probability": 0.47364139556884766
+                },
+                {
+                    "word": " on",
+                    "start": 45.0,
+                    "end": 45.16,
+                    "probability": 0.9414047002792358
+                },
+                {
+                    "word": " my.",
+                    "start": 45.16,
+                    "end": 45.3,
+                    "probability": 0.7293941378593445
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

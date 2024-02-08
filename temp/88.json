@@ -1,0 +1,134 @@
+{
+    "text": " Once more like style expectations. Everyone they are waiting foravatam to get red",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.92,
+            "text": " Once more like style expectations.",
+            "tokens": [
+                50364,
+                3443,
+                544,
+                411,
+                3758,
+                9843,
+                13,
+                50571
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.110294160388765,
+            "compression_ratio": 1.051948051948052,
+            "no_speech_prob": 0.04229728877544403,
+            "words": [
+                {
+                    "word": " Once",
+                    "start": 0.0,
+                    "end": 0.84,
+                    "probability": 0.0006498844013549387
+                },
+                {
+                    "word": " more",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.021388769149780273
+                },
+                {
+                    "word": " like",
+                    "start": 1.06,
+                    "end": 1.3,
+                    "probability": 0.03316549211740494
+                },
+                {
+                    "word": " style",
+                    "start": 1.3,
+                    "end": 1.5,
+                    "probability": 0.5401636362075806
+                },
+                {
+                    "word": " expectations.",
+                    "start": 1.5,
+                    "end": 1.92,
+                    "probability": 0.0699102059006691
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.36,
+            "end": 5.5,
+            "text": " Everyone they are waiting foravatam to get red",
+            "tokens": [
+                50571,
+                5198,
+                436,
+                366,
+                3806,
+                337,
+                39559,
+                335,
+                281,
+                483,
+                2182,
+                50898
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.110294160388765,
+            "compression_ratio": 1.051948051948052,
+            "no_speech_prob": 0.04229728877544403,
+            "words": [
+                {
+                    "word": " Everyone",
+                    "start": 3.36,
+                    "end": 3.62,
+                    "probability": 0.003259707475081086
+                },
+                {
+                    "word": " they",
+                    "start": 3.62,
+                    "end": 4.02,
+                    "probability": 0.001892965636216104
+                },
+                {
+                    "word": " are",
+                    "start": 4.02,
+                    "end": 4.24,
+                    "probability": 0.13191254436969757
+                },
+                {
+                    "word": " waiting",
+                    "start": 4.24,
+                    "end": 4.56,
+                    "probability": 0.023384423926472664
+                },
+                {
+                    "word": " foravatam",
+                    "start": 4.56,
+                    "end": 4.8,
+                    "probability": 0.21285205064062515
+                },
+                {
+                    "word": " to",
+                    "start": 4.8,
+                    "end": 5.16,
+                    "probability": 0.17322683334350586
+                },
+                {
+                    "word": " get",
+                    "start": 5.16,
+                    "end": 5.5,
+                    "probability": 0.0343746580183506
+                },
+                {
+                    "word": " red",
+                    "start": 5.5,
+                    "end": 5.5,
+                    "probability": 0.0007453616126440465
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

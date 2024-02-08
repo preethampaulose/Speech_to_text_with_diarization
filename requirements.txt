@@ -1,0 +1,7 @@
+pydub
+pyannote.audio
+onnxruntime
+torch~=2.1.2
+openai-whisper
+yt_dlp
+ffmpeg-python

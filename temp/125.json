@@ -1,0 +1,157 @@
+{
+    "text": " hello nobody was supposed to find me you are still thinking? I don't know",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.64,
+            "text": " hello nobody was supposed to find me",
+            "tokens": [
+                50364,
+                7751,
+                5079,
+                390,
+                3442,
+                281,
+                915,
+                385,
+                50461
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.7014478600543477,
+            "compression_ratio": 1.0138888888888888,
+            "no_speech_prob": 0.2545756995677948,
+            "words": [
+                {
+                    "word": " hello",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.00013611385656986386
+                },
+                {
+                    "word": " nobody",
+                    "start": 0.4,
+                    "end": 0.56,
+                    "probability": 0.003542659804224968
+                },
+                {
+                    "word": " was",
+                    "start": 0.56,
+                    "end": 0.74,
+                    "probability": 0.273639053106308
+                },
+                {
+                    "word": " supposed",
+                    "start": 0.74,
+                    "end": 1.02,
+                    "probability": 0.02568974159657955
+                },
+                {
+                    "word": " to",
+                    "start": 1.02,
+                    "end": 1.64,
+                    "probability": 0.9796183109283447
+                },
+                {
+                    "word": " find",
+                    "start": 1.64,
+                    "end": 1.64,
+                    "probability": 0.0006956706056371331
+                },
+                {
+                    "word": " me",
+                    "start": 1.64,
+                    "end": 1.64,
+                    "probability": 0.17270663380622864
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.64,
+            "end": 3.04,
+            "text": " you are still thinking?",
+            "tokens": [
+                50461,
+                291,
+                366,
+                920,
+                1953,
+                30,
+                50528
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.7014478600543477,
+            "compression_ratio": 1.0138888888888888,
+            "no_speech_prob": 0.2545756995677948,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 1.64,
+                    "end": 1.64,
+                    "probability": 0.007559563033282757
+                },
+                {
+                    "word": " are",
+                    "start": 1.64,
+                    "end": 1.64,
+                    "probability": 0.052523594349622726
+                },
+                {
+                    "word": " still",
+                    "start": 1.64,
+                    "end": 1.86,
+                    "probability": 0.005761291831731796
+                },
+                {
+                    "word": " thinking?",
+                    "start": 1.86,
+                    "end": 3.04,
+                    "probability": 0.01566597819328308
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 3.48,
+            "end": 4.32,
+            "text": " I don't know",
+            "tokens": [
+                50528,
+                286,
+                500,
+                380,
+                458,
+                50613
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.7014478600543477,
+            "compression_ratio": 1.0138888888888888,
+            "no_speech_prob": 0.2545756995677948,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 3.48,
+                    "end": 3.6,
+                    "probability": 0.35451406240463257
+                },
+                {
+                    "word": " don't",
+                    "start": 3.6,
+                    "end": 4.08,
+                    "probability": 0.8791544437408447
+                },
+                {
+                    "word": " know",
+                    "start": 4.08,
+                    "end": 4.32,
+                    "probability": 0.9759718775749207
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

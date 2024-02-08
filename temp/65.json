@@ -1,0 +1,66 @@
+{
+    "text": " Goal, pan, goal, pan, goal.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.66,
+            "text": " Goal, pan, goal, pan, goal.",
+            "tokens": [
+                50364,
+                1037,
+                304,
+                11,
+                2462,
+                11,
+                352,
+                304,
+                11,
+                2462,
+                11,
+                352,
+                304,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8434233069419861,
+            "compression_ratio": 1.173913043478261,
+            "no_speech_prob": 0.6690315008163452,
+            "words": [
+                {
+                    "word": " Goal,",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.3260465357452631
+                },
+                {
+                    "word": " pan,",
+                    "start": 0.3,
+                    "end": 0.38,
+                    "probability": 0.42164239287376404
+                },
+                {
+                    "word": " goal,",
+                    "start": 0.48,
+                    "end": 0.62,
+                    "probability": 0.692327544093132
+                },
+                {
+                    "word": " pan,",
+                    "start": 0.66,
+                    "end": 0.66,
+                    "probability": 0.8379185795783997
+                },
+                {
+                    "word": " goal.",
+                    "start": 0.66,
+                    "end": 0.66,
+                    "probability": 0.9753016233444214
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

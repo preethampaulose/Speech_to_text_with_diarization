@@ -1,0 +1,62 @@
+{
+    "text": " Your G-E\u0438\u043b\u0430\u0441\u044ciggling coming up.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.68,
+            "text": " Your G-E\u0438\u043b\u0430\u0441\u044ciggling coming up.",
+            "tokens": [
+                50364,
+                2260,
+                460,
+                12,
+                36,
+                19522,
+                24542,
+                1348,
+                493,
+                13,
+                50424
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.23881467183431,
+            "compression_ratio": 0.8571428571428571,
+            "no_speech_prob": 0.4880024492740631,
+            "words": [
+                {
+                    "word": " Your",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.05162389576435089
+                },
+                {
+                    "word": " G",
+                    "start": 0.2,
+                    "end": 0.38,
+                    "probability": 0.13788755238056183
+                },
+                {
+                    "word": "-E\u0438\u043b\u0430\u0441\u044ciggling",
+                    "start": 0.38,
+                    "end": 0.68,
+                    "probability": 0.039355421121172185
+                },
+                {
+                    "word": " coming",
+                    "start": 0.68,
+                    "end": 0.68,
+                    "probability": 0.00014145627210382372
+                },
+                {
+                    "word": " up.",
+                    "start": 0.68,
+                    "end": 0.68,
+                    "probability": 0.07409553974866867
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,1158 @@
+{
+    "text": " What are the biggest insecurities you face currently in your life? So, I am from Dapur Rajasthan and Abmiri posting a Karnataka in basically around two years ago. My grandfather during COVID-19 phase 2. So, he was sick and admitted. He had a proper lockdown. I couldn't go and see him and he passed away. So, after that, he said that the government was going to die. He was going to die. He was going to die and he would have to go to the hospital. I don't see that in future, I have to take care of my family and family. So, the kidder is fixed. It is kind of fixed. So, we have to serve wherever we are, a lot to throw out our life.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.32,
+            "text": " What are the biggest insecurities you face currently in your life?",
+            "tokens": [
+                50364,
+                708,
+                366,
+                264,
+                3880,
+                18851,
+                21973,
+                291,
+                1851,
+                4362,
+                294,
+                428,
+                993,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47356512281629776,
+            "compression_ratio": 1.3755656108597285,
+            "no_speech_prob": 0.03568273037672043,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.2995576858520508
+                },
+                {
+                    "word": " are",
+                    "start": 0.56,
+                    "end": 0.78,
+                    "probability": 0.9467536807060242
+                },
+                {
+                    "word": " the",
+                    "start": 0.78,
+                    "end": 0.96,
+                    "probability": 0.9799590110778809
+                },
+                {
+                    "word": " biggest",
+                    "start": 0.96,
+                    "end": 1.3,
+                    "probability": 0.9920836687088013
+                },
+                {
+                    "word": " insecurities",
+                    "start": 1.3,
+                    "end": 2.14,
+                    "probability": 0.9860389232635498
+                },
+                {
+                    "word": " you",
+                    "start": 2.14,
+                    "end": 2.42,
+                    "probability": 0.9283098578453064
+                },
+                {
+                    "word": " face",
+                    "start": 2.42,
+                    "end": 2.68,
+                    "probability": 0.8078078031539917
+                },
+                {
+                    "word": " currently",
+                    "start": 2.68,
+                    "end": 3.08,
+                    "probability": 0.9219709634780884
+                },
+                {
+                    "word": " in",
+                    "start": 3.08,
+                    "end": 3.38,
+                    "probability": 0.9973171353340149
+                },
+                {
+                    "word": " your",
+                    "start": 3.38,
+                    "end": 3.44,
+                    "probability": 0.9988970756530762
+                },
+                {
+                    "word": " life?",
+                    "start": 3.44,
+                    "end": 4.32,
+                    "probability": 0.9981414079666138
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.38,
+            "end": 13.98,
+            "text": " So, I am from Dapur Rajasthan and Abmiri posting a Karnataka in basically around two years ago.",
+            "tokens": [
+                50614,
+                407,
+                11,
+                286,
+                669,
+                490,
+                413,
+                569,
+                374,
+                16745,
+                296,
+                24852,
+                293,
+                2847,
+                76,
+                12988,
+                15978,
+                257,
+                591,
+                1083,
+                267,
+                7849,
+                294,
+                1936,
+                926,
+                732,
+                924,
+                2057,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47356512281629776,
+            "compression_ratio": 1.3755656108597285,
+            "no_speech_prob": 0.03568273037672043,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 6.38,
+                    "end": 6.38,
+                    "probability": 0.7804164290428162
+                },
+                {
+                    "word": " I",
+                    "start": 7.42,
+                    "end": 7.62,
+                    "probability": 0.8893837332725525
+                },
+                {
+                    "word": " am",
+                    "start": 7.62,
+                    "end": 7.76,
+                    "probability": 0.9675832390785217
+                },
+                {
+                    "word": " from",
+                    "start": 7.76,
+                    "end": 7.98,
+                    "probability": 0.9860803484916687
+                },
+                {
+                    "word": " Dapur",
+                    "start": 7.98,
+                    "end": 8.32,
+                    "probability": 0.45040710767110187
+                },
+                {
+                    "word": " Rajasthan",
+                    "start": 8.32,
+                    "end": 8.9,
+                    "probability": 0.829020102818807
+                },
+                {
+                    "word": " and",
+                    "start": 8.9,
+                    "end": 9.46,
+                    "probability": 0.7771874666213989
+                },
+                {
+                    "word": " Abmiri",
+                    "start": 9.46,
+                    "end": 9.86,
+                    "probability": 0.4095485160748164
+                },
+                {
+                    "word": " posting",
+                    "start": 9.86,
+                    "end": 10.22,
+                    "probability": 0.9044122099876404
+                },
+                {
+                    "word": " a",
+                    "start": 10.22,
+                    "end": 10.56,
+                    "probability": 0.12332730740308762
+                },
+                {
+                    "word": " Karnataka",
+                    "start": 10.56,
+                    "end": 11.12,
+                    "probability": 0.6694475449621677
+                },
+                {
+                    "word": " in",
+                    "start": 11.12,
+                    "end": 11.68,
+                    "probability": 0.14491501450538635
+                },
+                {
+                    "word": " basically",
+                    "start": 11.68,
+                    "end": 12.24,
+                    "probability": 0.1488267481327057
+                },
+                {
+                    "word": " around",
+                    "start": 12.24,
+                    "end": 12.78,
+                    "probability": 0.9550225734710693
+                },
+                {
+                    "word": " two",
+                    "start": 12.78,
+                    "end": 12.94,
+                    "probability": 0.6594847440719604
+                },
+                {
+                    "word": " years",
+                    "start": 12.94,
+                    "end": 13.14,
+                    "probability": 0.9937087297439575
+                },
+                {
+                    "word": " ago.",
+                    "start": 13.14,
+                    "end": 13.98,
+                    "probability": 0.9991512298583984
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 14.24,
+            "end": 16.96,
+            "text": " My grandfather during COVID-19 phase 2.",
+            "tokens": [
+                51064,
+                1222,
+                14754,
+                1830,
+                4566,
+                12,
+                3405,
+                5574,
+                568,
+                13,
+                51214
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47356512281629776,
+            "compression_ratio": 1.3755656108597285,
+            "no_speech_prob": 0.03568273037672043,
+            "words": [
+                {
+                    "word": " My",
+                    "start": 14.24,
+                    "end": 14.28,
+                    "probability": 0.9860304594039917
+                },
+                {
+                    "word": " grandfather",
+                    "start": 14.28,
+                    "end": 14.72,
+                    "probability": 0.9737179279327393
+                },
+                {
+                    "word": " during",
+                    "start": 14.72,
+                    "end": 15.36,
+                    "probability": 0.8107184171676636
+                },
+                {
+                    "word": " COVID",
+                    "start": 15.36,
+                    "end": 15.88,
+                    "probability": 0.5477085709571838
+                },
+                {
+                    "word": "-19",
+                    "start": 15.88,
+                    "end": 16.16,
+                    "probability": 0.4157301038503647
+                },
+                {
+                    "word": " phase",
+                    "start": 16.16,
+                    "end": 16.2,
+                    "probability": 0.5310774445533752
+                },
+                {
+                    "word": " 2.",
+                    "start": 16.2,
+                    "end": 16.96,
+                    "probability": 0.5342676043510437
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 17.4,
+            "end": 19.08,
+            "text": " So, he was sick and admitted.",
+            "tokens": [
+                51214,
+                407,
+                11,
+                415,
+                390,
+                4998,
+                293,
+                14920,
+                13,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47356512281629776,
+            "compression_ratio": 1.3755656108597285,
+            "no_speech_prob": 0.03568273037672043,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 17.4,
+                    "end": 17.42,
+                    "probability": 0.9401943683624268
+                },
+                {
+                    "word": " he",
+                    "start": 17.52,
+                    "end": 17.58,
+                    "probability": 0.9781252145767212
+                },
+                {
+                    "word": " was",
+                    "start": 17.58,
+                    "end": 17.86,
+                    "probability": 0.9950352907180786
+                },
+                {
+                    "word": " sick",
+                    "start": 17.86,
+                    "end": 18.18,
+                    "probability": 0.4261166751384735
+                },
+                {
+                    "word": " and",
+                    "start": 18.18,
+                    "end": 18.58,
+                    "probability": 0.9800618290901184
+                },
+                {
+                    "word": " admitted.",
+                    "start": 18.58,
+                    "end": 19.08,
+                    "probability": 0.7885745167732239
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 19.96,
+            "end": 20.7,
+            "text": " He had a proper lockdown.",
+            "tokens": [
+                51314,
+                634,
+                632,
+                257,
+                2296,
+                17267,
+                13,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47356512281629776,
+            "compression_ratio": 1.3755656108597285,
+            "no_speech_prob": 0.03568273037672043,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 19.96,
+                    "end": 19.96,
+                    "probability": 0.6346350908279419
+                },
+                {
+                    "word": " had",
+                    "start": 19.96,
+                    "end": 20.1,
+                    "probability": 0.19147923588752747
+                },
+                {
+                    "word": " a",
+                    "start": 20.1,
+                    "end": 20.12,
+                    "probability": 0.44569531083106995
+                },
+                {
+                    "word": " proper",
+                    "start": 20.12,
+                    "end": 20.38,
+                    "probability": 0.9291133880615234
+                },
+                {
+                    "word": " lockdown.",
+                    "start": 20.38,
+                    "end": 20.7,
+                    "probability": 0.9692427515983582
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 21.22,
+            "end": 23.52,
+            "text": " I couldn't go and see him and he passed away.",
+            "tokens": [
+                51414,
+                286,
+                2809,
+                380,
+                352,
+                293,
+                536,
+                796,
+                293,
+                415,
+                4678,
+                1314,
+                13,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47356512281629776,
+            "compression_ratio": 1.3755656108597285,
+            "no_speech_prob": 0.03568273037672043,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 21.22,
+                    "end": 21.4,
+                    "probability": 0.6731114983558655
+                },
+                {
+                    "word": " couldn't",
+                    "start": 21.4,
+                    "end": 21.72,
+                    "probability": 0.9619555175304413
+                },
+                {
+                    "word": " go",
+                    "start": 21.72,
+                    "end": 21.88,
+                    "probability": 0.9337836503982544
+                },
+                {
+                    "word": " and",
+                    "start": 21.88,
+                    "end": 22.08,
+                    "probability": 0.8243280053138733
+                },
+                {
+                    "word": " see",
+                    "start": 22.08,
+                    "end": 22.24,
+                    "probability": 0.991762638092041
+                },
+                {
+                    "word": " him",
+                    "start": 22.24,
+                    "end": 22.52,
+                    "probability": 0.8752632737159729
+                },
+                {
+                    "word": " and",
+                    "start": 22.52,
+                    "end": 22.68,
+                    "probability": 0.8659908175468445
+                },
+                {
+                    "word": " he",
+                    "start": 22.68,
+                    "end": 22.84,
+                    "probability": 0.9595459699630737
+                },
+                {
+                    "word": " passed",
+                    "start": 22.84,
+                    "end": 23.12,
+                    "probability": 0.994875967502594
+                },
+                {
+                    "word": " away.",
+                    "start": 23.12,
+                    "end": 23.52,
+                    "probability": 0.999500036239624
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 2352,
+            "start": 24.440000000000005,
+            "end": 29.86,
+            "text": " So, after that, he said that the government was going to die.",
+            "tokens": [
+                50414,
+                407,
+                11,
+                934,
+                300,
+                11,
+                415,
+                848,
+                300,
+                264,
+                2463,
+                390,
+                516,
+                281,
+                978,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8149941388298484,
+            "compression_ratio": 1.75,
+            "no_speech_prob": 0.0025888606905937195,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 24.440000000000005,
+                    "end": 24.92,
+                    "probability": 0.2105652093887329
+                },
+                {
+                    "word": " after",
+                    "start": 25.14,
+                    "end": 25.24,
+                    "probability": 0.28994596004486084
+                },
+                {
+                    "word": " that,",
+                    "start": 25.24,
+                    "end": 25.24,
+                    "probability": 0.2558140754699707
+                },
+                {
+                    "word": " he",
+                    "start": 25.6,
+                    "end": 25.84,
+                    "probability": 0.013002102263271809
+                },
+                {
+                    "word": " said",
+                    "start": 25.84,
+                    "end": 26.88,
+                    "probability": 0.24797320365905762
+                },
+                {
+                    "word": " that",
+                    "start": 26.88,
+                    "end": 27.68,
+                    "probability": 0.38906770944595337
+                },
+                {
+                    "word": " the",
+                    "start": 27.68,
+                    "end": 27.68,
+                    "probability": 0.15489651262760162
+                },
+                {
+                    "word": " government",
+                    "start": 27.68,
+                    "end": 28.12,
+                    "probability": 0.2653658092021942
+                },
+                {
+                    "word": " was",
+                    "start": 28.12,
+                    "end": 28.64,
+                    "probability": 0.23891803622245789
+                },
+                {
+                    "word": " going",
+                    "start": 28.64,
+                    "end": 28.7,
+                    "probability": 0.11974730342626572
+                },
+                {
+                    "word": " to",
+                    "start": 28.7,
+                    "end": 29.14,
+                    "probability": 0.9036912322044373
+                },
+                {
+                    "word": " die.",
+                    "start": 29.14,
+                    "end": 29.86,
+                    "probability": 0.018841402605175972
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2352,
+            "start": 30.740000000000002,
+            "end": 31.3,
+            "text": " He was going to die.",
+            "tokens": [
+                50664,
+                634,
+                390,
+                516,
+                281,
+                978,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8149941388298484,
+            "compression_ratio": 1.75,
+            "no_speech_prob": 0.0025888606905937195,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 30.740000000000002,
+                    "end": 31.22,
+                    "probability": 0.13328640162944794
+                },
+                {
+                    "word": " was",
+                    "start": 31.22,
+                    "end": 31.28,
+                    "probability": 0.10670050233602524
+                },
+                {
+                    "word": " going",
+                    "start": 31.28,
+                    "end": 31.28,
+                    "probability": 0.4820927679538727
+                },
+                {
+                    "word": " to",
+                    "start": 31.28,
+                    "end": 31.3,
+                    "probability": 0.922753095626831
+                },
+                {
+                    "word": " die.",
+                    "start": 31.3,
+                    "end": 31.3,
+                    "probability": 0.17255067825317383
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2352,
+            "start": 31.48,
+            "end": 33.48,
+            "text": " He was going to die and he would have to go to the hospital.",
+            "tokens": [
+                50764,
+                634,
+                390,
+                516,
+                281,
+                978,
+                293,
+                415,
+                576,
+                362,
+                281,
+                352,
+                281,
+                264,
+                4530,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8149941388298484,
+            "compression_ratio": 1.75,
+            "no_speech_prob": 0.0025888606905937195,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 31.48,
+                    "end": 31.64,
+                    "probability": 0.2875872254371643
+                },
+                {
+                    "word": " was",
+                    "start": 31.64,
+                    "end": 31.66,
+                    "probability": 0.13666360080242157
+                },
+                {
+                    "word": " going",
+                    "start": 31.66,
+                    "end": 31.72,
+                    "probability": 0.6238662004470825
+                },
+                {
+                    "word": " to",
+                    "start": 31.72,
+                    "end": 31.74,
+                    "probability": 0.9368680715560913
+                },
+                {
+                    "word": " die",
+                    "start": 31.74,
+                    "end": 32.12,
+                    "probability": 0.16066324710845947
+                },
+                {
+                    "word": " and",
+                    "start": 32.12,
+                    "end": 32.36,
+                    "probability": 0.14312860369682312
+                },
+                {
+                    "word": " he",
+                    "start": 32.36,
+                    "end": 32.56,
+                    "probability": 0.2291450947523117
+                },
+                {
+                    "word": " would",
+                    "start": 32.56,
+                    "end": 32.66,
+                    "probability": 0.26367801427841187
+                },
+                {
+                    "word": " have",
+                    "start": 32.66,
+                    "end": 33.48,
+                    "probability": 0.1278550773859024
+                },
+                {
+                    "word": " to",
+                    "start": 33.48,
+                    "end": 33.48,
+                    "probability": 0.7457044124603271
+                },
+                {
+                    "word": " go",
+                    "start": 33.48,
+                    "end": 33.48,
+                    "probability": 0.10868511348962784
+                },
+                {
+                    "word": " to",
+                    "start": 33.48,
+                    "end": 33.48,
+                    "probability": 0.4947199523448944
+                },
+                {
+                    "word": " the",
+                    "start": 33.48,
+                    "end": 33.48,
+                    "probability": 0.2583668828010559
+                },
+                {
+                    "word": " hospital.",
+                    "start": 33.48,
+                    "end": 33.48,
+                    "probability": 0.019693398848176003
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 2352,
+            "start": 34.800000000000004,
+            "end": 39.2,
+            "text": " I don't see that in future, I have to take care of my family and family.",
+            "tokens": [
+                50914,
+                286,
+                500,
+                380,
+                536,
+                300,
+                294,
+                2027,
+                11,
+                286,
+                362,
+                281,
+                747,
+                1127,
+                295,
+                452,
+                1605,
+                293,
+                1605,
+                13,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8149941388298484,
+            "compression_ratio": 1.75,
+            "no_speech_prob": 0.0025888606905937195,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 34.800000000000004,
+                    "end": 35.28,
+                    "probability": 0.36860528588294983
+                },
+                {
+                    "word": " don't",
+                    "start": 35.28,
+                    "end": 35.54,
+                    "probability": 0.8969777226448059
+                },
+                {
+                    "word": " see",
+                    "start": 35.54,
+                    "end": 35.82,
+                    "probability": 0.980962336063385
+                },
+                {
+                    "word": " that",
+                    "start": 35.82,
+                    "end": 36.08,
+                    "probability": 0.48162388801574707
+                },
+                {
+                    "word": " in",
+                    "start": 36.08,
+                    "end": 36.08,
+                    "probability": 0.20818018913269043
+                },
+                {
+                    "word": " future,",
+                    "start": 36.08,
+                    "end": 36.56,
+                    "probability": 0.5321584343910217
+                },
+                {
+                    "word": " I",
+                    "start": 37.2,
+                    "end": 37.32,
+                    "probability": 0.3411600589752197
+                },
+                {
+                    "word": " have",
+                    "start": 37.32,
+                    "end": 37.54,
+                    "probability": 0.16626304388046265
+                },
+                {
+                    "word": " to",
+                    "start": 37.54,
+                    "end": 37.54,
+                    "probability": 0.13302874565124512
+                },
+                {
+                    "word": " take",
+                    "start": 37.54,
+                    "end": 37.84,
+                    "probability": 0.17902927100658417
+                },
+                {
+                    "word": " care",
+                    "start": 37.84,
+                    "end": 37.84,
+                    "probability": 0.37643128633499146
+                },
+                {
+                    "word": " of",
+                    "start": 37.84,
+                    "end": 38.26,
+                    "probability": 0.9799165725708008
+                },
+                {
+                    "word": " my",
+                    "start": 38.26,
+                    "end": 38.26,
+                    "probability": 0.6845608949661255
+                },
+                {
+                    "word": " family",
+                    "start": 38.26,
+                    "end": 38.9,
+                    "probability": 0.6141074895858765
+                },
+                {
+                    "word": " and",
+                    "start": 38.9,
+                    "end": 38.9,
+                    "probability": 0.13539598882198334
+                },
+                {
+                    "word": " family.",
+                    "start": 38.9,
+                    "end": 39.2,
+                    "probability": 0.3031257688999176
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 2352,
+            "start": 39.78,
+            "end": 40.86,
+            "text": " So, the kidder is fixed.",
+            "tokens": [
+                51164,
+                407,
+                11,
+                264,
+                1636,
+                1068,
+                307,
+                6806,
+                13,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8149941388298484,
+            "compression_ratio": 1.75,
+            "no_speech_prob": 0.0025888606905937195,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 39.78,
+                    "end": 39.92,
+                    "probability": 0.6270288228988647
+                },
+                {
+                    "word": " the",
+                    "start": 40.1,
+                    "end": 40.1,
+                    "probability": 0.7214295864105225
+                },
+                {
+                    "word": " kidder",
+                    "start": 40.1,
+                    "end": 40.4,
+                    "probability": 0.6561083495616913
+                },
+                {
+                    "word": " is",
+                    "start": 40.4,
+                    "end": 40.64,
+                    "probability": 0.9469514489173889
+                },
+                {
+                    "word": " fixed.",
+                    "start": 40.64,
+                    "end": 40.86,
+                    "probability": 0.9543052911758423
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 2352,
+            "start": 41.48,
+            "end": 42.42,
+            "text": " It is kind of fixed.",
+            "tokens": [
+                51264,
+                467,
+                307,
+                733,
+                295,
+                6806,
+                13,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8149941388298484,
+            "compression_ratio": 1.75,
+            "no_speech_prob": 0.0025888606905937195,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 41.48,
+                    "end": 41.72,
+                    "probability": 0.7862314581871033
+                },
+                {
+                    "word": " is",
+                    "start": 41.72,
+                    "end": 41.84,
+                    "probability": 0.8339607119560242
+                },
+                {
+                    "word": " kind",
+                    "start": 41.84,
+                    "end": 42.04,
+                    "probability": 0.8717926144599915
+                },
+                {
+                    "word": " of",
+                    "start": 42.04,
+                    "end": 42.2,
+                    "probability": 0.9947208166122437
+                },
+                {
+                    "word": " fixed.",
+                    "start": 42.2,
+                    "end": 42.42,
+                    "probability": 0.9980463981628418
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2352,
+            "start": 43.8,
+            "end": 47.84,
+            "text": " So, we have to serve wherever we are, a lot to throw out our life.",
+            "tokens": [
+                51364,
+                407,
+                11,
+                321,
+                362,
+                281,
+                4596,
+                8660,
+                321,
+                366,
+                11,
+                257,
+                688,
+                281,
+                3507,
+                484,
+                527,
+                993,
+                13,
+                51564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8149941388298484,
+            "compression_ratio": 1.75,
+            "no_speech_prob": 0.0025888606905937195,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 43.8,
+                    "end": 43.98,
+                    "probability": 0.8566737174987793
+                },
+                {
+                    "word": " we",
+                    "start": 44.12,
+                    "end": 44.18,
+                    "probability": 0.9226289391517639
+                },
+                {
+                    "word": " have",
+                    "start": 44.18,
+                    "end": 44.32,
+                    "probability": 0.9737651348114014
+                },
+                {
+                    "word": " to",
+                    "start": 44.32,
+                    "end": 44.52,
+                    "probability": 0.9957821369171143
+                },
+                {
+                    "word": " serve",
+                    "start": 44.52,
+                    "end": 45.24,
+                    "probability": 0.887962281703949
+                },
+                {
+                    "word": " wherever",
+                    "start": 45.24,
+                    "end": 45.66,
+                    "probability": 0.5933253169059753
+                },
+                {
+                    "word": " we",
+                    "start": 45.66,
+                    "end": 46.02,
+                    "probability": 0.9813411235809326
+                },
+                {
+                    "word": " are,",
+                    "start": 46.02,
+                    "end": 46.2,
+                    "probability": 0.9832815527915955
+                },
+                {
+                    "word": " a",
+                    "start": 46.2,
+                    "end": 46.38,
+                    "probability": 0.2804049849510193
+                },
+                {
+                    "word": " lot",
+                    "start": 46.38,
+                    "end": 46.38,
+                    "probability": 0.9932286143302917
+                },
+                {
+                    "word": " to",
+                    "start": 46.38,
+                    "end": 46.98,
+                    "probability": 0.7202315926551819
+                },
+                {
+                    "word": " throw",
+                    "start": 46.98,
+                    "end": 47.4,
+                    "probability": 0.4978879392147064
+                },
+                {
+                    "word": " out",
+                    "start": 47.4,
+                    "end": 47.56,
+                    "probability": 0.9336661100387573
+                },
+                {
+                    "word": " our",
+                    "start": 47.56,
+                    "end": 47.66,
+                    "probability": 0.9728679060935974
+                },
+                {
+                    "word": " life.",
+                    "start": 47.66,
+                    "end": 47.84,
+                    "probability": 0.8680846691131592
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

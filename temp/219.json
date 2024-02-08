@@ -1,0 +1,279 @@
+{
+    "text": " They have to really work hard to make it through and then they have a much more predictable path. I mean, of course, there is some very nice. Not so far.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.04,
+            "text": " They have to really work hard to make it through and then they have a much more predictable path.",
+            "tokens": [
+                50364,
+                814,
+                362,
+                281,
+                534,
+                589,
+                1152,
+                281,
+                652,
+                309,
+                807,
+                293,
+                550,
+                436,
+                362,
+                257,
+                709,
+                544,
+                27737,
+                3100,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31869225169337073,
+            "compression_ratio": 1.275,
+            "no_speech_prob": 0.1989002376794815,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.4169542193412781
+                },
+                {
+                    "word": " have",
+                    "start": 0.2,
+                    "end": 0.36,
+                    "probability": 0.9348612427711487
+                },
+                {
+                    "word": " to",
+                    "start": 0.36,
+                    "end": 0.64,
+                    "probability": 0.964482843875885
+                },
+                {
+                    "word": " really",
+                    "start": 0.64,
+                    "end": 0.8,
+                    "probability": 0.9471021890640259
+                },
+                {
+                    "word": " work",
+                    "start": 0.8,
+                    "end": 1.02,
+                    "probability": 0.994176983833313
+                },
+                {
+                    "word": " hard",
+                    "start": 1.02,
+                    "end": 1.36,
+                    "probability": 0.9950462579727173
+                },
+                {
+                    "word": " to",
+                    "start": 1.36,
+                    "end": 1.84,
+                    "probability": 0.9886541366577148
+                },
+                {
+                    "word": " make",
+                    "start": 1.84,
+                    "end": 1.98,
+                    "probability": 0.9894898533821106
+                },
+                {
+                    "word": " it",
+                    "start": 1.98,
+                    "end": 2.24,
+                    "probability": 0.9959012866020203
+                },
+                {
+                    "word": " through",
+                    "start": 2.24,
+                    "end": 2.76,
+                    "probability": 0.9774806499481201
+                },
+                {
+                    "word": " and",
+                    "start": 2.76,
+                    "end": 3.12,
+                    "probability": 0.6483005285263062
+                },
+                {
+                    "word": " then",
+                    "start": 3.12,
+                    "end": 3.34,
+                    "probability": 0.9319897890090942
+                },
+                {
+                    "word": " they",
+                    "start": 3.34,
+                    "end": 3.44,
+                    "probability": 0.9648854732513428
+                },
+                {
+                    "word": " have",
+                    "start": 3.44,
+                    "end": 3.6,
+                    "probability": 0.9936593174934387
+                },
+                {
+                    "word": " a",
+                    "start": 3.6,
+                    "end": 3.68,
+                    "probability": 0.9610072374343872
+                },
+                {
+                    "word": " much",
+                    "start": 3.68,
+                    "end": 3.82,
+                    "probability": 0.9941855072975159
+                },
+                {
+                    "word": " more",
+                    "start": 3.82,
+                    "end": 4.06,
+                    "probability": 0.9973871111869812
+                },
+                {
+                    "word": " predictable",
+                    "start": 4.06,
+                    "end": 4.42,
+                    "probability": 0.9880074262619019
+                },
+                {
+                    "word": " path.",
+                    "start": 4.42,
+                    "end": 5.04,
+                    "probability": 0.9957466721534729
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.18,
+            "end": 6.68,
+            "text": " I mean, of course, there is some very nice.",
+            "tokens": [
+                50614,
+                286,
+                914,
+                11,
+                295,
+                1164,
+                11,
+                456,
+                307,
+                512,
+                588,
+                1481,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31869225169337073,
+            "compression_ratio": 1.275,
+            "no_speech_prob": 0.1989002376794815,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 5.18,
+                    "end": 5.18,
+                    "probability": 0.758773148059845
+                },
+                {
+                    "word": " mean,",
+                    "start": 5.18,
+                    "end": 5.46,
+                    "probability": 0.9977072477340698
+                },
+                {
+                    "word": " of",
+                    "start": 5.58,
+                    "end": 5.62,
+                    "probability": 0.9478721618652344
+                },
+                {
+                    "word": " course,",
+                    "start": 5.62,
+                    "end": 5.82,
+                    "probability": 0.99367356300354
+                },
+                {
+                    "word": " there",
+                    "start": 6.04,
+                    "end": 6.04,
+                    "probability": 0.9862798452377319
+                },
+                {
+                    "word": " is",
+                    "start": 6.04,
+                    "end": 6.24,
+                    "probability": 0.9509649276733398
+                },
+                {
+                    "word": " some",
+                    "start": 6.24,
+                    "end": 6.42,
+                    "probability": 0.9880359768867493
+                },
+                {
+                    "word": " very",
+                    "start": 6.42,
+                    "end": 6.6,
+                    "probability": 0.7422558069229126
+                },
+                {
+                    "word": " nice.",
+                    "start": 6.6,
+                    "end": 6.68,
+                    "probability": 0.12405604124069214
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.68,
+            "end": 7.08,
+            "text": " Not so far.",
+            "tokens": [
+                50714,
+                1726,
+                370,
+                1400,
+                13,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.31869225169337073,
+            "compression_ratio": 1.275,
+            "no_speech_prob": 0.1989002376794815,
+            "words": [
+                {
+                    "word": " Not",
+                    "start": 6.68,
+                    "end": 6.88,
+                    "probability": 0.15148256719112396
+                },
+                {
+                    "word": " so",
+                    "start": 6.88,
+                    "end": 7.0,
+                    "probability": 0.798610508441925
+                },
+                {
+                    "word": " far.",
+                    "start": 7.0,
+                    "end": 7.08,
+                    "probability": 0.9786307215690613
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

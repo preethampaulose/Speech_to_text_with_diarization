@@ -1,0 +1,492 @@
+{
+    "text": " I think I struggle with this question. I have understood the equation, which was typical equation, and for financial independence, basically you need around 25 ex of your yearly spend. I think if I only go to very fundamental needs in Bangalore, with the lifestyle which we are living. I think,",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.72,
+            "text": " I think I struggle with this question.",
+            "tokens": [
+                50364,
+                286,
+                519,
+                286,
+                7799,
+                365,
+                341,
+                1168,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4431510222585578,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0015789380995556712,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.8083812594413757
+                },
+                {
+                    "word": " think",
+                    "start": 0.24,
+                    "end": 0.62,
+                    "probability": 0.9883018136024475
+                },
+                {
+                    "word": " I",
+                    "start": 0.62,
+                    "end": 1.22,
+                    "probability": 0.7925447225570679
+                },
+                {
+                    "word": " struggle",
+                    "start": 1.22,
+                    "end": 1.58,
+                    "probability": 0.809450626373291
+                },
+                {
+                    "word": " with",
+                    "start": 1.58,
+                    "end": 1.86,
+                    "probability": 0.9972133040428162
+                },
+                {
+                    "word": " this",
+                    "start": 1.86,
+                    "end": 2.04,
+                    "probability": 0.9932077527046204
+                },
+                {
+                    "word": " question.",
+                    "start": 2.04,
+                    "end": 2.72,
+                    "probability": 0.9966272115707397
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.16,
+            "end": 6.6,
+            "text": " I have understood the equation, which was typical equation,",
+            "tokens": [
+                50564,
+                286,
+                362,
+                7320,
+                264,
+                5367,
+                11,
+                597,
+                390,
+                7476,
+                5367,
+                11,
+                50692
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4431510222585578,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0015789380995556712,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 4.16,
+                    "end": 4.22,
+                    "probability": 0.9940920472145081
+                },
+                {
+                    "word": " have",
+                    "start": 4.22,
+                    "end": 4.4,
+                    "probability": 0.9822009205818176
+                },
+                {
+                    "word": " understood",
+                    "start": 4.4,
+                    "end": 4.72,
+                    "probability": 0.9990348815917969
+                },
+                {
+                    "word": " the",
+                    "start": 4.72,
+                    "end": 4.96,
+                    "probability": 0.9890034794807434
+                },
+                {
+                    "word": " equation,",
+                    "start": 4.96,
+                    "end": 5.36,
+                    "probability": 0.9851374626159668
+                },
+                {
+                    "word": " which",
+                    "start": 5.42,
+                    "end": 5.56,
+                    "probability": 0.9506549835205078
+                },
+                {
+                    "word": " was",
+                    "start": 5.56,
+                    "end": 5.82,
+                    "probability": 0.49509677290916443
+                },
+                {
+                    "word": " typical",
+                    "start": 5.82,
+                    "end": 6.12,
+                    "probability": 0.5353028774261475
+                },
+                {
+                    "word": " equation,",
+                    "start": 6.12,
+                    "end": 6.6,
+                    "probability": 0.9455623030662537
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.82,
+            "end": 12.0,
+            "text": " and for financial independence, basically you need around 25",
+            "tokens": [
+                50692,
+                293,
+                337,
+                4669,
+                14640,
+                11,
+                1936,
+                291,
+                643,
+                926,
+                3552,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4431510222585578,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0015789380995556712,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 6.82,
+                    "end": 6.88,
+                    "probability": 0.04925800487399101
+                },
+                {
+                    "word": " for",
+                    "start": 6.88,
+                    "end": 7.92,
+                    "probability": 0.6395043730735779
+                },
+                {
+                    "word": " financial",
+                    "start": 7.92,
+                    "end": 8.36,
+                    "probability": 0.9803051948547363
+                },
+                {
+                    "word": " independence,",
+                    "start": 8.36,
+                    "end": 9.14,
+                    "probability": 0.9862245321273804
+                },
+                {
+                    "word": " basically",
+                    "start": 9.44,
+                    "end": 9.76,
+                    "probability": 0.8762636780738831
+                },
+                {
+                    "word": " you",
+                    "start": 9.76,
+                    "end": 10.04,
+                    "probability": 0.6715884208679199
+                },
+                {
+                    "word": " need",
+                    "start": 10.04,
+                    "end": 10.44,
+                    "probability": 0.9726665616035461
+                },
+                {
+                    "word": " around",
+                    "start": 10.44,
+                    "end": 11.4,
+                    "probability": 0.9628709554672241
+                },
+                {
+                    "word": " 25",
+                    "start": 11.4,
+                    "end": 12.0,
+                    "probability": 0.9587805867195129
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.0,
+            "end": 14.56,
+            "text": " ex of your yearly spend.",
+            "tokens": [
+                50964,
+                454,
+                295,
+                428,
+                39102,
+                3496,
+                13,
+                51102
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4431510222585578,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0015789380995556712,
+            "words": [
+                {
+                    "word": " ex",
+                    "start": 12.0,
+                    "end": 12.4,
+                    "probability": 0.05129067227244377
+                },
+                {
+                    "word": " of",
+                    "start": 12.4,
+                    "end": 12.7,
+                    "probability": 0.8846674561500549
+                },
+                {
+                    "word": " your",
+                    "start": 12.7,
+                    "end": 13.5,
+                    "probability": 0.9855196475982666
+                },
+                {
+                    "word": " yearly",
+                    "start": 13.5,
+                    "end": 14.06,
+                    "probability": 0.5720757246017456
+                },
+                {
+                    "word": " spend.",
+                    "start": 14.06,
+                    "end": 14.56,
+                    "probability": 0.9093363881111145
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 14.96,
+            "end": 19.9,
+            "text": " I think if I only go to very fundamental needs in Bangalore,",
+            "tokens": [
+                51102,
+                286,
+                519,
+                498,
+                286,
+                787,
+                352,
+                281,
+                588,
+                8088,
+                2203,
+                294,
+                11538,
+                304,
+                418,
+                11,
+                51356
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4431510222585578,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0015789380995556712,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 14.96,
+                    "end": 14.96,
+                    "probability": 0.5961616635322571
+                },
+                {
+                    "word": " think",
+                    "start": 14.96,
+                    "end": 15.44,
+                    "probability": 0.9974753260612488
+                },
+                {
+                    "word": " if",
+                    "start": 15.44,
+                    "end": 15.94,
+                    "probability": 0.8803974390029907
+                },
+                {
+                    "word": " I",
+                    "start": 15.94,
+                    "end": 16.3,
+                    "probability": 0.9830085039138794
+                },
+                {
+                    "word": " only",
+                    "start": 16.3,
+                    "end": 16.46,
+                    "probability": 0.9794477820396423
+                },
+                {
+                    "word": " go",
+                    "start": 16.46,
+                    "end": 16.62,
+                    "probability": 0.9972054362297058
+                },
+                {
+                    "word": " to",
+                    "start": 16.62,
+                    "end": 16.84,
+                    "probability": 0.984550416469574
+                },
+                {
+                    "word": " very",
+                    "start": 16.84,
+                    "end": 16.98,
+                    "probability": 0.9801363945007324
+                },
+                {
+                    "word": " fundamental",
+                    "start": 16.98,
+                    "end": 17.38,
+                    "probability": 0.9877486824989319
+                },
+                {
+                    "word": " needs",
+                    "start": 17.38,
+                    "end": 18.72,
+                    "probability": 0.7618155479431152
+                },
+                {
+                    "word": " in",
+                    "start": 18.72,
+                    "end": 19.44,
+                    "probability": 0.9479860067367554
+                },
+                {
+                    "word": " Bangalore,",
+                    "start": 19.44,
+                    "end": 19.9,
+                    "probability": 0.8387189706166586
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 20.38,
+            "end": 22.12,
+            "text": " with the lifestyle which we are living.",
+            "tokens": [
+                51356,
+                365,
+                264,
+                11716,
+                597,
+                321,
+                366,
+                2647,
+                13,
+                51476
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4431510222585578,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0015789380995556712,
+            "words": [
+                {
+                    "word": " with",
+                    "start": 20.38,
+                    "end": 20.58,
+                    "probability": 0.8273681402206421
+                },
+                {
+                    "word": " the",
+                    "start": 20.58,
+                    "end": 20.74,
+                    "probability": 0.908872127532959
+                },
+                {
+                    "word": " lifestyle",
+                    "start": 20.74,
+                    "end": 21.08,
+                    "probability": 0.7938292622566223
+                },
+                {
+                    "word": " which",
+                    "start": 21.08,
+                    "end": 21.44,
+                    "probability": 0.675467848777771
+                },
+                {
+                    "word": " we",
+                    "start": 21.44,
+                    "end": 21.62,
+                    "probability": 0.9968425035476685
+                },
+                {
+                    "word": " are",
+                    "start": 21.62,
+                    "end": 21.8,
+                    "probability": 0.9825531244277954
+                },
+                {
+                    "word": " living.",
+                    "start": 21.8,
+                    "end": 22.12,
+                    "probability": 0.9735133647918701
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 22.48,
+            "end": 22.96,
+            "text": " I think,",
+            "tokens": [
+                51476,
+                286,
+                519,
+                11,
+                51526
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4431510222585578,
+            "compression_ratio": 1.5392670157068062,
+            "no_speech_prob": 0.0015789380995556712,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 22.48,
+                    "end": 22.48,
+                    "probability": 0.9822446703910828
+                },
+                {
+                    "word": " think,",
+                    "start": 22.48,
+                    "end": 22.96,
+                    "probability": 0.9986034035682678
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

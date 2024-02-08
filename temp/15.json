@@ -1,0 +1,588 @@
+{
+    "text": " But the 25 X is not enough, no? If you just consider it like say the mixed in angle, 2 lakh rupees per minute, the salt is like that, but it is into the salt and sugar. I don't think that is enough to have a comfortable life in Bangalore. Assuming that you are going to live up to 80 or 20.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.96,
+            "text": " But the 25 X is not enough, no?",
+            "tokens": [
+                50364,
+                583,
+                264,
+                3552,
+                1783,
+                307,
+                406,
+                1547,
+                11,
+                572,
+                30,
+                50464
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7531337528438359,
+            "compression_ratio": 1.4646464646464648,
+            "no_speech_prob": 0.08519802987575531,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5882856845855713
+                },
+                {
+                    "word": " the",
+                    "start": 0.22,
+                    "end": 0.36,
+                    "probability": 0.36661356687545776
+                },
+                {
+                    "word": " 25",
+                    "start": 0.36,
+                    "end": 0.68,
+                    "probability": 0.7641588449478149
+                },
+                {
+                    "word": " X",
+                    "start": 0.68,
+                    "end": 0.98,
+                    "probability": 0.2874472737312317
+                },
+                {
+                    "word": " is",
+                    "start": 0.98,
+                    "end": 1.1,
+                    "probability": 0.8174006938934326
+                },
+                {
+                    "word": " not",
+                    "start": 1.1,
+                    "end": 1.26,
+                    "probability": 0.9846811294555664
+                },
+                {
+                    "word": " enough,",
+                    "start": 1.26,
+                    "end": 1.58,
+                    "probability": 0.9972215890884399
+                },
+                {
+                    "word": " no?",
+                    "start": 1.96,
+                    "end": 1.96,
+                    "probability": 0.20700415968894958
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.24,
+            "end": 4.26,
+            "text": " If you just consider it like say",
+            "tokens": [
+                50464,
+                759,
+                291,
+                445,
+                1949,
+                309,
+                411,
+                584,
+                50564
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7531337528438359,
+            "compression_ratio": 1.4646464646464648,
+            "no_speech_prob": 0.08519802987575531,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 2.24,
+                    "end": 2.3,
+                    "probability": 0.9181439280509949
+                },
+                {
+                    "word": " you",
+                    "start": 2.3,
+                    "end": 2.46,
+                    "probability": 0.9736132621765137
+                },
+                {
+                    "word": " just",
+                    "start": 2.46,
+                    "end": 2.66,
+                    "probability": 0.9441341161727905
+                },
+                {
+                    "word": " consider",
+                    "start": 2.66,
+                    "end": 3.02,
+                    "probability": 0.8302241563796997
+                },
+                {
+                    "word": " it",
+                    "start": 3.02,
+                    "end": 3.26,
+                    "probability": 0.32898736000061035
+                },
+                {
+                    "word": " like",
+                    "start": 3.26,
+                    "end": 3.28,
+                    "probability": 0.5092222094535828
+                },
+                {
+                    "word": " say",
+                    "start": 3.28,
+                    "end": 4.26,
+                    "probability": 0.21987055242061615
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.26,
+            "end": 5.48,
+            "text": " the mixed in angle,",
+            "tokens": [
+                50564,
+                264,
+                7467,
+                294,
+                5802,
+                11,
+                50664
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7531337528438359,
+            "compression_ratio": 1.4646464646464648,
+            "no_speech_prob": 0.08519802987575531,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 4.26,
+                    "end": 4.78,
+                    "probability": 0.15686284005641937
+                },
+                {
+                    "word": " mixed",
+                    "start": 4.78,
+                    "end": 5.0,
+                    "probability": 0.22549162805080414
+                },
+                {
+                    "word": " in",
+                    "start": 5.0,
+                    "end": 5.24,
+                    "probability": 0.14312833547592163
+                },
+                {
+                    "word": " angle,",
+                    "start": 5.24,
+                    "end": 5.48,
+                    "probability": 0.2876264750957489
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 5.6,
+            "end": 6.88,
+            "text": " 2 lakh rupees per minute,",
+            "tokens": [
+                50664,
+                568,
+                33314,
+                24638,
+                680,
+                3456,
+                11,
+                50764
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7531337528438359,
+            "compression_ratio": 1.4646464646464648,
+            "no_speech_prob": 0.08519802987575531,
+            "words": [
+                {
+                    "word": " 2",
+                    "start": 5.6,
+                    "end": 5.66,
+                    "probability": 0.1802184283733368
+                },
+                {
+                    "word": " lakh",
+                    "start": 5.66,
+                    "end": 5.86,
+                    "probability": 0.22182516753673553
+                },
+                {
+                    "word": " rupees",
+                    "start": 5.86,
+                    "end": 6.08,
+                    "probability": 0.7243523001670837
+                },
+                {
+                    "word": " per",
+                    "start": 6.08,
+                    "end": 6.58,
+                    "probability": 0.9395302534103394
+                },
+                {
+                    "word": " minute,",
+                    "start": 6.58,
+                    "end": 6.88,
+                    "probability": 0.6011940836906433
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 7.3,
+            "end": 9.38,
+            "text": " the salt is like that,",
+            "tokens": [
+                50764,
+                264,
+                5139,
+                307,
+                411,
+                300,
+                11,
+                50864
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7531337528438359,
+            "compression_ratio": 1.4646464646464648,
+            "no_speech_prob": 0.08519802987575531,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 7.3,
+                    "end": 7.66,
+                    "probability": 0.017338648438453674
+                },
+                {
+                    "word": " salt",
+                    "start": 7.66,
+                    "end": 8.02,
+                    "probability": 0.14300769567489624
+                },
+                {
+                    "word": " is",
+                    "start": 8.02,
+                    "end": 8.28,
+                    "probability": 0.19265581667423248
+                },
+                {
+                    "word": " like",
+                    "start": 8.28,
+                    "end": 8.72,
+                    "probability": 0.08090187609195709
+                },
+                {
+                    "word": " that,",
+                    "start": 8.72,
+                    "end": 9.38,
+                    "probability": 0.09594666212797165
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 9.5,
+            "end": 11.12,
+            "text": " but it is into the salt and sugar.",
+            "tokens": [
+                50864,
+                457,
+                309,
+                307,
+                666,
+                264,
+                5139,
+                293,
+                5076,
+                13,
+                50964
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7531337528438359,
+            "compression_ratio": 1.4646464646464648,
+            "no_speech_prob": 0.08519802987575531,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 9.5,
+                    "end": 9.7,
+                    "probability": 0.6822553873062134
+                },
+                {
+                    "word": " it",
+                    "start": 9.7,
+                    "end": 9.88,
+                    "probability": 0.3279297351837158
+                },
+                {
+                    "word": " is",
+                    "start": 9.88,
+                    "end": 9.88,
+                    "probability": 0.5906098484992981
+                },
+                {
+                    "word": " into",
+                    "start": 9.88,
+                    "end": 10.08,
+                    "probability": 0.6023018956184387
+                },
+                {
+                    "word": " the",
+                    "start": 10.08,
+                    "end": 10.42,
+                    "probability": 0.10911042988300323
+                },
+                {
+                    "word": " salt",
+                    "start": 10.42,
+                    "end": 10.64,
+                    "probability": 0.09615395218133926
+                },
+                {
+                    "word": " and",
+                    "start": 10.64,
+                    "end": 10.96,
+                    "probability": 0.13386161625385284
+                },
+                {
+                    "word": " sugar.",
+                    "start": 10.96,
+                    "end": 11.12,
+                    "probability": 0.24883906543254852
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 11.34,
+            "end": 14.72,
+            "text": " I don't think that is enough to have a comfortable life in Bangalore.",
+            "tokens": [
+                50964,
+                286,
+                500,
+                380,
+                519,
+                300,
+                307,
+                1547,
+                281,
+                362,
+                257,
+                4619,
+                993,
+                294,
+                11538,
+                304,
+                418,
+                13,
+                51064
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7531337528438359,
+            "compression_ratio": 1.4646464646464648,
+            "no_speech_prob": 0.08519802987575531,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 11.34,
+                    "end": 11.44,
+                    "probability": 0.682678759098053
+                },
+                {
+                    "word": " don't",
+                    "start": 11.44,
+                    "end": 11.6,
+                    "probability": 0.903498113155365
+                },
+                {
+                    "word": " think",
+                    "start": 11.6,
+                    "end": 11.82,
+                    "probability": 0.9815308451652527
+                },
+                {
+                    "word": " that",
+                    "start": 11.82,
+                    "end": 11.98,
+                    "probability": 0.8715667128562927
+                },
+                {
+                    "word": " is",
+                    "start": 11.98,
+                    "end": 12.1,
+                    "probability": 0.7496317028999329
+                },
+                {
+                    "word": " enough",
+                    "start": 12.1,
+                    "end": 12.4,
+                    "probability": 0.9980904459953308
+                },
+                {
+                    "word": " to",
+                    "start": 12.4,
+                    "end": 12.9,
+                    "probability": 0.9349087476730347
+                },
+                {
+                    "word": " have",
+                    "start": 12.9,
+                    "end": 13.14,
+                    "probability": 0.7717779874801636
+                },
+                {
+                    "word": " a",
+                    "start": 13.14,
+                    "end": 13.26,
+                    "probability": 0.7894156575202942
+                },
+                {
+                    "word": " comfortable",
+                    "start": 13.26,
+                    "end": 13.66,
+                    "probability": 0.9197089076042175
+                },
+                {
+                    "word": " life",
+                    "start": 13.66,
+                    "end": 13.94,
+                    "probability": 0.7943941950798035
+                },
+                {
+                    "word": " in",
+                    "start": 13.94,
+                    "end": 14.12,
+                    "probability": 0.9770591855049133
+                },
+                {
+                    "word": " Bangalore.",
+                    "start": 14.12,
+                    "end": 14.72,
+                    "probability": 0.838719387849172
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 15.14,
+            "end": 17.02,
+            "text": " Assuming that you are going to live up to 80 or 20.",
+            "tokens": [
+                51064,
+                6281,
+                24919,
+                300,
+                291,
+                366,
+                516,
+                281,
+                1621,
+                493,
+                281,
+                4688,
+                420,
+                945,
+                13,
+                51264
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7531337528438359,
+            "compression_ratio": 1.4646464646464648,
+            "no_speech_prob": 0.08519802987575531,
+            "words": [
+                {
+                    "word": " Assuming",
+                    "start": 15.14,
+                    "end": 15.5,
+                    "probability": 0.5867229625582695
+                },
+                {
+                    "word": " that",
+                    "start": 15.5,
+                    "end": 15.82,
+                    "probability": 0.8460895419120789
+                },
+                {
+                    "word": " you",
+                    "start": 15.82,
+                    "end": 15.92,
+                    "probability": 0.8634887933731079
+                },
+                {
+                    "word": " are",
+                    "start": 15.92,
+                    "end": 16.0,
+                    "probability": 0.7474698424339294
+                },
+                {
+                    "word": " going",
+                    "start": 16.0,
+                    "end": 16.2,
+                    "probability": 0.988375186920166
+                },
+                {
+                    "word": " to",
+                    "start": 16.2,
+                    "end": 16.28,
+                    "probability": 0.9864504337310791
+                },
+                {
+                    "word": " live",
+                    "start": 16.28,
+                    "end": 16.46,
+                    "probability": 0.9789615273475647
+                },
+                {
+                    "word": " up",
+                    "start": 16.46,
+                    "end": 16.62,
+                    "probability": 0.9679479598999023
+                },
+                {
+                    "word": " to",
+                    "start": 16.62,
+                    "end": 16.72,
+                    "probability": 0.9921126365661621
+                },
+                {
+                    "word": " 80",
+                    "start": 16.72,
+                    "end": 16.92,
+                    "probability": 0.5970179438591003
+                },
+                {
+                    "word": " or",
+                    "start": 16.92,
+                    "end": 17.02,
+                    "probability": 0.4201427400112152
+                },
+                {
+                    "word": " 20.",
+                    "start": 17.02,
+                    "end": 17.02,
+                    "probability": 0.1213061511516571
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

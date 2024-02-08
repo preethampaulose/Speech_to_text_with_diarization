@@ -1,0 +1,174 @@
+{
+    "text": " But what is the drop off let's say three years out after like you know actually Go both come",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.04,
+            "text": " But what is the drop off let's say three years out after like you know actually",
+            "tokens": [
+                50364,
+                583,
+                437,
+                307,
+                264,
+                3270,
+                766,
+                718,
+                311,
+                584,
+                1045,
+                924,
+                484,
+                934,
+                411,
+                291,
+                458,
+                767,
+                50563
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7084217071533203,
+            "compression_ratio": 1.1219512195121952,
+            "no_speech_prob": 0.03682153299450874,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.3927654027938843
+                },
+                {
+                    "word": " what",
+                    "start": 0.32,
+                    "end": 0.72,
+                    "probability": 0.8955551981925964
+                },
+                {
+                    "word": " is",
+                    "start": 0.72,
+                    "end": 0.86,
+                    "probability": 0.9458969831466675
+                },
+                {
+                    "word": " the",
+                    "start": 0.86,
+                    "end": 0.96,
+                    "probability": 0.9828699231147766
+                },
+                {
+                    "word": " drop",
+                    "start": 0.96,
+                    "end": 1.08,
+                    "probability": 0.9864400029182434
+                },
+                {
+                    "word": " off",
+                    "start": 1.08,
+                    "end": 1.36,
+                    "probability": 0.41329142451286316
+                },
+                {
+                    "word": " let's",
+                    "start": 1.36,
+                    "end": 1.54,
+                    "probability": 0.6029080748558044
+                },
+                {
+                    "word": " say",
+                    "start": 1.54,
+                    "end": 2.06,
+                    "probability": 0.9967161417007446
+                },
+                {
+                    "word": " three",
+                    "start": 2.06,
+                    "end": 2.3,
+                    "probability": 0.5907950401306152
+                },
+                {
+                    "word": " years",
+                    "start": 2.3,
+                    "end": 2.64,
+                    "probability": 0.9424944519996643
+                },
+                {
+                    "word": " out",
+                    "start": 2.64,
+                    "end": 3.04,
+                    "probability": 0.5826288461685181
+                },
+                {
+                    "word": " after",
+                    "start": 3.04,
+                    "end": 3.46,
+                    "probability": 0.9407371878623962
+                },
+                {
+                    "word": " like",
+                    "start": 3.46,
+                    "end": 3.68,
+                    "probability": 0.4588095545768738
+                },
+                {
+                    "word": " you",
+                    "start": 3.68,
+                    "end": 3.9,
+                    "probability": 0.3598177433013916
+                },
+                {
+                    "word": " know",
+                    "start": 3.9,
+                    "end": 3.9,
+                    "probability": 0.9576024413108826
+                },
+                {
+                    "word": " actually",
+                    "start": 3.9,
+                    "end": 4.04,
+                    "probability": 0.26949211955070496
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.04,
+            "end": 5.08,
+            "text": " Go both come",
+            "tokens": [
+                50563,
+                1037,
+                1293,
+                808,
+                50613
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7084217071533203,
+            "compression_ratio": 1.1219512195121952,
+            "no_speech_prob": 0.03682153299450874,
+            "words": [
+                {
+                    "word": " Go",
+                    "start": 4.04,
+                    "end": 4.64,
+                    "probability": 0.004074415657669306
+                },
+                {
+                    "word": " both",
+                    "start": 4.64,
+                    "end": 4.9,
+                    "probability": 0.269230455160141
+                },
+                {
+                    "word": " come",
+                    "start": 4.9,
+                    "end": 5.08,
+                    "probability": 0.801150918006897
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

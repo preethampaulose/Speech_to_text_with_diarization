@@ -1,0 +1,31 @@
+{
+    "text": " Mmm.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.28,
+            "text": " Mmm.",
+            "tokens": [
+                50364,
+                12146,
+                13,
+                50389
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8596575736999512,
+            "compression_ratio": 0.3333333333333333,
+            "no_speech_prob": 0.6598988175392151,
+            "words": [
+                {
+                    "word": " Mmm.",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.16122490167617798
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,90 @@
+{
+    "text": " It's not that because again, like you don't know.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.6,
+            "text": " It's not that because again, like you don't know.",
+            "tokens": [
+                50364,
+                467,
+                311,
+                406,
+                300,
+                570,
+                797,
+                11,
+                411,
+                291,
+                500,
+                380,
+                458,
+                13,
+                50492
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.37432804703712463,
+            "compression_ratio": 0.8596491228070176,
+            "no_speech_prob": 0.13564282655715942,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.7934273481369019
+                },
+                {
+                    "word": " not",
+                    "start": 0.44,
+                    "end": 0.68,
+                    "probability": 0.9965124726295471
+                },
+                {
+                    "word": " that",
+                    "start": 0.68,
+                    "end": 0.98,
+                    "probability": 0.9794872403144836
+                },
+                {
+                    "word": " because",
+                    "start": 0.98,
+                    "end": 1.24,
+                    "probability": 0.6870835423469543
+                },
+                {
+                    "word": " again,",
+                    "start": 1.24,
+                    "end": 1.58,
+                    "probability": 0.9557687044143677
+                },
+                {
+                    "word": " like",
+                    "start": 1.7,
+                    "end": 1.86,
+                    "probability": 0.2803996205329895
+                },
+                {
+                    "word": " you",
+                    "start": 1.86,
+                    "end": 2.1,
+                    "probability": 0.8010347485542297
+                },
+                {
+                    "word": " don't",
+                    "start": 2.1,
+                    "end": 2.4,
+                    "probability": 0.9923909902572632
+                },
+                {
+                    "word": " know.",
+                    "start": 2.4,
+                    "end": 2.6,
+                    "probability": 0.9897615313529968
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

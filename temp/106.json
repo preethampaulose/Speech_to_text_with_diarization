@@ -1,0 +1,550 @@
+{
+    "text": " I would like to add on that point what lavish was saying is that once you are an officer there is a prestige without any condition. In entrepreneurship there is glory to the successful people. I know personally you would know personally so many founders who nobody knows about but they are still struggling, struggling is struggling right and if they go to a typical",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.0,
+            "text": " I would like to add on that point what lavish was saying is that once you are an officer",
+            "tokens": [
+                50364,
+                286,
+                576,
+                411,
+                281,
+                909,
+                322,
+                300,
+                935,
+                437,
+                20923,
+                742,
+                390,
+                1566,
+                307,
+                300,
+                1564,
+                291,
+                366,
+                364,
+                8456,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2536678785159264,
+            "compression_ratio": 1.7023255813953488,
+            "no_speech_prob": 0.20942404866218567,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.66,
+                    "probability": 0.557097852230072
+                },
+                {
+                    "word": " would",
+                    "start": 0.66,
+                    "end": 0.84,
+                    "probability": 0.9862853288650513
+                },
+                {
+                    "word": " like",
+                    "start": 0.84,
+                    "end": 1.04,
+                    "probability": 0.985539972782135
+                },
+                {
+                    "word": " to",
+                    "start": 1.04,
+                    "end": 1.14,
+                    "probability": 0.9831369519233704
+                },
+                {
+                    "word": " add",
+                    "start": 1.14,
+                    "end": 1.32,
+                    "probability": 0.9985213875770569
+                },
+                {
+                    "word": " on",
+                    "start": 1.32,
+                    "end": 1.52,
+                    "probability": 0.9376491904258728
+                },
+                {
+                    "word": " that",
+                    "start": 1.52,
+                    "end": 1.7,
+                    "probability": 0.9768303632736206
+                },
+                {
+                    "word": " point",
+                    "start": 1.7,
+                    "end": 2.2,
+                    "probability": 0.9924213290214539
+                },
+                {
+                    "word": " what",
+                    "start": 2.2,
+                    "end": 2.58,
+                    "probability": 0.8277959823608398
+                },
+                {
+                    "word": " lavish",
+                    "start": 2.58,
+                    "end": 3.08,
+                    "probability": 0.6496556550264359
+                },
+                {
+                    "word": " was",
+                    "start": 3.08,
+                    "end": 3.34,
+                    "probability": 0.8292297124862671
+                },
+                {
+                    "word": " saying",
+                    "start": 3.34,
+                    "end": 3.56,
+                    "probability": 0.9943901896476746
+                },
+                {
+                    "word": " is",
+                    "start": 3.56,
+                    "end": 3.88,
+                    "probability": 0.9741396903991699
+                },
+                {
+                    "word": " that",
+                    "start": 3.88,
+                    "end": 4.16,
+                    "probability": 0.9765062928199768
+                },
+                {
+                    "word": " once",
+                    "start": 4.16,
+                    "end": 4.38,
+                    "probability": 0.9182340502738953
+                },
+                {
+                    "word": " you",
+                    "start": 4.38,
+                    "end": 4.54,
+                    "probability": 0.9821552038192749
+                },
+                {
+                    "word": " are",
+                    "start": 4.54,
+                    "end": 4.64,
+                    "probability": 0.9780884385108948
+                },
+                {
+                    "word": " an",
+                    "start": 4.64,
+                    "end": 4.76,
+                    "probability": 0.9123631715774536
+                },
+                {
+                    "word": " officer",
+                    "start": 4.76,
+                    "end": 5.0,
+                    "probability": 0.9837518930435181
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.0,
+            "end": 7.58,
+            "text": " there is a prestige without any condition.",
+            "tokens": [
+                50614,
+                456,
+                307,
+                257,
+                42531,
+                1553,
+                604,
+                4188,
+                13,
+                50784
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2536678785159264,
+            "compression_ratio": 1.7023255813953488,
+            "no_speech_prob": 0.20942404866218567,
+            "words": [
+                {
+                    "word": " there",
+                    "start": 5.0,
+                    "end": 5.24,
+                    "probability": 0.7356598377227783
+                },
+                {
+                    "word": " is",
+                    "start": 5.24,
+                    "end": 5.38,
+                    "probability": 0.9831421375274658
+                },
+                {
+                    "word": " a",
+                    "start": 5.38,
+                    "end": 5.46,
+                    "probability": 0.9803967475891113
+                },
+                {
+                    "word": " prestige",
+                    "start": 5.46,
+                    "end": 5.96,
+                    "probability": 0.9469221234321594
+                },
+                {
+                    "word": " without",
+                    "start": 5.96,
+                    "end": 6.7,
+                    "probability": 0.9415224194526672
+                },
+                {
+                    "word": " any",
+                    "start": 6.7,
+                    "end": 6.98,
+                    "probability": 0.9990608096122742
+                },
+                {
+                    "word": " condition.",
+                    "start": 6.98,
+                    "end": 7.58,
+                    "probability": 0.960813581943512
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.64,
+            "end": 12.52,
+            "text": " In entrepreneurship there is glory to the successful people.",
+            "tokens": [
+                50784,
+                682,
+                26582,
+                456,
+                307,
+                11924,
+                281,
+                264,
+                4406,
+                561,
+                13,
+                50998
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2536678785159264,
+            "compression_ratio": 1.7023255813953488,
+            "no_speech_prob": 0.20942404866218567,
+            "words": [
+                {
+                    "word": " In",
+                    "start": 8.64,
+                    "end": 8.64,
+                    "probability": 0.924304723739624
+                },
+                {
+                    "word": " entrepreneurship",
+                    "start": 8.64,
+                    "end": 9.22,
+                    "probability": 0.8062408566474915
+                },
+                {
+                    "word": " there",
+                    "start": 9.22,
+                    "end": 10.22,
+                    "probability": 0.7425571084022522
+                },
+                {
+                    "word": " is",
+                    "start": 10.22,
+                    "end": 10.42,
+                    "probability": 0.9957322478294373
+                },
+                {
+                    "word": " glory",
+                    "start": 10.42,
+                    "end": 10.74,
+                    "probability": 0.9474130272865295
+                },
+                {
+                    "word": " to",
+                    "start": 10.74,
+                    "end": 11.12,
+                    "probability": 0.9964321851730347
+                },
+                {
+                    "word": " the",
+                    "start": 11.12,
+                    "end": 11.54,
+                    "probability": 0.9974477291107178
+                },
+                {
+                    "word": " successful",
+                    "start": 11.54,
+                    "end": 11.86,
+                    "probability": 0.9803400635719299
+                },
+                {
+                    "word": " people.",
+                    "start": 11.86,
+                    "end": 12.52,
+                    "probability": 0.9938509464263916
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 13.0,
+            "end": 18.52,
+            "text": " I know personally you would know personally so many founders who nobody knows about but",
+            "tokens": [
+                50998,
+                286,
+                458,
+                5665,
+                291,
+                576,
+                458,
+                5665,
+                370,
+                867,
+                25608,
+                567,
+                5079,
+                3255,
+                466,
+                457,
+                51284
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2536678785159264,
+            "compression_ratio": 1.7023255813953488,
+            "no_speech_prob": 0.20942404866218567,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 13.0,
+                    "end": 13.0,
+                    "probability": 0.9886766672134399
+                },
+                {
+                    "word": " know",
+                    "start": 13.0,
+                    "end": 13.22,
+                    "probability": 0.9819460511207581
+                },
+                {
+                    "word": " personally",
+                    "start": 13.22,
+                    "end": 13.64,
+                    "probability": 0.9712052941322327
+                },
+                {
+                    "word": " you",
+                    "start": 13.64,
+                    "end": 13.86,
+                    "probability": 0.7851517200469971
+                },
+                {
+                    "word": " would",
+                    "start": 13.86,
+                    "end": 14.02,
+                    "probability": 0.5940366387367249
+                },
+                {
+                    "word": " know",
+                    "start": 14.02,
+                    "end": 14.18,
+                    "probability": 0.7970280647277832
+                },
+                {
+                    "word": " personally",
+                    "start": 14.18,
+                    "end": 14.52,
+                    "probability": 0.9939093589782715
+                },
+                {
+                    "word": " so",
+                    "start": 14.52,
+                    "end": 14.8,
+                    "probability": 0.9532798528671265
+                },
+                {
+                    "word": " many",
+                    "start": 14.8,
+                    "end": 15.04,
+                    "probability": 0.9982879757881165
+                },
+                {
+                    "word": " founders",
+                    "start": 15.04,
+                    "end": 15.48,
+                    "probability": 0.9866898059844971
+                },
+                {
+                    "word": " who",
+                    "start": 15.48,
+                    "end": 17.08,
+                    "probability": 0.9588547348976135
+                },
+                {
+                    "word": " nobody",
+                    "start": 17.08,
+                    "end": 17.4,
+                    "probability": 0.5624465346336365
+                },
+                {
+                    "word": " knows",
+                    "start": 17.4,
+                    "end": 17.7,
+                    "probability": 0.9873369336128235
+                },
+                {
+                    "word": " about",
+                    "start": 17.7,
+                    "end": 18.12,
+                    "probability": 0.9960029721260071
+                },
+                {
+                    "word": " but",
+                    "start": 18.12,
+                    "end": 18.52,
+                    "probability": 0.5689061880111694
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 18.52,
+            "end": 23.7,
+            "text": " they are still struggling, struggling is struggling right and if they go to a typical",
+            "tokens": [
+                51284,
+                436,
+                366,
+                920,
+                9314,
+                11,
+                9314,
+                307,
+                9314,
+                558,
+                293,
+                498,
+                436,
+                352,
+                281,
+                257,
+                7476,
+                51558
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2536678785159264,
+            "compression_ratio": 1.7023255813953488,
+            "no_speech_prob": 0.20942404866218567,
+            "words": [
+                {
+                    "word": " they",
+                    "start": 18.52,
+                    "end": 18.66,
+                    "probability": 0.9580601453781128
+                },
+                {
+                    "word": " are",
+                    "start": 18.66,
+                    "end": 18.8,
+                    "probability": 0.9844467043876648
+                },
+                {
+                    "word": " still",
+                    "start": 18.8,
+                    "end": 18.98,
+                    "probability": 0.9730337858200073
+                },
+                {
+                    "word": " struggling,",
+                    "start": 18.98,
+                    "end": 19.42,
+                    "probability": 0.9791077971458435
+                },
+                {
+                    "word": " struggling",
+                    "start": 19.42,
+                    "end": 19.98,
+                    "probability": 0.9225327968597412
+                },
+                {
+                    "word": " is",
+                    "start": 19.98,
+                    "end": 20.18,
+                    "probability": 0.3759397566318512
+                },
+                {
+                    "word": " struggling",
+                    "start": 20.18,
+                    "end": 20.42,
+                    "probability": 0.9907423853874207
+                },
+                {
+                    "word": " right",
+                    "start": 20.42,
+                    "end": 20.96,
+                    "probability": 0.5111002922058105
+                },
+                {
+                    "word": " and",
+                    "start": 20.96,
+                    "end": 21.48,
+                    "probability": 0.4287244975566864
+                },
+                {
+                    "word": " if",
+                    "start": 21.48,
+                    "end": 22.06,
+                    "probability": 0.9888710379600525
+                },
+                {
+                    "word": " they",
+                    "start": 22.06,
+                    "end": 22.28,
+                    "probability": 0.9983705878257751
+                },
+                {
+                    "word": " go",
+                    "start": 22.28,
+                    "end": 22.56,
+                    "probability": 0.9968120455741882
+                },
+                {
+                    "word": " to",
+                    "start": 22.56,
+                    "end": 22.96,
+                    "probability": 0.9904292821884155
+                },
+                {
+                    "word": " a",
+                    "start": 22.96,
+                    "end": 23.14,
+                    "probability": 0.9857041239738464
+                },
+                {
+                    "word": " typical",
+                    "start": 23.14,
+                    "end": 23.7,
+                    "probability": 0.9963557720184326
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,38 @@
+{
+    "text": " Thank you.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.26,
+            "text": " Thank you.",
+            "tokens": [
+                50364,
+                1044,
+                291,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7251919905344645,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.6018505096435547,
+            "words": [
+                {
+                    "word": " Thank",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.17145787179470062
+                },
+                {
+                    "word": " you.",
+                    "start": 0.26,
+                    "end": 0.26,
+                    "probability": 0.9845528602600098
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

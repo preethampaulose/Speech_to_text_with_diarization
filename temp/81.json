@@ -1,0 +1,92 @@
+{
+    "text": " That's so far. What does it do?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.66,
+            "text": " That's so far.",
+            "tokens": [
+                50364,
+                663,
+                311,
+                370,
+                1400,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9463200251261393,
+            "compression_ratio": 0.8857142857142857,
+            "no_speech_prob": 0.5431469678878784,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.36465099453926086
+                },
+                {
+                    "word": " so",
+                    "start": 0.36,
+                    "end": 0.5,
+                    "probability": 0.3680920898914337
+                },
+                {
+                    "word": " far.",
+                    "start": 0.5,
+                    "end": 0.66,
+                    "probability": 0.4040825664997101
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.7,
+            "end": 1.16,
+            "text": " What does it do?",
+            "tokens": [
+                50414,
+                708,
+                775,
+                309,
+                360,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9463200251261393,
+            "compression_ratio": 0.8857142857142857,
+            "no_speech_prob": 0.5431469678878784,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.7,
+                    "end": 0.84,
+                    "probability": 0.3964289724826813
+                },
+                {
+                    "word": " does",
+                    "start": 0.84,
+                    "end": 0.94,
+                    "probability": 0.2801114022731781
+                },
+                {
+                    "word": " it",
+                    "start": 0.94,
+                    "end": 1.06,
+                    "probability": 0.5035302639007568
+                },
+                {
+                    "word": " do?",
+                    "start": 1.06,
+                    "end": 1.16,
+                    "probability": 0.24367663264274597
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

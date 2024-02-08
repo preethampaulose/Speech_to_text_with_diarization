@@ -1,0 +1,174 @@
+{
+    "text": " No, not that. It's just that it is also matter of energy. See HVA part of the Laguna.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.88,
+            "text": " No, not that. It's just that it is also matter of energy.",
+            "tokens": [
+                50364,
+                883,
+                11,
+                406,
+                300,
+                13,
+                467,
+                311,
+                445,
+                300,
+                309,
+                307,
+                611,
+                1871,
+                295,
+                2281,
+                13,
+                50510
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6889772107524257,
+            "compression_ratio": 1.0119047619047619,
+            "no_speech_prob": 0.05438591539859772,
+            "words": [
+                {
+                    "word": " No,",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.7039531469345093
+                },
+                {
+                    "word": " not",
+                    "start": 0.34,
+                    "end": 0.58,
+                    "probability": 0.45623111724853516
+                },
+                {
+                    "word": " that.",
+                    "start": 0.58,
+                    "end": 1.02,
+                    "probability": 0.9886600971221924
+                },
+                {
+                    "word": " It's",
+                    "start": 1.24,
+                    "end": 1.44,
+                    "probability": 0.9122854769229889
+                },
+                {
+                    "word": " just",
+                    "start": 1.44,
+                    "end": 1.6,
+                    "probability": 0.9832635521888733
+                },
+                {
+                    "word": " that",
+                    "start": 1.6,
+                    "end": 1.66,
+                    "probability": 0.9801831245422363
+                },
+                {
+                    "word": " it",
+                    "start": 1.66,
+                    "end": 1.78,
+                    "probability": 0.9676296710968018
+                },
+                {
+                    "word": " is",
+                    "start": 1.78,
+                    "end": 2.02,
+                    "probability": 0.9745938777923584
+                },
+                {
+                    "word": " also",
+                    "start": 2.02,
+                    "end": 2.22,
+                    "probability": 0.9922329187393188
+                },
+                {
+                    "word": " matter",
+                    "start": 2.22,
+                    "end": 2.44,
+                    "probability": 0.22943994402885437
+                },
+                {
+                    "word": " of",
+                    "start": 2.44,
+                    "end": 2.58,
+                    "probability": 0.993029773235321
+                },
+                {
+                    "word": " energy.",
+                    "start": 2.58,
+                    "end": 2.88,
+                    "probability": 0.9839968085289001
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.58,
+            "end": 5.22,
+            "text": " See HVA part of the Laguna.",
+            "tokens": [
+                50510,
+                3008,
+                389,
+                53,
+                32,
+                644,
+                295,
+                264,
+                24886,
+                5051,
+                13,
+                50634
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6889772107524257,
+            "compression_ratio": 1.0119047619047619,
+            "no_speech_prob": 0.05438591539859772,
+            "words": [
+                {
+                    "word": " See",
+                    "start": 3.58,
+                    "end": 3.68,
+                    "probability": 0.09702612459659576
+                },
+                {
+                    "word": " HVA",
+                    "start": 3.68,
+                    "end": 4.64,
+                    "probability": 0.2270915557940801
+                },
+                {
+                    "word": " part",
+                    "start": 4.64,
+                    "end": 4.8,
+                    "probability": 0.37743067741394043
+                },
+                {
+                    "word": " of",
+                    "start": 4.8,
+                    "end": 4.98,
+                    "probability": 0.8306865692138672
+                },
+                {
+                    "word": " the",
+                    "start": 4.98,
+                    "end": 4.98,
+                    "probability": 0.6130539178848267
+                },
+                {
+                    "word": " Laguna.",
+                    "start": 4.98,
+                    "end": 5.22,
+                    "probability": 0.29536233842372894
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,98 @@
+{
+    "text": " So, Abhito Yehert, please. I'm not sure.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.06,
+            "text": " So, Abhito Yehert, please.",
+            "tokens": [
+                50364,
+                407,
+                11,
+                2847,
+                71,
+                3528,
+                835,
+                71,
+                911,
+                11,
+                1767,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7853747776576451,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.4017610549926758,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 0.0,
+                    "end": 0.9,
+                    "probability": 0.6903166770935059
+                },
+                {
+                    "word": " Abhito",
+                    "start": 1.22,
+                    "end": 2.3,
+                    "probability": 0.40364014108975727
+                },
+                {
+                    "word": " Yehert,",
+                    "start": 2.3,
+                    "end": 2.78,
+                    "probability": 0.3483867843945821
+                },
+                {
+                    "word": " please.",
+                    "start": 2.84,
+                    "end": 3.06,
+                    "probability": 0.42658865451812744
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.68,
+            "end": 4.6,
+            "text": " I'm not sure.",
+            "tokens": [
+                50514,
+                286,
+                478,
+                406,
+                988,
+                13,
+                50589
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7853747776576451,
+            "compression_ratio": 0.8333333333333334,
+            "no_speech_prob": 0.4017610549926758,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 3.68,
+                    "end": 4.24,
+                    "probability": 0.8910476267337799
+                },
+                {
+                    "word": " not",
+                    "start": 4.24,
+                    "end": 4.42,
+                    "probability": 0.9982802867889404
+                },
+                {
+                    "word": " sure.",
+                    "start": 4.42,
+                    "end": 4.6,
+                    "probability": 0.9188514947891235
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

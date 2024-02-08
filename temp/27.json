@@ -1,0 +1,51 @@
+{
+    "text": " So you are talking",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.7,
+            "text": " So you are talking",
+            "tokens": [
+                50364,
+                407,
+                291,
+                366,
+                1417,
+                50464
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9146052088056292,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.3386417329311371,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.10117167234420776
+                },
+                {
+                    "word": " you",
+                    "start": 0.24,
+                    "end": 0.38,
+                    "probability": 0.8501988053321838
+                },
+                {
+                    "word": " are",
+                    "start": 0.38,
+                    "end": 0.56,
+                    "probability": 0.795185923576355
+                },
+                {
+                    "word": " talking",
+                    "start": 0.56,
+                    "end": 0.7,
+                    "probability": 0.2783256769180298
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,551 @@
+{
+    "text": " I think there is something to lose. I think three years back when I started, so there was nothing to lose. It was much easier. You know, two, three million top line, which means there is some real value. I mean, if you have like this business doesn't become really big, there is some market value that public market will assign to good citizens.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.76,
+            "text": " I think there is something to lose. I think three years back when I started, so",
+            "tokens": [
+                50364,
+                286,
+                519,
+                456,
+                307,
+                746,
+                281,
+                3624,
+                13,
+                286,
+                519,
+                1045,
+                924,
+                646,
+                562,
+                286,
+                1409,
+                11,
+                370,
+                50592
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5687474656379086,
+            "compression_ratio": 1.7164179104477613,
+            "no_speech_prob": 0.11156532168388367,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.11243181675672531
+                },
+                {
+                    "word": " think",
+                    "start": 0.34,
+                    "end": 1.46,
+                    "probability": 0.3648183345794678
+                },
+                {
+                    "word": " there",
+                    "start": 1.46,
+                    "end": 1.54,
+                    "probability": 0.3509013056755066
+                },
+                {
+                    "word": " is",
+                    "start": 1.54,
+                    "end": 1.7,
+                    "probability": 0.6473649740219116
+                },
+                {
+                    "word": " something",
+                    "start": 1.7,
+                    "end": 2.04,
+                    "probability": 0.8653537034988403
+                },
+                {
+                    "word": " to",
+                    "start": 2.04,
+                    "end": 2.24,
+                    "probability": 0.897374153137207
+                },
+                {
+                    "word": " lose.",
+                    "start": 2.24,
+                    "end": 2.48,
+                    "probability": 0.9827386736869812
+                },
+                {
+                    "word": " I",
+                    "start": 2.62,
+                    "end": 2.62,
+                    "probability": 0.7831529974937439
+                },
+                {
+                    "word": " think",
+                    "start": 2.62,
+                    "end": 2.76,
+                    "probability": 0.8961700797080994
+                },
+                {
+                    "word": " three",
+                    "start": 2.76,
+                    "end": 3.0,
+                    "probability": 0.5073111653327942
+                },
+                {
+                    "word": " years",
+                    "start": 3.0,
+                    "end": 3.24,
+                    "probability": 0.9814019799232483
+                },
+                {
+                    "word": " back",
+                    "start": 3.24,
+                    "end": 3.52,
+                    "probability": 0.9382777214050293
+                },
+                {
+                    "word": " when",
+                    "start": 3.52,
+                    "end": 3.72,
+                    "probability": 0.8636365532875061
+                },
+                {
+                    "word": " I",
+                    "start": 3.72,
+                    "end": 3.9,
+                    "probability": 0.9174680709838867
+                },
+                {
+                    "word": " started,",
+                    "start": 3.9,
+                    "end": 4.3,
+                    "probability": 0.9683274626731873
+                },
+                {
+                    "word": " so",
+                    "start": 4.7,
+                    "end": 4.76,
+                    "probability": 0.489321231842041
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.76,
+            "end": 7.88,
+            "text": " there was nothing to lose. It was much easier. You know,",
+            "tokens": [
+                50592,
+                456,
+                390,
+                1825,
+                281,
+                3624,
+                13,
+                467,
+                390,
+                709,
+                3571,
+                13,
+                509,
+                458,
+                11,
+                50748
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5687474656379086,
+            "compression_ratio": 1.7164179104477613,
+            "no_speech_prob": 0.11156532168388367,
+            "words": [
+                {
+                    "word": " there",
+                    "start": 4.76,
+                    "end": 4.94,
+                    "probability": 0.3333479166030884
+                },
+                {
+                    "word": " was",
+                    "start": 4.94,
+                    "end": 5.14,
+                    "probability": 0.976095974445343
+                },
+                {
+                    "word": " nothing",
+                    "start": 5.14,
+                    "end": 5.38,
+                    "probability": 0.9640317559242249
+                },
+                {
+                    "word": " to",
+                    "start": 5.38,
+                    "end": 5.64,
+                    "probability": 0.9820265173912048
+                },
+                {
+                    "word": " lose.",
+                    "start": 5.64,
+                    "end": 6.02,
+                    "probability": 0.9967554211616516
+                },
+                {
+                    "word": " It",
+                    "start": 6.2,
+                    "end": 6.28,
+                    "probability": 0.34130561351776123
+                },
+                {
+                    "word": " was",
+                    "start": 6.28,
+                    "end": 6.84,
+                    "probability": 0.9704350829124451
+                },
+                {
+                    "word": " much",
+                    "start": 6.84,
+                    "end": 7.24,
+                    "probability": 0.6646243333816528
+                },
+                {
+                    "word": " easier.",
+                    "start": 7.24,
+                    "end": 7.52,
+                    "probability": 0.9981325268745422
+                },
+                {
+                    "word": " You",
+                    "start": 7.7,
+                    "end": 7.7,
+                    "probability": 0.5545496344566345
+                },
+                {
+                    "word": " know,",
+                    "start": 7.7,
+                    "end": 7.88,
+                    "probability": 0.9571155905723572
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 7.96,
+            "end": 11.42,
+            "text": " two, three million top line, which means there is some real value. I mean,",
+            "tokens": [
+                50748,
+                732,
+                11,
+                1045,
+                2459,
+                1192,
+                1622,
+                11,
+                597,
+                1355,
+                456,
+                307,
+                512,
+                957,
+                2158,
+                13,
+                286,
+                914,
+                11,
+                50920
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5687474656379086,
+            "compression_ratio": 1.7164179104477613,
+            "no_speech_prob": 0.11156532168388367,
+            "words": [
+                {
+                    "word": " two,",
+                    "start": 7.96,
+                    "end": 7.96,
+                    "probability": 0.17387263476848602
+                },
+                {
+                    "word": " three",
+                    "start": 7.96,
+                    "end": 8.18,
+                    "probability": 0.8584359884262085
+                },
+                {
+                    "word": " million",
+                    "start": 8.18,
+                    "end": 8.42,
+                    "probability": 0.9233235716819763
+                },
+                {
+                    "word": " top",
+                    "start": 8.42,
+                    "end": 8.76,
+                    "probability": 0.11887145042419434
+                },
+                {
+                    "word": " line,",
+                    "start": 8.76,
+                    "end": 8.98,
+                    "probability": 0.6392191648483276
+                },
+                {
+                    "word": " which",
+                    "start": 9.1,
+                    "end": 9.22,
+                    "probability": 0.951613187789917
+                },
+                {
+                    "word": " means",
+                    "start": 9.22,
+                    "end": 9.82,
+                    "probability": 0.9874162077903748
+                },
+                {
+                    "word": " there",
+                    "start": 9.82,
+                    "end": 10.06,
+                    "probability": 0.8394744396209717
+                },
+                {
+                    "word": " is",
+                    "start": 10.06,
+                    "end": 10.18,
+                    "probability": 0.9785313606262207
+                },
+                {
+                    "word": " some",
+                    "start": 10.18,
+                    "end": 10.36,
+                    "probability": 0.9728030562400818
+                },
+                {
+                    "word": " real",
+                    "start": 10.36,
+                    "end": 10.54,
+                    "probability": 0.9919317364692688
+                },
+                {
+                    "word": " value.",
+                    "start": 10.54,
+                    "end": 10.8,
+                    "probability": 0.9988400340080261
+                },
+                {
+                    "word": " I",
+                    "start": 10.92,
+                    "end": 10.92,
+                    "probability": 0.759547770023346
+                },
+                {
+                    "word": " mean,",
+                    "start": 10.92,
+                    "end": 11.42,
+                    "probability": 0.9976083040237427
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 11.44,
+            "end": 16.14,
+            "text": " if you have like this business doesn't become really big, there is some market",
+            "tokens": [
+                50920,
+                498,
+                291,
+                362,
+                411,
+                341,
+                1606,
+                1177,
+                380,
+                1813,
+                534,
+                955,
+                11,
+                456,
+                307,
+                512,
+                2142,
+                51172
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5687474656379086,
+            "compression_ratio": 1.7164179104477613,
+            "no_speech_prob": 0.11156532168388367,
+            "words": [
+                {
+                    "word": " if",
+                    "start": 11.44,
+                    "end": 11.66,
+                    "probability": 0.5271012783050537
+                },
+                {
+                    "word": " you",
+                    "start": 11.66,
+                    "end": 11.66,
+                    "probability": 0.4899657070636749
+                },
+                {
+                    "word": " have",
+                    "start": 11.66,
+                    "end": 11.84,
+                    "probability": 0.1009557768702507
+                },
+                {
+                    "word": " like",
+                    "start": 11.84,
+                    "end": 11.92,
+                    "probability": 0.28028085827827454
+                },
+                {
+                    "word": " this",
+                    "start": 11.92,
+                    "end": 12.2,
+                    "probability": 0.5623498558998108
+                },
+                {
+                    "word": " business",
+                    "start": 12.2,
+                    "end": 12.52,
+                    "probability": 0.9574775099754333
+                },
+                {
+                    "word": " doesn't",
+                    "start": 12.52,
+                    "end": 13.78,
+                    "probability": 0.7947189211845398
+                },
+                {
+                    "word": " become",
+                    "start": 13.78,
+                    "end": 13.78,
+                    "probability": 0.9930024743080139
+                },
+                {
+                    "word": " really",
+                    "start": 13.78,
+                    "end": 14.04,
+                    "probability": 0.852626621723175
+                },
+                {
+                    "word": " big,",
+                    "start": 14.04,
+                    "end": 14.68,
+                    "probability": 0.9949616193771362
+                },
+                {
+                    "word": " there",
+                    "start": 14.94,
+                    "end": 15.02,
+                    "probability": 0.9916585087776184
+                },
+                {
+                    "word": " is",
+                    "start": 15.02,
+                    "end": 15.24,
+                    "probability": 0.9810116291046143
+                },
+                {
+                    "word": " some",
+                    "start": 15.24,
+                    "end": 15.76,
+                    "probability": 0.9788572788238525
+                },
+                {
+                    "word": " market",
+                    "start": 15.76,
+                    "end": 16.14,
+                    "probability": 0.9561936855316162
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 16.14,
+            "end": 18.52,
+            "text": " value that public market will assign to good citizens.",
+            "tokens": [
+                51172,
+                2158,
+                300,
+                1908,
+                2142,
+                486,
+                6269,
+                281,
+                665,
+                7180,
+                13,
+                51288
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5687474656379086,
+            "compression_ratio": 1.7164179104477613,
+            "no_speech_prob": 0.11156532168388367,
+            "words": [
+                {
+                    "word": " value",
+                    "start": 16.14,
+                    "end": 16.66,
+                    "probability": 0.7596936821937561
+                },
+                {
+                    "word": " that",
+                    "start": 16.66,
+                    "end": 16.94,
+                    "probability": 0.9091169238090515
+                },
+                {
+                    "word": " public",
+                    "start": 16.94,
+                    "end": 17.22,
+                    "probability": 0.9797960519790649
+                },
+                {
+                    "word": " market",
+                    "start": 17.22,
+                    "end": 17.54,
+                    "probability": 0.9896893501281738
+                },
+                {
+                    "word": " will",
+                    "start": 17.54,
+                    "end": 17.76,
+                    "probability": 0.9889438152313232
+                },
+                {
+                    "word": " assign",
+                    "start": 17.76,
+                    "end": 18.02,
+                    "probability": 0.8344621062278748
+                },
+                {
+                    "word": " to",
+                    "start": 18.02,
+                    "end": 18.2,
+                    "probability": 0.858792245388031
+                },
+                {
+                    "word": " good",
+                    "start": 18.2,
+                    "end": 18.42,
+                    "probability": 0.28742602467536926
+                },
+                {
+                    "word": " citizens.",
+                    "start": 18.42,
+                    "end": 18.52,
+                    "probability": 0.04919050261378288
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

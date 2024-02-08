@@ -1,0 +1,137 @@
+{
+    "text": " But then again like you attribute your success to maybe luck or bespoke a girl T.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.54,
+            "text": " But then again like you attribute your success to maybe luck or bespoke a girl T.",
+            "tokens": [
+                50364,
+                583,
+                550,
+                797,
+                411,
+                291,
+                19667,
+                428,
+                2245,
+                281,
+                1310,
+                3668,
+                420,
+                4097,
+                48776,
+                257,
+                2013,
+                314,
+                13,
+                50642
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9203574770972842,
+            "compression_ratio": 1.0384615384615385,
+            "no_speech_prob": 0.06720923632383347,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.13495168089866638
+                },
+                {
+                    "word": " then",
+                    "start": 0.42,
+                    "end": 1.36,
+                    "probability": 0.9228253364562988
+                },
+                {
+                    "word": " again",
+                    "start": 1.36,
+                    "end": 1.78,
+                    "probability": 0.9060072898864746
+                },
+                {
+                    "word": " like",
+                    "start": 1.78,
+                    "end": 2.34,
+                    "probability": 0.39200741052627563
+                },
+                {
+                    "word": " you",
+                    "start": 2.34,
+                    "end": 2.52,
+                    "probability": 0.958239734172821
+                },
+                {
+                    "word": " attribute",
+                    "start": 2.52,
+                    "end": 2.8,
+                    "probability": 0.9795713424682617
+                },
+                {
+                    "word": " your",
+                    "start": 2.8,
+                    "end": 3.2,
+                    "probability": 0.976811945438385
+                },
+                {
+                    "word": " success",
+                    "start": 3.2,
+                    "end": 3.44,
+                    "probability": 0.9366792440414429
+                },
+                {
+                    "word": " to",
+                    "start": 3.44,
+                    "end": 3.7,
+                    "probability": 0.6587773561477661
+                },
+                {
+                    "word": " maybe",
+                    "start": 3.7,
+                    "end": 3.96,
+                    "probability": 0.9057521224021912
+                },
+                {
+                    "word": " luck",
+                    "start": 3.96,
+                    "end": 4.4,
+                    "probability": 0.5061635971069336
+                },
+                {
+                    "word": " or",
+                    "start": 4.4,
+                    "end": 4.8,
+                    "probability": 0.6173610091209412
+                },
+                {
+                    "word": " bespoke",
+                    "start": 4.8,
+                    "end": 5.1,
+                    "probability": 0.42500025033950806
+                },
+                {
+                    "word": " a",
+                    "start": 5.1,
+                    "end": 5.2,
+                    "probability": 0.1057705283164978
+                },
+                {
+                    "word": " girl",
+                    "start": 5.2,
+                    "end": 5.38,
+                    "probability": 0.2236812710762024
+                },
+                {
+                    "word": " T.",
+                    "start": 5.38,
+                    "end": 5.54,
+                    "probability": 0.18721532821655273
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

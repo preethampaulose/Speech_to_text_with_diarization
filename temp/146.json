@@ -1,0 +1,52 @@
+{
+    "text": " He palm my hand.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.3400000000000001,
+            "end": 1.02,
+            "text": " He palm my hand.",
+            "tokens": [
+                50364,
+                634,
+                17018,
+                452,
+                1011,
+                13,
+                50406
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -3.469862222671509,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.5775029063224792,
+            "words": [
+                {
+                    "word": " He",
+                    "start": 0.3400000000000001,
+                    "end": 0.66,
+                    "probability": 0.018318871036171913
+                },
+                {
+                    "word": " palm",
+                    "start": 0.66,
+                    "end": 0.88,
+                    "probability": 1.1068145795434248e-05
+                },
+                {
+                    "word": " my",
+                    "start": 0.88,
+                    "end": 0.98,
+                    "probability": 0.015525635331869125
+                },
+                {
+                    "word": " hand.",
+                    "start": 0.98,
+                    "end": 1.02,
+                    "probability": 0.15777724981307983
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

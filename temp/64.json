@@ -1,0 +1,111 @@
+{
+    "text": " I mean, I market level numbers, I cannot disclose, but it is.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.32,
+            "text": " I mean, I market level numbers, I cannot disclose, but it is.",
+            "tokens": [
+                50364,
+                286,
+                914,
+                11,
+                286,
+                2142,
+                1496,
+                3547,
+                11,
+                286,
+                2644,
+                36146,
+                11,
+                457,
+                309,
+                307,
+                13,
+                50539
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4907000692267167,
+            "compression_ratio": 0.9384615384615385,
+            "no_speech_prob": 0.033965036273002625,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.5883506536483765
+                },
+                {
+                    "word": " mean,",
+                    "start": 0.2,
+                    "end": 0.38,
+                    "probability": 0.9713427424430847
+                },
+                {
+                    "word": " I",
+                    "start": 0.88,
+                    "end": 0.88,
+                    "probability": 0.8125343322753906
+                },
+                {
+                    "word": " market",
+                    "start": 0.88,
+                    "end": 1.54,
+                    "probability": 0.32910168170928955
+                },
+                {
+                    "word": " level",
+                    "start": 1.54,
+                    "end": 1.78,
+                    "probability": 0.9759017825126648
+                },
+                {
+                    "word": " numbers,",
+                    "start": 1.78,
+                    "end": 2.08,
+                    "probability": 0.803320586681366
+                },
+                {
+                    "word": " I",
+                    "start": 2.24,
+                    "end": 2.24,
+                    "probability": 0.9897897839546204
+                },
+                {
+                    "word": " cannot",
+                    "start": 2.24,
+                    "end": 2.48,
+                    "probability": 0.8938179016113281
+                },
+                {
+                    "word": " disclose,",
+                    "start": 2.48,
+                    "end": 2.78,
+                    "probability": 0.9911443591117859
+                },
+                {
+                    "word": " but",
+                    "start": 2.98,
+                    "end": 3.06,
+                    "probability": 0.9907544851303101
+                },
+                {
+                    "word": " it",
+                    "start": 3.06,
+                    "end": 3.18,
+                    "probability": 0.9596382975578308
+                },
+                {
+                    "word": " is.",
+                    "start": 3.18,
+                    "end": 3.32,
+                    "probability": 0.4863480031490326
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

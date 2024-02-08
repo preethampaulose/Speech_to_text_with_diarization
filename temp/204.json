@@ -1,0 +1,88 @@
+{
+    "text": " of your our our profession that people don't realize.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.88,
+            "text": " of your our our profession that people don't realize.",
+            "tokens": [
+                50364,
+                295,
+                428,
+                527,
+                527,
+                7032,
+                300,
+                561,
+                500,
+                380,
+                4325,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6429781913757324,
+            "compression_ratio": 0.9814814814814815,
+            "no_speech_prob": 0.27878227829933167,
+            "words": [
+                {
+                    "word": " of",
+                    "start": 0.0,
+                    "end": 1.28,
+                    "probability": 0.07617992162704468
+                },
+                {
+                    "word": " your",
+                    "start": 1.28,
+                    "end": 1.72,
+                    "probability": 0.7865010499954224
+                },
+                {
+                    "word": " our",
+                    "start": 1.72,
+                    "end": 2.22,
+                    "probability": 0.24520643055438995
+                },
+                {
+                    "word": " our",
+                    "start": 2.22,
+                    "end": 2.24,
+                    "probability": 0.3401818871498108
+                },
+                {
+                    "word": " profession",
+                    "start": 2.24,
+                    "end": 2.68,
+                    "probability": 0.8494510650634766
+                },
+                {
+                    "word": " that",
+                    "start": 2.68,
+                    "end": 3.22,
+                    "probability": 0.49236705899238586
+                },
+                {
+                    "word": " people",
+                    "start": 3.22,
+                    "end": 3.4,
+                    "probability": 0.9368250370025635
+                },
+                {
+                    "word": " don't",
+                    "start": 3.4,
+                    "end": 3.68,
+                    "probability": 0.8958773910999298
+                },
+                {
+                    "word": " realize.",
+                    "start": 3.68,
+                    "end": 3.88,
+                    "probability": 0.8661014437675476
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

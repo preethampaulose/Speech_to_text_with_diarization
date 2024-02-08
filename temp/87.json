@@ -1,0 +1,277 @@
+{
+    "text": " Is it fair to say most of your like basics? Alri is like kind of savings because She most of lifestyle expenses are the right way to get out of it.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.96,
+            "text": " Is it fair to say most of your like basics?",
+            "tokens": [
+                50364,
+                1119,
+                309,
+                3143,
+                281,
+                584,
+                881,
+                295,
+                428,
+                411,
+                14688,
+                30,
+                50512
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9312485485542111,
+            "compression_ratio": 1.2894736842105263,
+            "no_speech_prob": 0.12491756677627563,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.5954611897468567
+                },
+                {
+                    "word": " it",
+                    "start": 0.4,
+                    "end": 0.6,
+                    "probability": 0.9939669370651245
+                },
+                {
+                    "word": " fair",
+                    "start": 0.6,
+                    "end": 0.78,
+                    "probability": 0.9664928317070007
+                },
+                {
+                    "word": " to",
+                    "start": 0.78,
+                    "end": 0.94,
+                    "probability": 0.9962112903594971
+                },
+                {
+                    "word": " say",
+                    "start": 0.94,
+                    "end": 1.1,
+                    "probability": 0.9916438460350037
+                },
+                {
+                    "word": " most",
+                    "start": 1.1,
+                    "end": 1.32,
+                    "probability": 0.9810793399810791
+                },
+                {
+                    "word": " of",
+                    "start": 1.32,
+                    "end": 1.56,
+                    "probability": 0.9977141618728638
+                },
+                {
+                    "word": " your",
+                    "start": 1.56,
+                    "end": 1.96,
+                    "probability": 0.9855409264564514
+                },
+                {
+                    "word": " like",
+                    "start": 1.96,
+                    "end": 2.68,
+                    "probability": 0.43435901403427124
+                },
+                {
+                    "word": " basics?",
+                    "start": 2.68,
+                    "end": 2.96,
+                    "probability": 0.5469819903373718
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.24,
+            "end": 5.78,
+            "text": " Alri is like kind of savings because",
+            "tokens": [
+                50512,
+                967,
+                470,
+                307,
+                411,
+                733,
+                295,
+                13454,
+                570,
+                50644
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9312485485542111,
+            "compression_ratio": 1.2894736842105263,
+            "no_speech_prob": 0.12491756677627563,
+            "words": [
+                {
+                    "word": " Alri",
+                    "start": 3.24,
+                    "end": 3.34,
+                    "probability": 0.17200066894292831
+                },
+                {
+                    "word": " is",
+                    "start": 3.34,
+                    "end": 3.9,
+                    "probability": 0.7167777419090271
+                },
+                {
+                    "word": " like",
+                    "start": 3.9,
+                    "end": 4.1,
+                    "probability": 0.947541356086731
+                },
+                {
+                    "word": " kind",
+                    "start": 4.1,
+                    "end": 4.32,
+                    "probability": 0.9788109064102173
+                },
+                {
+                    "word": " of",
+                    "start": 4.32,
+                    "end": 4.5,
+                    "probability": 0.9978819489479065
+                },
+                {
+                    "word": " savings",
+                    "start": 4.5,
+                    "end": 5.12,
+                    "probability": 0.6865515112876892
+                },
+                {
+                    "word": " because",
+                    "start": 5.12,
+                    "end": 5.78,
+                    "probability": 0.5532965064048767
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 5.78,
+            "end": 8.82,
+            "text": " She most of lifestyle expenses are the right way to get out of it.",
+            "tokens": [
+                50644,
+                1240,
+                881,
+                295,
+                11716,
+                15506,
+                366,
+                264,
+                558,
+                636,
+                281,
+                483,
+                484,
+                295,
+                309,
+                13,
+                50796
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9312485485542111,
+            "compression_ratio": 1.2894736842105263,
+            "no_speech_prob": 0.12491756677627563,
+            "words": [
+                {
+                    "word": " She",
+                    "start": 5.78,
+                    "end": 6.42,
+                    "probability": 0.026738643646240234
+                },
+                {
+                    "word": " most",
+                    "start": 6.42,
+                    "end": 6.66,
+                    "probability": 0.33097365498542786
+                },
+                {
+                    "word": " of",
+                    "start": 6.66,
+                    "end": 6.86,
+                    "probability": 0.7101539373397827
+                },
+                {
+                    "word": " lifestyle",
+                    "start": 6.86,
+                    "end": 7.18,
+                    "probability": 0.6639019846916199
+                },
+                {
+                    "word": " expenses",
+                    "start": 7.18,
+                    "end": 7.64,
+                    "probability": 0.10649309307336807
+                },
+                {
+                    "word": " are",
+                    "start": 7.64,
+                    "end": 8.0,
+                    "probability": 0.5669289827346802
+                },
+                {
+                    "word": " the",
+                    "start": 8.0,
+                    "end": 8.14,
+                    "probability": 0.07331756502389908
+                },
+                {
+                    "word": " right",
+                    "start": 8.14,
+                    "end": 8.36,
+                    "probability": 0.10661599785089493
+                },
+                {
+                    "word": " way",
+                    "start": 8.36,
+                    "end": 8.48,
+                    "probability": 0.34472721815109253
+                },
+                {
+                    "word": " to",
+                    "start": 8.48,
+                    "end": 8.52,
+                    "probability": 0.281536340713501
+                },
+                {
+                    "word": " get",
+                    "start": 8.52,
+                    "end": 8.52,
+                    "probability": 0.14468619227409363
+                },
+                {
+                    "word": " out",
+                    "start": 8.52,
+                    "end": 8.68,
+                    "probability": 0.4535645842552185
+                },
+                {
+                    "word": " of",
+                    "start": 8.68,
+                    "end": 8.76,
+                    "probability": 0.30110999941825867
+                },
+                {
+                    "word": " it.",
+                    "start": 8.76,
+                    "end": 8.82,
+                    "probability": 0.18801167607307434
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

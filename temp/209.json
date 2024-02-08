@@ -1,0 +1,280 @@
+{
+    "text": " Well, a lot of entrepreneurs are like overnight successes after being at it for take. Is that I think people don't realize the toll it takes on your mental health.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.78,
+            "text": " Well, a lot of entrepreneurs are like overnight successes after being at it for take.",
+            "tokens": [
+                50364,
+                1042,
+                11,
+                257,
+                688,
+                295,
+                12639,
+                366,
+                411,
+                13935,
+                26101,
+                934,
+                885,
+                412,
+                309,
+                337,
+                747,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.386149710797249,
+            "compression_ratio": 1.2992700729927007,
+            "no_speech_prob": 0.0350872278213501,
+            "words": [
+                {
+                    "word": " Well,",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.13272394239902496
+                },
+                {
+                    "word": " a",
+                    "start": 0.7,
+                    "end": 0.7,
+                    "probability": 0.9168146848678589
+                },
+                {
+                    "word": " lot",
+                    "start": 0.7,
+                    "end": 0.94,
+                    "probability": 0.9992011189460754
+                },
+                {
+                    "word": " of",
+                    "start": 0.94,
+                    "end": 1.32,
+                    "probability": 0.9966368675231934
+                },
+                {
+                    "word": " entrepreneurs",
+                    "start": 1.32,
+                    "end": 1.84,
+                    "probability": 0.8164249658584595
+                },
+                {
+                    "word": " are",
+                    "start": 1.84,
+                    "end": 2.24,
+                    "probability": 0.9627635478973389
+                },
+                {
+                    "word": " like",
+                    "start": 2.24,
+                    "end": 2.38,
+                    "probability": 0.8883783221244812
+                },
+                {
+                    "word": " overnight",
+                    "start": 2.38,
+                    "end": 2.7,
+                    "probability": 0.9703124165534973
+                },
+                {
+                    "word": " successes",
+                    "start": 2.7,
+                    "end": 3.32,
+                    "probability": 0.8278204798698425
+                },
+                {
+                    "word": " after",
+                    "start": 3.32,
+                    "end": 3.76,
+                    "probability": 0.8861829042434692
+                },
+                {
+                    "word": " being",
+                    "start": 3.76,
+                    "end": 4.02,
+                    "probability": 0.9965760111808777
+                },
+                {
+                    "word": " at",
+                    "start": 4.02,
+                    "end": 4.2,
+                    "probability": 0.36557018756866455
+                },
+                {
+                    "word": " it",
+                    "start": 4.2,
+                    "end": 4.38,
+                    "probability": 0.9360215067863464
+                },
+                {
+                    "word": " for",
+                    "start": 4.38,
+                    "end": 4.52,
+                    "probability": 0.8528268337249756
+                },
+                {
+                    "word": " take.",
+                    "start": 4.52,
+                    "end": 4.78,
+                    "probability": 0.22265952825546265
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.38,
+            "end": 5.38,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.0,
+            "avg_logprob": -0.386149710797249,
+            "compression_ratio": 1.2992700729927007,
+            "no_speech_prob": 0.0350872278213501,
+            "words": []
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.08,
+            "end": 6.08,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.0,
+            "avg_logprob": -0.386149710797249,
+            "compression_ratio": 1.2992700729927007,
+            "no_speech_prob": 0.0350872278213501,
+            "words": []
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 7.12,
+            "end": 12.16,
+            "text": " Is that I think people don't realize the toll it takes on your mental health.",
+            "tokens": [
+                50714,
+                1119,
+                300,
+                286,
+                519,
+                561,
+                500,
+                380,
+                4325,
+                264,
+                16629,
+                309,
+                2516,
+                322,
+                428,
+                4973,
+                1585,
+                13,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.386149710797249,
+            "compression_ratio": 1.2992700729927007,
+            "no_speech_prob": 0.0350872278213501,
+            "words": [
+                {
+                    "word": " Is",
+                    "start": 7.12,
+                    "end": 7.12,
+                    "probability": 0.5676111578941345
+                },
+                {
+                    "word": " that",
+                    "start": 7.12,
+                    "end": 7.38,
+                    "probability": 0.9886835217475891
+                },
+                {
+                    "word": " I",
+                    "start": 7.38,
+                    "end": 7.48,
+                    "probability": 0.832444965839386
+                },
+                {
+                    "word": " think",
+                    "start": 7.48,
+                    "end": 7.64,
+                    "probability": 0.9975010752677917
+                },
+                {
+                    "word": " people",
+                    "start": 7.64,
+                    "end": 7.9,
+                    "probability": 0.9501426219940186
+                },
+                {
+                    "word": " don't",
+                    "start": 7.9,
+                    "end": 8.18,
+                    "probability": 0.9451107978820801
+                },
+                {
+                    "word": " realize",
+                    "start": 8.18,
+                    "end": 8.5,
+                    "probability": 0.8602421879768372
+                },
+                {
+                    "word": " the",
+                    "start": 8.5,
+                    "end": 9.1,
+                    "probability": 0.6946346163749695
+                },
+                {
+                    "word": " toll",
+                    "start": 9.1,
+                    "end": 9.66,
+                    "probability": 0.7372900247573853
+                },
+                {
+                    "word": " it",
+                    "start": 9.66,
+                    "end": 10.54,
+                    "probability": 0.5557128190994263
+                },
+                {
+                    "word": " takes",
+                    "start": 10.54,
+                    "end": 10.8,
+                    "probability": 0.9974666833877563
+                },
+                {
+                    "word": " on",
+                    "start": 10.8,
+                    "end": 11.16,
+                    "probability": 0.9977236390113831
+                },
+                {
+                    "word": " your",
+                    "start": 11.16,
+                    "end": 11.38,
+                    "probability": 0.9963892698287964
+                },
+                {
+                    "word": " mental",
+                    "start": 11.38,
+                    "end": 11.72,
+                    "probability": 0.9975059628486633
+                },
+                {
+                    "word": " health.",
+                    "start": 11.72,
+                    "end": 12.16,
+                    "probability": 0.9880869388580322
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

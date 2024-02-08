@@ -1,0 +1,38 @@
+{
+    "text": " Good luck!",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.7,
+            "text": " Good luck!",
+            "tokens": [
+                50364,
+                2205,
+                3668,
+                0,
+                50405
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.5572741826375325,
+            "compression_ratio": 0.5555555555555556,
+            "no_speech_prob": 0.4285193383693695,
+            "words": [
+                {
+                    "word": " Good",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.04569839686155319
+                },
+                {
+                    "word": " luck!",
+                    "start": 0.5,
+                    "end": 0.7,
+                    "probability": 0.3252711594104767
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

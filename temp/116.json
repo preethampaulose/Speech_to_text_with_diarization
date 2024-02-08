@@ -1,0 +1,355 @@
+{
+    "text": " It is a very important thing. We understand that social pressure is also in that. When there is social prestige to it, social pressure is also you exit. If you exit, then you will say, I don't do so.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.24,
+            "text": " It is a very important thing.",
+            "tokens": [
+                50364,
+                467,
+                307,
+                257,
+                588,
+                1021,
+                551,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8095061438424247,
+            "compression_ratio": 1.5793650793650793,
+            "no_speech_prob": 0.01498804334551096,
+            "words": [
+                {
+                    "word": " It",
+                    "start": 0.0,
+                    "end": 0.0,
+                    "probability": 0.0506349615752697
+                },
+                {
+                    "word": " is",
+                    "start": 0.0,
+                    "end": 0.64,
+                    "probability": 0.3687783479690552
+                },
+                {
+                    "word": " a",
+                    "start": 0.64,
+                    "end": 0.76,
+                    "probability": 0.28398165106773376
+                },
+                {
+                    "word": " very",
+                    "start": 0.76,
+                    "end": 0.76,
+                    "probability": 0.4372669458389282
+                },
+                {
+                    "word": " important",
+                    "start": 0.76,
+                    "end": 1.82,
+                    "probability": 0.16389112174510956
+                },
+                {
+                    "word": " thing.",
+                    "start": 1.82,
+                    "end": 2.24,
+                    "probability": 0.22701218724250793
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.38,
+            "end": 5.26,
+            "text": " We understand that social pressure is also in that.",
+            "tokens": [
+                50464,
+                492,
+                1223,
+                300,
+                2093,
+                3321,
+                307,
+                611,
+                294,
+                300,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8095061438424247,
+            "compression_ratio": 1.5793650793650793,
+            "no_speech_prob": 0.01498804334551096,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 2.38,
+                    "end": 2.76,
+                    "probability": 0.1513863503932953
+                },
+                {
+                    "word": " understand",
+                    "start": 2.76,
+                    "end": 3.14,
+                    "probability": 0.4708627760410309
+                },
+                {
+                    "word": " that",
+                    "start": 3.14,
+                    "end": 3.94,
+                    "probability": 0.731502890586853
+                },
+                {
+                    "word": " social",
+                    "start": 3.94,
+                    "end": 4.42,
+                    "probability": 0.5969511270523071
+                },
+                {
+                    "word": " pressure",
+                    "start": 4.42,
+                    "end": 4.82,
+                    "probability": 0.9517525434494019
+                },
+                {
+                    "word": " is",
+                    "start": 4.82,
+                    "end": 5.04,
+                    "probability": 0.604284942150116
+                },
+                {
+                    "word": " also",
+                    "start": 5.04,
+                    "end": 5.04,
+                    "probability": 0.6022462248802185
+                },
+                {
+                    "word": " in",
+                    "start": 5.04,
+                    "end": 5.2,
+                    "probability": 0.20174464583396912
+                },
+                {
+                    "word": " that.",
+                    "start": 5.2,
+                    "end": 5.26,
+                    "probability": 0.6411212682723999
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.28,
+            "end": 11.54,
+            "text": " When there is social prestige to it, social pressure is also you exit.",
+            "tokens": [
+                50664,
+                1133,
+                456,
+                307,
+                2093,
+                42531,
+                281,
+                309,
+                11,
+                2093,
+                3321,
+                307,
+                611,
+                291,
+                11043,
+                13,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8095061438424247,
+            "compression_ratio": 1.5793650793650793,
+            "no_speech_prob": 0.01498804334551096,
+            "words": [
+                {
+                    "word": " When",
+                    "start": 6.28,
+                    "end": 7.04,
+                    "probability": 0.6851645112037659
+                },
+                {
+                    "word": " there",
+                    "start": 7.04,
+                    "end": 7.38,
+                    "probability": 0.9861006140708923
+                },
+                {
+                    "word": " is",
+                    "start": 7.38,
+                    "end": 7.54,
+                    "probability": 0.9797148108482361
+                },
+                {
+                    "word": " social",
+                    "start": 7.54,
+                    "end": 8.04,
+                    "probability": 0.9114498496055603
+                },
+                {
+                    "word": " prestige",
+                    "start": 8.04,
+                    "end": 8.46,
+                    "probability": 0.9228653311729431
+                },
+                {
+                    "word": " to",
+                    "start": 8.46,
+                    "end": 8.78,
+                    "probability": 0.982951819896698
+                },
+                {
+                    "word": " it,",
+                    "start": 8.78,
+                    "end": 9.14,
+                    "probability": 0.9676783084869385
+                },
+                {
+                    "word": " social",
+                    "start": 9.8,
+                    "end": 10.06,
+                    "probability": 0.8515435457229614
+                },
+                {
+                    "word": " pressure",
+                    "start": 10.06,
+                    "end": 10.58,
+                    "probability": 0.9960915446281433
+                },
+                {
+                    "word": " is",
+                    "start": 10.58,
+                    "end": 10.96,
+                    "probability": 0.815415620803833
+                },
+                {
+                    "word": " also",
+                    "start": 10.96,
+                    "end": 11.08,
+                    "probability": 0.5372293591499329
+                },
+                {
+                    "word": " you",
+                    "start": 11.08,
+                    "end": 11.08,
+                    "probability": 0.17342308163642883
+                },
+                {
+                    "word": " exit.",
+                    "start": 11.08,
+                    "end": 11.54,
+                    "probability": 0.22568076848983765
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 12.12,
+            "end": 15.62,
+            "text": " If you exit, then you will say, I don't do so.",
+            "tokens": [
+                50964,
+                759,
+                291,
+                11043,
+                11,
+                550,
+                291,
+                486,
+                584,
+                11,
+                286,
+                500,
+                380,
+                360,
+                370,
+                13,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8095061438424247,
+            "compression_ratio": 1.5793650793650793,
+            "no_speech_prob": 0.01498804334551096,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 12.12,
+                    "end": 12.32,
+                    "probability": 0.8810235261917114
+                },
+                {
+                    "word": " you",
+                    "start": 12.32,
+                    "end": 12.7,
+                    "probability": 0.968552827835083
+                },
+                {
+                    "word": " exit,",
+                    "start": 12.7,
+                    "end": 13.16,
+                    "probability": 0.8846566677093506
+                },
+                {
+                    "word": " then",
+                    "start": 13.5,
+                    "end": 13.56,
+                    "probability": 0.28784170746803284
+                },
+                {
+                    "word": " you",
+                    "start": 13.56,
+                    "end": 13.68,
+                    "probability": 0.20990486443042755
+                },
+                {
+                    "word": " will",
+                    "start": 13.68,
+                    "end": 14.14,
+                    "probability": 0.8229913711547852
+                },
+                {
+                    "word": " say,",
+                    "start": 14.14,
+                    "end": 14.14,
+                    "probability": 0.2015911340713501
+                },
+                {
+                    "word": " I",
+                    "start": 14.6,
+                    "end": 15.08,
+                    "probability": 0.1653125137090683
+                },
+                {
+                    "word": " don't",
+                    "start": 15.08,
+                    "end": 15.22,
+                    "probability": 0.5687085762619972
+                },
+                {
+                    "word": " do",
+                    "start": 15.22,
+                    "end": 15.52,
+                    "probability": 0.19500361382961273
+                },
+                {
+                    "word": " so.",
+                    "start": 15.52,
+                    "end": 15.62,
+                    "probability": 0.262254923582077
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

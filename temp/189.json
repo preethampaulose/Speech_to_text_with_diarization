@@ -1,0 +1,135 @@
+{
+    "text": " like generally because in the when you are in the field social circle is limited because",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.02,
+            "text": " like generally because in the when you are in the field social circle is limited because",
+            "tokens": [
+                50364,
+                411,
+                5101,
+                570,
+                294,
+                264,
+                562,
+                291,
+                366,
+                294,
+                264,
+                2519,
+                2093,
+                6329,
+                307,
+                5567,
+                570,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.34010109148527445,
+            "compression_ratio": 1.2054794520547945,
+            "no_speech_prob": 0.08750379830598831,
+            "words": [
+                {
+                    "word": " like",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.24540111422538757
+                },
+                {
+                    "word": " generally",
+                    "start": 0.24,
+                    "end": 1.02,
+                    "probability": 0.7888748049736023
+                },
+                {
+                    "word": " because",
+                    "start": 1.02,
+                    "end": 1.5,
+                    "probability": 0.858820378780365
+                },
+                {
+                    "word": " in",
+                    "start": 1.5,
+                    "end": 1.96,
+                    "probability": 0.7183453440666199
+                },
+                {
+                    "word": " the",
+                    "start": 1.96,
+                    "end": 2.26,
+                    "probability": 0.9929956793785095
+                },
+                {
+                    "word": " when",
+                    "start": 2.26,
+                    "end": 2.68,
+                    "probability": 0.7627424001693726
+                },
+                {
+                    "word": " you",
+                    "start": 2.68,
+                    "end": 2.78,
+                    "probability": 0.9841188192367554
+                },
+                {
+                    "word": " are",
+                    "start": 2.78,
+                    "end": 2.88,
+                    "probability": 0.9809502959251404
+                },
+                {
+                    "word": " in",
+                    "start": 2.88,
+                    "end": 3.04,
+                    "probability": 0.9974603652954102
+                },
+                {
+                    "word": " the",
+                    "start": 3.04,
+                    "end": 3.1,
+                    "probability": 0.9884200096130371
+                },
+                {
+                    "word": " field",
+                    "start": 3.1,
+                    "end": 3.52,
+                    "probability": 0.9954575300216675
+                },
+                {
+                    "word": " social",
+                    "start": 3.52,
+                    "end": 4.02,
+                    "probability": 0.5863775014877319
+                },
+                {
+                    "word": " circle",
+                    "start": 4.02,
+                    "end": 4.7,
+                    "probability": 0.9920821189880371
+                },
+                {
+                    "word": " is",
+                    "start": 4.7,
+                    "end": 5.26,
+                    "probability": 0.9468416571617126
+                },
+                {
+                    "word": " limited",
+                    "start": 5.26,
+                    "end": 5.54,
+                    "probability": 0.9887691736221313
+                },
+                {
+                    "word": " because",
+                    "start": 5.54,
+                    "end": 6.02,
+                    "probability": 0.7681332230567932
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

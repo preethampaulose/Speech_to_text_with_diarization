@@ -1,0 +1,45 @@
+{
+    "text": " words to you.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.86,
+            "text": " words to you.",
+            "tokens": [
+                50364,
+                2283,
+                281,
+                291,
+                13,
+                50420
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.8672374997820174,
+            "compression_ratio": 0.6190476190476191,
+            "no_speech_prob": 0.09447292238473892,
+            "words": [
+                {
+                    "word": " words",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.0008256269502453506
+                },
+                {
+                    "word": " to",
+                    "start": 0.44,
+                    "end": 0.66,
+                    "probability": 0.29241111874580383
+                },
+                {
+                    "word": " you.",
+                    "start": 0.66,
+                    "end": 0.86,
+                    "probability": 0.9639014601707458
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

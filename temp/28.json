@@ -1,0 +1,141 @@
+{
+    "text": " No, not spec because people like if you look at a decent 2 3vH King Bangalore.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.94,
+            "text": " No, not spec because people like if you look at a decent 2 3vH King Bangalore.",
+            "tokens": [
+                50364,
+                883,
+                11,
+                406,
+                1608,
+                570,
+                561,
+                411,
+                498,
+                291,
+                574,
+                412,
+                257,
+                8681,
+                568,
+                805,
+                85,
+                39,
+                3819,
+                11538,
+                304,
+                418,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6231893539428711,
+            "compression_ratio": 0.975,
+            "no_speech_prob": 0.007801502477377653,
+            "words": [
+                {
+                    "word": " No,",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.5897179245948792
+                },
+                {
+                    "word": " not",
+                    "start": 0.3,
+                    "end": 0.48,
+                    "probability": 0.3671959340572357
+                },
+                {
+                    "word": " spec",
+                    "start": 0.48,
+                    "end": 0.78,
+                    "probability": 0.35820066928863525
+                },
+                {
+                    "word": " because",
+                    "start": 0.78,
+                    "end": 1.26,
+                    "probability": 0.42057541012763977
+                },
+                {
+                    "word": " people",
+                    "start": 1.26,
+                    "end": 1.8,
+                    "probability": 0.9317781925201416
+                },
+                {
+                    "word": " like",
+                    "start": 1.8,
+                    "end": 2.04,
+                    "probability": 0.7676025032997131
+                },
+                {
+                    "word": " if",
+                    "start": 2.04,
+                    "end": 2.2,
+                    "probability": 0.8873916268348694
+                },
+                {
+                    "word": " you",
+                    "start": 2.2,
+                    "end": 2.38,
+                    "probability": 0.995120108127594
+                },
+                {
+                    "word": " look",
+                    "start": 2.38,
+                    "end": 2.58,
+                    "probability": 0.9697993397712708
+                },
+                {
+                    "word": " at",
+                    "start": 2.58,
+                    "end": 2.76,
+                    "probability": 0.9960249662399292
+                },
+                {
+                    "word": " a",
+                    "start": 2.76,
+                    "end": 2.8,
+                    "probability": 0.91985684633255
+                },
+                {
+                    "word": " decent",
+                    "start": 2.8,
+                    "end": 3.18,
+                    "probability": 0.9413308501243591
+                },
+                {
+                    "word": " 2",
+                    "start": 3.18,
+                    "end": 3.78,
+                    "probability": 0.5351912379264832
+                },
+                {
+                    "word": " 3vH",
+                    "start": 3.78,
+                    "end": 4.38,
+                    "probability": 0.2928403268257777
+                },
+                {
+                    "word": " King",
+                    "start": 4.38,
+                    "end": 4.56,
+                    "probability": 0.38838884234428406
+                },
+                {
+                    "word": " Bangalore.",
+                    "start": 4.56,
+                    "end": 4.94,
+                    "probability": 0.5357343653837839
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,80 @@
+{
+    "text": " And then that would be about one year.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.38,
+            "text": " And then that would be about one year.",
+            "tokens": [
+                50364,
+                400,
+                550,
+                300,
+                576,
+                312,
+                466,
+                472,
+                1064,
+                13,
+                50436
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5945712327957153,
+            "compression_ratio": 0.8636363636363636,
+            "no_speech_prob": 0.12188129127025604,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 0.0,
+                    "end": 0.22,
+                    "probability": 0.3036932051181793
+                },
+                {
+                    "word": " then",
+                    "start": 0.22,
+                    "end": 0.3,
+                    "probability": 0.6570882201194763
+                },
+                {
+                    "word": " that",
+                    "start": 0.3,
+                    "end": 0.48,
+                    "probability": 0.8197416663169861
+                },
+                {
+                    "word": " would",
+                    "start": 0.48,
+                    "end": 0.58,
+                    "probability": 0.768835186958313
+                },
+                {
+                    "word": " be",
+                    "start": 0.58,
+                    "end": 0.7,
+                    "probability": 0.9844807386398315
+                },
+                {
+                    "word": " about",
+                    "start": 0.7,
+                    "end": 0.9,
+                    "probability": 0.9520993232727051
+                },
+                {
+                    "word": " one",
+                    "start": 0.9,
+                    "end": 1.18,
+                    "probability": 0.5352827906608582
+                },
+                {
+                    "word": " year.",
+                    "start": 1.18,
+                    "end": 1.38,
+                    "probability": 0.4173069894313812
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

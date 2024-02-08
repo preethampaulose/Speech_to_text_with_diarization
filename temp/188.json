@@ -1,0 +1,74 @@
+{
+    "text": " Yeah, so you need one stable stability.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.16,
+            "text": " Yeah, so you need one stable stability.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                370,
+                291,
+                643,
+                472,
+                8351,
+                11826,
+                13,
+                50532
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6204859813054403,
+            "compression_ratio": 0.9285714285714286,
+            "no_speech_prob": 0.20504646003246307,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.1028658002614975
+                },
+                {
+                    "word": " so",
+                    "start": 0.58,
+                    "end": 0.62,
+                    "probability": 0.5065747499465942
+                },
+                {
+                    "word": " you",
+                    "start": 0.62,
+                    "end": 0.7,
+                    "probability": 0.7181457281112671
+                },
+                {
+                    "word": " need",
+                    "start": 0.7,
+                    "end": 1.94,
+                    "probability": 0.8129734992980957
+                },
+                {
+                    "word": " one",
+                    "start": 1.94,
+                    "end": 2.26,
+                    "probability": 0.8954512476921082
+                },
+                {
+                    "word": " stable",
+                    "start": 2.26,
+                    "end": 2.54,
+                    "probability": 0.5823524594306946
+                },
+                {
+                    "word": " stability.",
+                    "start": 2.54,
+                    "end": 3.16,
+                    "probability": 0.9312174320220947
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

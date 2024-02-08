@@ -1,0 +1,348 @@
+{
+    "text": " You have the same luck in your map, but if you have the same luck, then you have to search for the same luck. 4% of the corpus is what you can spend without thinking. If you are not burning the corpus.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.92,
+            "text": " You have the same luck in your map, but if you have the same luck, then you have to search for the same luck.",
+            "tokens": [
+                50364,
+                509,
+                362,
+                264,
+                912,
+                3668,
+                294,
+                428,
+                4471,
+                11,
+                457,
+                498,
+                291,
+                362,
+                264,
+                912,
+                3668,
+                11,
+                550,
+                291,
+                362,
+                281,
+                3164,
+                337,
+                264,
+                912,
+                3668,
+                13,
+                50814
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8460519270463424,
+            "compression_ratio": 1.5703125,
+            "no_speech_prob": 0.02720768004655838,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.06171192601323128
+                },
+                {
+                    "word": " have",
+                    "start": 0.18,
+                    "end": 0.44,
+                    "probability": 0.1144586056470871
+                },
+                {
+                    "word": " the",
+                    "start": 0.44,
+                    "end": 2.98,
+                    "probability": 0.0613730289041996
+                },
+                {
+                    "word": " same",
+                    "start": 2.98,
+                    "end": 3.18,
+                    "probability": 0.20609161257743835
+                },
+                {
+                    "word": " luck",
+                    "start": 3.18,
+                    "end": 3.5,
+                    "probability": 0.0487629659473896
+                },
+                {
+                    "word": " in",
+                    "start": 3.5,
+                    "end": 4.02,
+                    "probability": 0.15736302733421326
+                },
+                {
+                    "word": " your",
+                    "start": 4.02,
+                    "end": 4.24,
+                    "probability": 0.48112836480140686
+                },
+                {
+                    "word": " map,",
+                    "start": 4.24,
+                    "end": 5.08,
+                    "probability": 0.24364911019802094
+                },
+                {
+                    "word": " but",
+                    "start": 5.6,
+                    "end": 5.6,
+                    "probability": 0.43346700072288513
+                },
+                {
+                    "word": " if",
+                    "start": 5.6,
+                    "end": 5.6,
+                    "probability": 0.45172518491744995
+                },
+                {
+                    "word": " you",
+                    "start": 5.6,
+                    "end": 5.88,
+                    "probability": 0.7926540374755859
+                },
+                {
+                    "word": " have",
+                    "start": 5.88,
+                    "end": 6.28,
+                    "probability": 0.16411955654621124
+                },
+                {
+                    "word": " the",
+                    "start": 6.28,
+                    "end": 6.38,
+                    "probability": 0.18623360991477966
+                },
+                {
+                    "word": " same",
+                    "start": 6.38,
+                    "end": 6.74,
+                    "probability": 0.09694138914346695
+                },
+                {
+                    "word": " luck,",
+                    "start": 6.74,
+                    "end": 6.92,
+                    "probability": 0.8984756469726562
+                },
+                {
+                    "word": " then",
+                    "start": 7.12,
+                    "end": 7.14,
+                    "probability": 0.3715783953666687
+                },
+                {
+                    "word": " you",
+                    "start": 7.14,
+                    "end": 7.34,
+                    "probability": 0.42712458968162537
+                },
+                {
+                    "word": " have",
+                    "start": 7.34,
+                    "end": 7.46,
+                    "probability": 0.46156108379364014
+                },
+                {
+                    "word": " to",
+                    "start": 7.46,
+                    "end": 7.46,
+                    "probability": 0.7474796772003174
+                },
+                {
+                    "word": " search",
+                    "start": 7.46,
+                    "end": 7.46,
+                    "probability": 0.11242596805095673
+                },
+                {
+                    "word": " for",
+                    "start": 7.46,
+                    "end": 7.46,
+                    "probability": 0.42751967906951904
+                },
+                {
+                    "word": " the",
+                    "start": 7.46,
+                    "end": 7.58,
+                    "probability": 0.22193209826946259
+                },
+                {
+                    "word": " same",
+                    "start": 7.58,
+                    "end": 7.7,
+                    "probability": 0.13091962039470673
+                },
+                {
+                    "word": " luck.",
+                    "start": 7.7,
+                    "end": 7.92,
+                    "probability": 0.8713909387588501
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 9.16,
+            "end": 13.66,
+            "text": " 4% of the corpus is what you can spend without thinking. If you are not burning the corpus.",
+            "tokens": [
+                50814,
+                1017,
+                4,
+                295,
+                264,
+                1181,
+                31624,
+                307,
+                437,
+                291,
+                393,
+                3496,
+                1553,
+                1953,
+                13,
+                759,
+                291,
+                366,
+                406,
+                9488,
+                264,
+                1181,
+                31624,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8460519270463424,
+            "compression_ratio": 1.5703125,
+            "no_speech_prob": 0.02720768004655838,
+            "words": [
+                {
+                    "word": " 4",
+                    "start": 9.16,
+                    "end": 9.4,
+                    "probability": 0.29675036668777466
+                },
+                {
+                    "word": "%",
+                    "start": 9.4,
+                    "end": 9.78,
+                    "probability": 0.9396294951438904
+                },
+                {
+                    "word": " of",
+                    "start": 9.78,
+                    "end": 9.92,
+                    "probability": 0.9265103340148926
+                },
+                {
+                    "word": " the",
+                    "start": 9.92,
+                    "end": 10.0,
+                    "probability": 0.30044689774513245
+                },
+                {
+                    "word": " corpus",
+                    "start": 10.0,
+                    "end": 10.28,
+                    "probability": 0.4969504103064537
+                },
+                {
+                    "word": " is",
+                    "start": 10.28,
+                    "end": 10.48,
+                    "probability": 0.9305758476257324
+                },
+                {
+                    "word": " what",
+                    "start": 10.48,
+                    "end": 10.66,
+                    "probability": 0.8892335891723633
+                },
+                {
+                    "word": " you",
+                    "start": 10.66,
+                    "end": 10.76,
+                    "probability": 0.9827221035957336
+                },
+                {
+                    "word": " can",
+                    "start": 10.76,
+                    "end": 10.88,
+                    "probability": 0.9678329825401306
+                },
+                {
+                    "word": " spend",
+                    "start": 10.88,
+                    "end": 11.26,
+                    "probability": 0.9448269009590149
+                },
+                {
+                    "word": " without",
+                    "start": 11.26,
+                    "end": 11.56,
+                    "probability": 0.9775391817092896
+                },
+                {
+                    "word": " thinking.",
+                    "start": 11.56,
+                    "end": 11.96,
+                    "probability": 0.9822180867195129
+                },
+                {
+                    "word": " If",
+                    "start": 12.44,
+                    "end": 12.6,
+                    "probability": 0.9131951332092285
+                },
+                {
+                    "word": " you",
+                    "start": 12.6,
+                    "end": 12.74,
+                    "probability": 0.9686251878738403
+                },
+                {
+                    "word": " are",
+                    "start": 12.74,
+                    "end": 12.86,
+                    "probability": 0.7390077114105225
+                },
+                {
+                    "word": " not",
+                    "start": 12.86,
+                    "end": 12.98,
+                    "probability": 0.9907944798469543
+                },
+                {
+                    "word": " burning",
+                    "start": 12.98,
+                    "end": 13.22,
+                    "probability": 0.8866056799888611
+                },
+                {
+                    "word": " the",
+                    "start": 13.22,
+                    "end": 13.44,
+                    "probability": 0.9598637223243713
+                },
+                {
+                    "word": " corpus.",
+                    "start": 13.44,
+                    "end": 13.66,
+                    "probability": 0.989013135433197
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

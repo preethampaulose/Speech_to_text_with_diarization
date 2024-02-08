@@ -1,0 +1,47 @@
+{
+    "text": " Yeah, it's expensive.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.9199999999999999,
+            "end": 2.08,
+            "text": " Yeah, it's expensive.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                309,
+                311,
+                5124,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6081625620524088,
+            "compression_ratio": 0.7241379310344828,
+            "no_speech_prob": 0.2040739506483078,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.9199999999999999,
+                    "end": 1.52,
+                    "probability": 0.2399018555879593
+                },
+                {
+                    "word": " it's",
+                    "start": 1.64,
+                    "end": 1.78,
+                    "probability": 0.8029645085334778
+                },
+                {
+                    "word": " expensive.",
+                    "start": 1.78,
+                    "end": 2.08,
+                    "probability": 0.9932117462158203
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

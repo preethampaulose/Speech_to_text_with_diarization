@@ -1,0 +1,204 @@
+{
+    "text": " So that's like the kind of drivers say beyond even knows what you're doing. And third I said, I'll go to Guarzadur.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.92,
+            "text": " So that's like the kind of drivers say beyond even knows what you're doing.",
+            "tokens": [
+                50364,
+                407,
+                300,
+                311,
+                411,
+                264,
+                733,
+                295,
+                11590,
+                584,
+                4399,
+                754,
+                3255,
+                437,
+                291,
+                434,
+                884,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8276048093228727,
+            "compression_ratio": 1.116504854368932,
+            "no_speech_prob": 0.012321469374001026,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.14007224142551422
+                },
+                {
+                    "word": " that's",
+                    "start": 0.32,
+                    "end": 1.12,
+                    "probability": 0.7393399775028229
+                },
+                {
+                    "word": " like",
+                    "start": 1.12,
+                    "end": 1.28,
+                    "probability": 0.6527373194694519
+                },
+                {
+                    "word": " the",
+                    "start": 1.28,
+                    "end": 1.56,
+                    "probability": 0.6436743140220642
+                },
+                {
+                    "word": " kind",
+                    "start": 1.56,
+                    "end": 1.78,
+                    "probability": 0.6905720233917236
+                },
+                {
+                    "word": " of",
+                    "start": 1.78,
+                    "end": 2.92,
+                    "probability": 0.9743126630783081
+                },
+                {
+                    "word": " drivers",
+                    "start": 2.92,
+                    "end": 3.5,
+                    "probability": 0.2601425051689148
+                },
+                {
+                    "word": " say",
+                    "start": 3.5,
+                    "end": 3.84,
+                    "probability": 0.5623468160629272
+                },
+                {
+                    "word": " beyond",
+                    "start": 3.84,
+                    "end": 4.1,
+                    "probability": 0.2776547968387604
+                },
+                {
+                    "word": " even",
+                    "start": 4.1,
+                    "end": 4.78,
+                    "probability": 0.2585999667644501
+                },
+                {
+                    "word": " knows",
+                    "start": 4.78,
+                    "end": 5.16,
+                    "probability": 0.5071813464164734
+                },
+                {
+                    "word": " what",
+                    "start": 5.16,
+                    "end": 5.32,
+                    "probability": 0.970737636089325
+                },
+                {
+                    "word": " you're",
+                    "start": 5.32,
+                    "end": 5.52,
+                    "probability": 0.844317227602005
+                },
+                {
+                    "word": " doing.",
+                    "start": 5.52,
+                    "end": 5.92,
+                    "probability": 0.9989797472953796
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.46,
+            "end": 9.44,
+            "text": " And third I said, I'll go to Guarzadur.",
+            "tokens": [
+                50664,
+                400,
+                2636,
+                286,
+                848,
+                11,
+                286,
+                603,
+                352,
+                281,
+                2694,
+                289,
+                89,
+                345,
+                374,
+                13,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.8276048093228727,
+            "compression_ratio": 1.116504854368932,
+            "no_speech_prob": 0.012321469374001026,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 6.46,
+                    "end": 6.52,
+                    "probability": 0.791488766670227
+                },
+                {
+                    "word": " third",
+                    "start": 6.52,
+                    "end": 6.7,
+                    "probability": 0.9582148790359497
+                },
+                {
+                    "word": " I",
+                    "start": 6.7,
+                    "end": 6.96,
+                    "probability": 0.38837382197380066
+                },
+                {
+                    "word": " said,",
+                    "start": 6.96,
+                    "end": 7.46,
+                    "probability": 0.7560147643089294
+                },
+                {
+                    "word": " I'll",
+                    "start": 8.54,
+                    "end": 8.64,
+                    "probability": 0.17128417640924454
+                },
+                {
+                    "word": " go",
+                    "start": 8.64,
+                    "end": 9.06,
+                    "probability": 0.435442715883255
+                },
+                {
+                    "word": " to",
+                    "start": 9.06,
+                    "end": 9.06,
+                    "probability": 0.20248441398143768
+                },
+                {
+                    "word": " Guarzadur.",
+                    "start": 9.06,
+                    "end": 9.44,
+                    "probability": 0.3366264127194881
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

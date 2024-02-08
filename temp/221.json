@@ -1,0 +1,145 @@
+{
+    "text": " Now so for us entry is simple, exit is difficult, for them entry is the difficult part.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.24,
+            "text": " Now so for us entry is simple, exit is difficult, for them entry is the difficult part.",
+            "tokens": [
+                50364,
+                823,
+                370,
+                337,
+                505,
+                8729,
+                307,
+                2199,
+                11,
+                11043,
+                307,
+                2252,
+                11,
+                337,
+                552,
+                8729,
+                307,
+                264,
+                2252,
+                644,
+                13,
+                50636
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4537435614544412,
+            "compression_ratio": 1.2083333333333333,
+            "no_speech_prob": 0.22925814986228943,
+            "words": [
+                {
+                    "word": " Now",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.2254086434841156
+                },
+                {
+                    "word": " so",
+                    "start": 0.28,
+                    "end": 0.48,
+                    "probability": 0.7172800302505493
+                },
+                {
+                    "word": " for",
+                    "start": 0.48,
+                    "end": 0.62,
+                    "probability": 0.7862659096717834
+                },
+                {
+                    "word": " us",
+                    "start": 0.62,
+                    "end": 0.9,
+                    "probability": 0.9953299760818481
+                },
+                {
+                    "word": " entry",
+                    "start": 0.9,
+                    "end": 1.2,
+                    "probability": 0.4726034998893738
+                },
+                {
+                    "word": " is",
+                    "start": 1.2,
+                    "end": 1.46,
+                    "probability": 0.8833624124526978
+                },
+                {
+                    "word": " simple,",
+                    "start": 1.46,
+                    "end": 1.68,
+                    "probability": 0.9511619210243225
+                },
+                {
+                    "word": " exit",
+                    "start": 1.78,
+                    "end": 1.94,
+                    "probability": 0.2808021605014801
+                },
+                {
+                    "word": " is",
+                    "start": 1.94,
+                    "end": 2.18,
+                    "probability": 0.9835056662559509
+                },
+                {
+                    "word": " difficult,",
+                    "start": 2.18,
+                    "end": 2.48,
+                    "probability": 0.9836070537567139
+                },
+                {
+                    "word": " for",
+                    "start": 3.38,
+                    "end": 3.56,
+                    "probability": 0.8463680148124695
+                },
+                {
+                    "word": " them",
+                    "start": 3.56,
+                    "end": 3.94,
+                    "probability": 0.9798448085784912
+                },
+                {
+                    "word": " entry",
+                    "start": 3.94,
+                    "end": 4.2,
+                    "probability": 0.8173760175704956
+                },
+                {
+                    "word": " is",
+                    "start": 4.2,
+                    "end": 4.4,
+                    "probability": 0.9916908740997314
+                },
+                {
+                    "word": " the",
+                    "start": 4.4,
+                    "end": 4.46,
+                    "probability": 0.8860035538673401
+                },
+                {
+                    "word": " difficult",
+                    "start": 4.46,
+                    "end": 4.78,
+                    "probability": 0.8919638395309448
+                },
+                {
+                    "word": " part.",
+                    "start": 4.78,
+                    "end": 5.24,
+                    "probability": 0.8234044909477234
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

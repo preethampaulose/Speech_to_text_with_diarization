@@ -1,0 +1,320 @@
+{
+    "text": " I feel, when family starts to do it, you start become little less ambitious. You start to feel that life is more about these small moments that happen as rather than I have to make a partner.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.54,
+            "text": " I feel, when family starts to do it, you start become little less ambitious.",
+            "tokens": [
+                50364,
+                286,
+                841,
+                11,
+                562,
+                1605,
+                3719,
+                281,
+                360,
+                309,
+                11,
+                291,
+                722,
+                1813,
+                707,
+                1570,
+                20239,
+                13,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6842060883839926,
+            "compression_ratio": 1.4148148148148147,
+            "no_speech_prob": 0.022040221840143204,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.58,
+                    "probability": 0.471280962228775
+                },
+                {
+                    "word": " feel,",
+                    "start": 0.58,
+                    "end": 0.96,
+                    "probability": 0.9346297979354858
+                },
+                {
+                    "word": " when",
+                    "start": 1.04,
+                    "end": 1.46,
+                    "probability": 0.7713991403579712
+                },
+                {
+                    "word": " family",
+                    "start": 1.46,
+                    "end": 1.8,
+                    "probability": 0.2621431052684784
+                },
+                {
+                    "word": " starts",
+                    "start": 1.8,
+                    "end": 2.04,
+                    "probability": 0.5418959856033325
+                },
+                {
+                    "word": " to",
+                    "start": 2.04,
+                    "end": 2.18,
+                    "probability": 0.27577897906303406
+                },
+                {
+                    "word": " do",
+                    "start": 2.18,
+                    "end": 2.34,
+                    "probability": 0.29439496994018555
+                },
+                {
+                    "word": " it,",
+                    "start": 2.34,
+                    "end": 2.52,
+                    "probability": 0.34333401918411255
+                },
+                {
+                    "word": " you",
+                    "start": 2.6,
+                    "end": 2.6,
+                    "probability": 0.9352177977561951
+                },
+                {
+                    "word": " start",
+                    "start": 2.6,
+                    "end": 2.84,
+                    "probability": 0.9692109227180481
+                },
+                {
+                    "word": " become",
+                    "start": 2.84,
+                    "end": 3.18,
+                    "probability": 0.6661152839660645
+                },
+                {
+                    "word": " little",
+                    "start": 3.18,
+                    "end": 3.7,
+                    "probability": 0.591247022151947
+                },
+                {
+                    "word": " less",
+                    "start": 3.7,
+                    "end": 4.12,
+                    "probability": 0.9603182077407837
+                },
+                {
+                    "word": " ambitious.",
+                    "start": 4.12,
+                    "end": 4.54,
+                    "probability": 0.9536755084991455
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.4,
+            "end": 12.52,
+            "text": " You start to feel that life is more about these small moments that happen as rather than",
+            "tokens": [
+                50614,
+                509,
+                722,
+                281,
+                841,
+                300,
+                993,
+                307,
+                544,
+                466,
+                613,
+                1359,
+                6065,
+                300,
+                1051,
+                382,
+                2831,
+                813,
+                50984
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6842060883839926,
+            "compression_ratio": 1.4148148148148147,
+            "no_speech_prob": 0.022040221840143204,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 5.4,
+                    "end": 5.56,
+                    "probability": 0.8368646502494812
+                },
+                {
+                    "word": " start",
+                    "start": 5.56,
+                    "end": 6.02,
+                    "probability": 0.9872670769691467
+                },
+                {
+                    "word": " to",
+                    "start": 6.02,
+                    "end": 6.24,
+                    "probability": 0.9962202906608582
+                },
+                {
+                    "word": " feel",
+                    "start": 6.24,
+                    "end": 6.56,
+                    "probability": 0.9981693029403687
+                },
+                {
+                    "word": " that",
+                    "start": 6.56,
+                    "end": 7.28,
+                    "probability": 0.8126513361930847
+                },
+                {
+                    "word": " life",
+                    "start": 7.28,
+                    "end": 7.66,
+                    "probability": 0.9713391065597534
+                },
+                {
+                    "word": " is",
+                    "start": 7.66,
+                    "end": 7.96,
+                    "probability": 0.9944796562194824
+                },
+                {
+                    "word": " more",
+                    "start": 7.96,
+                    "end": 8.14,
+                    "probability": 0.9961376786231995
+                },
+                {
+                    "word": " about",
+                    "start": 8.14,
+                    "end": 8.66,
+                    "probability": 0.9896469712257385
+                },
+                {
+                    "word": " these",
+                    "start": 8.66,
+                    "end": 9.0,
+                    "probability": 0.6885707974433899
+                },
+                {
+                    "word": " small",
+                    "start": 9.0,
+                    "end": 9.32,
+                    "probability": 0.9933387637138367
+                },
+                {
+                    "word": " moments",
+                    "start": 9.32,
+                    "end": 9.88,
+                    "probability": 0.9230639934539795
+                },
+                {
+                    "word": " that",
+                    "start": 9.88,
+                    "end": 10.52,
+                    "probability": 0.8771818280220032
+                },
+                {
+                    "word": " happen",
+                    "start": 10.52,
+                    "end": 10.78,
+                    "probability": 0.7135022878646851
+                },
+                {
+                    "word": " as",
+                    "start": 10.78,
+                    "end": 11.76,
+                    "probability": 0.30105534195899963
+                },
+                {
+                    "word": " rather",
+                    "start": 11.76,
+                    "end": 12.12,
+                    "probability": 0.8122216463088989
+                },
+                {
+                    "word": " than",
+                    "start": 12.12,
+                    "end": 12.52,
+                    "probability": 0.9754137396812439
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 12.52,
+            "end": 14.46,
+            "text": " I have to make a partner.",
+            "tokens": [
+                50984,
+                286,
+                362,
+                281,
+                652,
+                257,
+                4975,
+                13,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6842060883839926,
+            "compression_ratio": 1.4148148148148147,
+            "no_speech_prob": 0.022040221840143204,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 12.52,
+                    "end": 13.42,
+                    "probability": 0.06788264214992523
+                },
+                {
+                    "word": " have",
+                    "start": 13.42,
+                    "end": 13.42,
+                    "probability": 0.12800177931785583
+                },
+                {
+                    "word": " to",
+                    "start": 13.42,
+                    "end": 13.46,
+                    "probability": 0.11522749066352844
+                },
+                {
+                    "word": " make",
+                    "start": 13.46,
+                    "end": 13.46,
+                    "probability": 0.20430916547775269
+                },
+                {
+                    "word": " a",
+                    "start": 13.46,
+                    "end": 13.82,
+                    "probability": 0.3998633027076721
+                },
+                {
+                    "word": " partner.",
+                    "start": 13.82,
+                    "end": 14.46,
+                    "probability": 0.815348744392395
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

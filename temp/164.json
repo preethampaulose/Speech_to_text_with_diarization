@@ -1,0 +1,189 @@
+{
+    "text": " I know when I get 10X from here, I will have a still the same insecurity, how will I get 10X from here.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.36,
+            "text": " I know when I get 10X from here, I will have a still the same insecurity, how will I get 10X from here.",
+            "tokens": [
+                50364,
+                286,
+                458,
+                562,
+                286,
+                483,
+                1266,
+                55,
+                490,
+                510,
+                11,
+                286,
+                486,
+                362,
+                257,
+                920,
+                264,
+                912,
+                35058,
+                11,
+                577,
+                486,
+                286,
+                483,
+                1266,
+                55,
+                490,
+                510,
+                13,
+                50624
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3930660678494361,
+            "compression_ratio": 1.2261904761904763,
+            "no_speech_prob": 0.02997525781393051,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.7671951055526733
+                },
+                {
+                    "word": " know",
+                    "start": 0.28,
+                    "end": 0.42,
+                    "probability": 0.9943329095840454
+                },
+                {
+                    "word": " when",
+                    "start": 0.42,
+                    "end": 0.62,
+                    "probability": 0.7337857484817505
+                },
+                {
+                    "word": " I",
+                    "start": 0.62,
+                    "end": 1.04,
+                    "probability": 0.8014755845069885
+                },
+                {
+                    "word": " get",
+                    "start": 1.04,
+                    "end": 1.36,
+                    "probability": 0.5525667667388916
+                },
+                {
+                    "word": " 10X",
+                    "start": 1.36,
+                    "end": 1.68,
+                    "probability": 0.5504898726940155
+                },
+                {
+                    "word": " from",
+                    "start": 1.68,
+                    "end": 1.86,
+                    "probability": 0.9509047865867615
+                },
+                {
+                    "word": " here,",
+                    "start": 1.86,
+                    "end": 2.12,
+                    "probability": 0.9890088438987732
+                },
+                {
+                    "word": " I",
+                    "start": 2.38,
+                    "end": 2.52,
+                    "probability": 0.7903211712837219
+                },
+                {
+                    "word": " will",
+                    "start": 2.52,
+                    "end": 2.7,
+                    "probability": 0.9148228168487549
+                },
+                {
+                    "word": " have",
+                    "start": 2.7,
+                    "end": 2.96,
+                    "probability": 0.6552280783653259
+                },
+                {
+                    "word": " a",
+                    "start": 2.96,
+                    "end": 3.0,
+                    "probability": 0.39019477367401123
+                },
+                {
+                    "word": " still",
+                    "start": 3.0,
+                    "end": 3.14,
+                    "probability": 0.6772369146347046
+                },
+                {
+                    "word": " the",
+                    "start": 3.14,
+                    "end": 3.38,
+                    "probability": 0.9178207516670227
+                },
+                {
+                    "word": " same",
+                    "start": 3.38,
+                    "end": 3.56,
+                    "probability": 0.9985688924789429
+                },
+                {
+                    "word": " insecurity,",
+                    "start": 3.56,
+                    "end": 3.96,
+                    "probability": 0.7660577297210693
+                },
+                {
+                    "word": " how",
+                    "start": 4.18,
+                    "end": 4.26,
+                    "probability": 0.9469408392906189
+                },
+                {
+                    "word": " will",
+                    "start": 4.26,
+                    "end": 4.44,
+                    "probability": 0.869785487651825
+                },
+                {
+                    "word": " I",
+                    "start": 4.44,
+                    "end": 4.64,
+                    "probability": 0.9835832715034485
+                },
+                {
+                    "word": " get",
+                    "start": 4.64,
+                    "end": 4.64,
+                    "probability": 0.9934908151626587
+                },
+                {
+                    "word": " 10X",
+                    "start": 4.64,
+                    "end": 4.88,
+                    "probability": 0.9856703281402588
+                },
+                {
+                    "word": " from",
+                    "start": 4.88,
+                    "end": 5.06,
+                    "probability": 0.990140974521637
+                },
+                {
+                    "word": " here.",
+                    "start": 5.06,
+                    "end": 5.36,
+                    "probability": 0.9745233058929443
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

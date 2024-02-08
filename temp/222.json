@@ -1,0 +1,45 @@
+{
+    "text": " If I could.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.44,
+            "text": " If I could.",
+            "tokens": [
+                50364,
+                759,
+                286,
+                727,
+                13,
+                50389
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9866492407662528,
+            "compression_ratio": 0.5789473684210527,
+            "no_speech_prob": 0.5327706336975098,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 0.0,
+                    "end": 0.2,
+                    "probability": 0.08252370357513428
+                },
+                {
+                    "word": " I",
+                    "start": 0.2,
+                    "end": 0.34,
+                    "probability": 0.8501157164573669
+                },
+                {
+                    "word": " could.",
+                    "start": 0.34,
+                    "end": 0.44,
+                    "probability": 0.7556783556938171
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

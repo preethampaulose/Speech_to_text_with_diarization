@@ -1,0 +1,558 @@
+{
+    "text": " So in the private side of things or at least the Bangalore or whatever people who watch with wealth YouTube channel right They would be thinking about what you mean Loose like yes, is that a thought on the public services side carry a good? You know people have these fancy excel sheets saying you need to make some 20 to 20 to CR Do you",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.5600000000000005,
+            "text": " So in the private side of things or at least the Bangalore or whatever people who watch with wealth YouTube channel right",
+            "tokens": [
+                50364,
+                407,
+                294,
+                264,
+                4551,
+                1252,
+                295,
+                721,
+                420,
+                412,
+                1935,
+                264,
+                11538,
+                304,
+                418,
+                420,
+                2035,
+                561,
+                567,
+                1159,
+                365,
+                7203,
+                3088,
+                2269,
+                558,
+                50692
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5535851920523295,
+            "compression_ratio": 1.5112107623318385,
+            "no_speech_prob": 0.01719491183757782,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 1.02,
+                    "probability": 0.4505825936794281
+                },
+                {
+                    "word": " in",
+                    "start": 1.02,
+                    "end": 1.24,
+                    "probability": 0.6007513403892517
+                },
+                {
+                    "word": " the",
+                    "start": 1.24,
+                    "end": 1.42,
+                    "probability": 0.9781786799430847
+                },
+                {
+                    "word": " private",
+                    "start": 1.42,
+                    "end": 1.7,
+                    "probability": 0.9851085543632507
+                },
+                {
+                    "word": " side",
+                    "start": 1.7,
+                    "end": 2.04,
+                    "probability": 0.937929630279541
+                },
+                {
+                    "word": " of",
+                    "start": 2.04,
+                    "end": 2.06,
+                    "probability": 0.9845216870307922
+                },
+                {
+                    "word": " things",
+                    "start": 2.06,
+                    "end": 2.26,
+                    "probability": 0.9737665057182312
+                },
+                {
+                    "word": " or",
+                    "start": 2.26,
+                    "end": 2.44,
+                    "probability": 0.7206116914749146
+                },
+                {
+                    "word": " at",
+                    "start": 2.44,
+                    "end": 2.6,
+                    "probability": 0.9858333468437195
+                },
+                {
+                    "word": " least",
+                    "start": 2.6,
+                    "end": 2.7,
+                    "probability": 0.9880132675170898
+                },
+                {
+                    "word": " the",
+                    "start": 2.7,
+                    "end": 2.88,
+                    "probability": 0.9387977123260498
+                },
+                {
+                    "word": " Bangalore",
+                    "start": 2.88,
+                    "end": 3.38,
+                    "probability": 0.8327208360036215
+                },
+                {
+                    "word": " or",
+                    "start": 3.38,
+                    "end": 3.94,
+                    "probability": 0.3744875192642212
+                },
+                {
+                    "word": " whatever",
+                    "start": 3.94,
+                    "end": 4.34,
+                    "probability": 0.7175096869468689
+                },
+                {
+                    "word": " people",
+                    "start": 4.34,
+                    "end": 4.74,
+                    "probability": 0.5675594210624695
+                },
+                {
+                    "word": " who",
+                    "start": 4.74,
+                    "end": 5.02,
+                    "probability": 0.8527702689170837
+                },
+                {
+                    "word": " watch",
+                    "start": 5.02,
+                    "end": 5.2,
+                    "probability": 0.9729471206665039
+                },
+                {
+                    "word": " with",
+                    "start": 5.2,
+                    "end": 5.38,
+                    "probability": 0.3209792673587799
+                },
+                {
+                    "word": " wealth",
+                    "start": 5.38,
+                    "end": 5.7,
+                    "probability": 0.3444811701774597
+                },
+                {
+                    "word": " YouTube",
+                    "start": 5.7,
+                    "end": 6.08,
+                    "probability": 0.4342857897281647
+                },
+                {
+                    "word": " channel",
+                    "start": 6.08,
+                    "end": 6.46,
+                    "probability": 0.9232444167137146
+                },
+                {
+                    "word": " right",
+                    "start": 6.46,
+                    "end": 6.759999999999999,
+                    "probability": 0.4826374053955078
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.14,
+            "end": 9.54,
+            "text": " They would be thinking about what you mean",
+            "tokens": [
+                50717,
+                814,
+                576,
+                312,
+                1953,
+                466,
+                437,
+                291,
+                914,
+                50838
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5535851920523295,
+            "compression_ratio": 1.5112107623318385,
+            "no_speech_prob": 0.01719491183757782,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 7.14,
+                    "end": 7.68,
+                    "probability": 0.06662759929895401
+                },
+                {
+                    "word": " would",
+                    "start": 7.68,
+                    "end": 7.84,
+                    "probability": 0.986071765422821
+                },
+                {
+                    "word": " be",
+                    "start": 7.84,
+                    "end": 7.98,
+                    "probability": 0.9981485605239868
+                },
+                {
+                    "word": " thinking",
+                    "start": 7.98,
+                    "end": 8.28,
+                    "probability": 0.9962628483772278
+                },
+                {
+                    "word": " about",
+                    "start": 8.28,
+                    "end": 8.64,
+                    "probability": 0.9927018880844116
+                },
+                {
+                    "word": " what",
+                    "start": 8.64,
+                    "end": 8.84,
+                    "probability": 0.9265714287757874
+                },
+                {
+                    "word": " you",
+                    "start": 8.84,
+                    "end": 9.24,
+                    "probability": 0.39424407482147217
+                },
+                {
+                    "word": " mean",
+                    "start": 9.24,
+                    "end": 9.54,
+                    "probability": 0.830435037612915
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.54,
+            "end": 15.2,
+            "text": " Loose like yes, is that a thought on the public services side carry a good?",
+            "tokens": [
+                50838,
+                6130,
+                541,
+                411,
+                2086,
+                11,
+                307,
+                300,
+                257,
+                1194,
+                322,
+                264,
+                1908,
+                3328,
+                1252,
+                3985,
+                257,
+                665,
+                30,
+                51109
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5535851920523295,
+            "compression_ratio": 1.5112107623318385,
+            "no_speech_prob": 0.01719491183757782,
+            "words": [
+                {
+                    "word": " Loose",
+                    "start": 9.54,
+                    "end": 10.18,
+                    "probability": 0.1438780170865357
+                },
+                {
+                    "word": " like",
+                    "start": 10.18,
+                    "end": 10.7,
+                    "probability": 0.31274402141571045
+                },
+                {
+                    "word": " yes,",
+                    "start": 10.7,
+                    "end": 11.18,
+                    "probability": 0.3394237458705902
+                },
+                {
+                    "word": " is",
+                    "start": 11.56,
+                    "end": 11.56,
+                    "probability": 0.9669116139411926
+                },
+                {
+                    "word": " that",
+                    "start": 11.56,
+                    "end": 11.68,
+                    "probability": 0.9894142150878906
+                },
+                {
+                    "word": " a",
+                    "start": 11.68,
+                    "end": 11.9,
+                    "probability": 0.9790869951248169
+                },
+                {
+                    "word": " thought",
+                    "start": 11.9,
+                    "end": 12.24,
+                    "probability": 0.9906861186027527
+                },
+                {
+                    "word": " on",
+                    "start": 12.24,
+                    "end": 12.56,
+                    "probability": 0.9504106640815735
+                },
+                {
+                    "word": " the",
+                    "start": 12.56,
+                    "end": 13.32,
+                    "probability": 0.990242063999176
+                },
+                {
+                    "word": " public",
+                    "start": 13.32,
+                    "end": 13.62,
+                    "probability": 0.7724456787109375
+                },
+                {
+                    "word": " services",
+                    "start": 13.62,
+                    "end": 13.98,
+                    "probability": 0.8512154221534729
+                },
+                {
+                    "word": " side",
+                    "start": 13.98,
+                    "end": 14.3,
+                    "probability": 0.5128722786903381
+                },
+                {
+                    "word": " carry",
+                    "start": 14.3,
+                    "end": 14.6,
+                    "probability": 0.22354978322982788
+                },
+                {
+                    "word": " a",
+                    "start": 14.6,
+                    "end": 14.82,
+                    "probability": 0.18016913533210754
+                },
+                {
+                    "word": " good?",
+                    "start": 14.82,
+                    "end": 15.2,
+                    "probability": 0.06277685612440109
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.2,
+            "end": 20.2,
+            "text": " You know people have these fancy excel sheets saying you need to make some 20 to 20 to CR",
+            "tokens": [
+                51122,
+                509,
+                458,
+                561,
+                362,
+                613,
+                10247,
+                24015,
+                15421,
+                1566,
+                291,
+                643,
+                281,
+                652,
+                512,
+                945,
+                281,
+                945,
+                281,
+                14123,
+                51367
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5535851920523295,
+            "compression_ratio": 1.5112107623318385,
+            "no_speech_prob": 0.01719491183757782,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 15.2,
+                    "end": 15.7,
+                    "probability": 0.9261800646781921
+                },
+                {
+                    "word": " know",
+                    "start": 15.7,
+                    "end": 15.86,
+                    "probability": 0.998993456363678
+                },
+                {
+                    "word": " people",
+                    "start": 15.86,
+                    "end": 16.08,
+                    "probability": 0.9271073341369629
+                },
+                {
+                    "word": " have",
+                    "start": 16.08,
+                    "end": 16.34,
+                    "probability": 0.9945743680000305
+                },
+                {
+                    "word": " these",
+                    "start": 16.34,
+                    "end": 16.56,
+                    "probability": 0.9573380947113037
+                },
+                {
+                    "word": " fancy",
+                    "start": 16.56,
+                    "end": 16.92,
+                    "probability": 0.9957614541053772
+                },
+                {
+                    "word": " excel",
+                    "start": 16.92,
+                    "end": 17.26,
+                    "probability": 0.32626578211784363
+                },
+                {
+                    "word": " sheets",
+                    "start": 17.26,
+                    "end": 17.6,
+                    "probability": 0.9010258316993713
+                },
+                {
+                    "word": " saying",
+                    "start": 17.6,
+                    "end": 17.86,
+                    "probability": 0.48929041624069214
+                },
+                {
+                    "word": " you",
+                    "start": 17.86,
+                    "end": 18.0,
+                    "probability": 0.9838581681251526
+                },
+                {
+                    "word": " need",
+                    "start": 18.0,
+                    "end": 18.18,
+                    "probability": 0.9960098266601562
+                },
+                {
+                    "word": " to",
+                    "start": 18.18,
+                    "end": 18.32,
+                    "probability": 0.998458743095398
+                },
+                {
+                    "word": " make",
+                    "start": 18.32,
+                    "end": 18.5,
+                    "probability": 0.975066602230072
+                },
+                {
+                    "word": " some",
+                    "start": 18.5,
+                    "end": 18.7,
+                    "probability": 0.8256506323814392
+                },
+                {
+                    "word": " 20",
+                    "start": 18.7,
+                    "end": 19.12,
+                    "probability": 0.6206525564193726
+                },
+                {
+                    "word": " to",
+                    "start": 19.12,
+                    "end": 19.38,
+                    "probability": 0.6535099744796753
+                },
+                {
+                    "word": " 20",
+                    "start": 19.38,
+                    "end": 19.58,
+                    "probability": 0.6734596490859985
+                },
+                {
+                    "word": " to",
+                    "start": 19.58,
+                    "end": 19.82,
+                    "probability": 0.8507048487663269
+                },
+                {
+                    "word": " CR",
+                    "start": 19.82,
+                    "end": 20.2,
+                    "probability": 0.7375964522361755
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 20.2,
+            "end": 20.96,
+            "text": " Do you",
+            "tokens": [
+                51384,
+                1144,
+                291,
+                51484
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5535851920523295,
+            "compression_ratio": 1.5112107623318385,
+            "no_speech_prob": 0.01719491183757782,
+            "words": [
+                {
+                    "word": " Do",
+                    "start": 20.2,
+                    "end": 20.96,
+                    "probability": 0.04414866492152214
+                },
+                {
+                    "word": " you",
+                    "start": 20.96,
+                    "end": 20.96,
+                    "probability": 0.99660325050354
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

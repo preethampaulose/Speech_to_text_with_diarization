@@ -1,0 +1,966 @@
+{
+    "text": " and me but dont mean speaking speaking now But it is dirty Okay Man Well so in that The next time you will feel the same thing Power is right. Power. And the other thing that is going on is that the money is going on. The money is going on. The money is going on. The respect and the prestige that comes from the job. A president of India that signs of your appointment is in. And we have protected by the constitution of India. Can no one can fire us below the president of India.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.86,
+            "text": " and me but dont mean speaking speaking now",
+            "tokens": [
+                50364,
+                293,
+                385,
+                457,
+                9400,
+                914,
+                4124,
+                4124,
+                586,
+                50493
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.653683684593023,
+            "compression_ratio": 1.2475247524752475,
+            "no_speech_prob": 0.43937256932258606,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 0.0,
+                    "end": 0.18,
+                    "probability": 0.025936339050531387
+                },
+                {
+                    "word": " me",
+                    "start": 0.18,
+                    "end": 0.18,
+                    "probability": 0.0004202949348837137
+                },
+                {
+                    "word": " but",
+                    "start": 0.18,
+                    "end": 0.18,
+                    "probability": 0.0018728767754510045
+                },
+                {
+                    "word": " dont",
+                    "start": 0.18,
+                    "end": 0.18,
+                    "probability": 0.0003373193903826177
+                },
+                {
+                    "word": " mean",
+                    "start": 0.18,
+                    "end": 1.02,
+                    "probability": 0.0008081692503765225
+                },
+                {
+                    "word": " speaking",
+                    "start": 1.02,
+                    "end": 1.08,
+                    "probability": 0.0017684188205748796
+                },
+                {
+                    "word": " speaking",
+                    "start": 1.08,
+                    "end": 2.66,
+                    "probability": 0.0043443068861961365
+                },
+                {
+                    "word": " now",
+                    "start": 2.66,
+                    "end": 2.86,
+                    "probability": 0.0008542127907276154
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.86,
+            "end": 6.88,
+            "text": " But it is dirty",
+            "tokens": [
+                50678,
+                583,
+                309,
+                307,
+                9360,
+                50782
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.653683684593023,
+            "compression_ratio": 1.2475247524752475,
+            "no_speech_prob": 0.43937256932258606,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 2.86,
+                    "end": 3.04,
+                    "probability": 0.0012228807900100946
+                },
+                {
+                    "word": " it",
+                    "start": 3.04,
+                    "end": 3.04,
+                    "probability": 0.044180840253829956
+                },
+                {
+                    "word": " is",
+                    "start": 3.04,
+                    "end": 5.26,
+                    "probability": 0.18292421102523804
+                },
+                {
+                    "word": " dirty",
+                    "start": 5.26,
+                    "end": 6.88,
+                    "probability": 4.4609609176404774e-05
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.88,
+            "end": 7.74,
+            "text": " Okay",
+            "tokens": [
+                50818,
+                1033,
+                50859
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.653683684593023,
+            "compression_ratio": 1.2475247524752475,
+            "no_speech_prob": 0.43937256932258606,
+            "words": [
+                {
+                    "word": " Okay",
+                    "start": 6.88,
+                    "end": 7.74,
+                    "probability": 0.0010722336592152715
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 9.88,
+            "end": 11.26,
+            "text": " Man",
+            "tokens": [
+                51265,
+                2458,
+                51319
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.653683684593023,
+            "compression_ratio": 1.2475247524752475,
+            "no_speech_prob": 0.43937256932258606,
+            "words": [
+                {
+                    "word": " Man",
+                    "start": 9.88,
+                    "end": 11.26,
+                    "probability": 0.00023821396462153643
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 11.26,
+            "end": 13.86,
+            "text": " Well so in that",
+            "tokens": [
+                51456,
+                1042,
+                370,
+                294,
+                300,
+                51545
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.653683684593023,
+            "compression_ratio": 1.2475247524752475,
+            "no_speech_prob": 0.43937256932258606,
+            "words": [
+                {
+                    "word": " Well",
+                    "start": 11.26,
+                    "end": 12.48,
+                    "probability": 0.0008250931277871132
+                },
+                {
+                    "word": " so",
+                    "start": 12.48,
+                    "end": 13.22,
+                    "probability": 0.006274506449699402
+                },
+                {
+                    "word": " in",
+                    "start": 13.22,
+                    "end": 13.86,
+                    "probability": 0.0059066289104521275
+                },
+                {
+                    "word": " that",
+                    "start": 13.86,
+                    "end": 13.86,
+                    "probability": 0.057236991822719574
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 18.62,
+            "end": 23.9,
+            "text": " The next time you will feel",
+            "tokens": [
+                51583,
+                440,
+                958,
+                565,
+                291,
+                486,
+                841,
+                51598
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.653683684593023,
+            "compression_ratio": 1.2475247524752475,
+            "no_speech_prob": 0.43937256932258606,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 18.62,
+                    "end": 20.0,
+                    "probability": 0.00010140489030163735
+                },
+                {
+                    "word": " next",
+                    "start": 20.0,
+                    "end": 20.56,
+                    "probability": 0.021683810278773308
+                },
+                {
+                    "word": " time",
+                    "start": 20.56,
+                    "end": 23.06,
+                    "probability": 0.5108960866928101
+                },
+                {
+                    "word": " you",
+                    "start": 23.06,
+                    "end": 23.22,
+                    "probability": 0.1719546765089035
+                },
+                {
+                    "word": " will",
+                    "start": 23.22,
+                    "end": 23.58,
+                    "probability": 0.05863289535045624
+                },
+                {
+                    "word": " feel",
+                    "start": 23.58,
+                    "end": 23.9,
+                    "probability": 0.33422714471817017
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 23.9,
+            "end": 25.94,
+            "text": " the same thing",
+            "tokens": [
+                51643,
+                264,
+                912,
+                551,
+                51713
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.653683684593023,
+            "compression_ratio": 1.2475247524752475,
+            "no_speech_prob": 0.43937256932258606,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 23.9,
+                    "end": 24.1,
+                    "probability": 0.08541877567768097
+                },
+                {
+                    "word": " same",
+                    "start": 24.1,
+                    "end": 25.62,
+                    "probability": 0.38710975646972656
+                },
+                {
+                    "word": " thing",
+                    "start": 25.62,
+                    "end": 25.94,
+                    "probability": 0.2830696105957031
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 2594,
+            "start": 25.94,
+            "end": 26.84,
+            "text": " Power is right.",
+            "tokens": [
+                50364,
+                7086,
+                307,
+                558,
+                13,
+                50414
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7465285476373167,
+            "compression_ratio": 1.9135135135135135,
+            "no_speech_prob": 0.0017314981669187546,
+            "words": [
+                {
+                    "word": " Power",
+                    "start": 25.94,
+                    "end": 26.36,
+                    "probability": 0.1669263392686844
+                },
+                {
+                    "word": " is",
+                    "start": 26.36,
+                    "end": 26.7,
+                    "probability": 0.07153498381376266
+                },
+                {
+                    "word": " right.",
+                    "start": 26.7,
+                    "end": 26.84,
+                    "probability": 0.029593775048851967
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2594,
+            "start": 27.24,
+            "end": 27.44,
+            "text": " Power.",
+            "tokens": [
+                50414,
+                7086,
+                13,
+                50464
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7465285476373167,
+            "compression_ratio": 1.9135135135135135,
+            "no_speech_prob": 0.0017314981669187546,
+            "words": [
+                {
+                    "word": " Power.",
+                    "start": 27.24,
+                    "end": 27.44,
+                    "probability": 0.119720458984375
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 2594,
+            "start": 27.96,
+            "end": 32.98,
+            "text": " And the other thing that is going on is that the money is going on.",
+            "tokens": [
+                50464,
+                400,
+                264,
+                661,
+                551,
+                300,
+                307,
+                516,
+                322,
+                307,
+                300,
+                264,
+                1460,
+                307,
+                516,
+                322,
+                13,
+                50714
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7465285476373167,
+            "compression_ratio": 1.9135135135135135,
+            "no_speech_prob": 0.0017314981669187546,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 27.96,
+                    "end": 27.98,
+                    "probability": 0.7240378260612488
+                },
+                {
+                    "word": " the",
+                    "start": 27.98,
+                    "end": 28.08,
+                    "probability": 0.2212541401386261
+                },
+                {
+                    "word": " other",
+                    "start": 28.08,
+                    "end": 28.28,
+                    "probability": 0.48682188987731934
+                },
+                {
+                    "word": " thing",
+                    "start": 28.28,
+                    "end": 28.78,
+                    "probability": 0.5086542367935181
+                },
+                {
+                    "word": " that",
+                    "start": 28.78,
+                    "end": 29.88,
+                    "probability": 0.09816684573888779
+                },
+                {
+                    "word": " is",
+                    "start": 29.88,
+                    "end": 29.88,
+                    "probability": 0.08793547749519348
+                },
+                {
+                    "word": " going",
+                    "start": 29.88,
+                    "end": 29.88,
+                    "probability": 0.15950168669223785
+                },
+                {
+                    "word": " on",
+                    "start": 29.88,
+                    "end": 29.88,
+                    "probability": 0.5137884020805359
+                },
+                {
+                    "word": " is",
+                    "start": 29.88,
+                    "end": 30.0,
+                    "probability": 0.10543381422758102
+                },
+                {
+                    "word": " that",
+                    "start": 30.0,
+                    "end": 30.98,
+                    "probability": 0.2280547022819519
+                },
+                {
+                    "word": " the",
+                    "start": 30.98,
+                    "end": 31.78,
+                    "probability": 0.10546687245368958
+                },
+                {
+                    "word": " money",
+                    "start": 31.78,
+                    "end": 32.02,
+                    "probability": 0.09227673709392548
+                },
+                {
+                    "word": " is",
+                    "start": 32.02,
+                    "end": 32.48,
+                    "probability": 0.2842349410057068
+                },
+                {
+                    "word": " going",
+                    "start": 32.48,
+                    "end": 32.48,
+                    "probability": 0.1237337663769722
+                },
+                {
+                    "word": " on.",
+                    "start": 32.48,
+                    "end": 32.98,
+                    "probability": 0.7670440077781677
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 2594,
+            "start": 33.38,
+            "end": 34.0,
+            "text": " The money is going on.",
+            "tokens": [
+                50714,
+                440,
+                1460,
+                307,
+                516,
+                322,
+                13,
+                50764
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7465285476373167,
+            "compression_ratio": 1.9135135135135135,
+            "no_speech_prob": 0.0017314981669187546,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 33.38,
+                    "end": 33.56,
+                    "probability": 0.10828157514333725
+                },
+                {
+                    "word": " money",
+                    "start": 33.56,
+                    "end": 33.76,
+                    "probability": 0.10791312903165817
+                },
+                {
+                    "word": " is",
+                    "start": 33.76,
+                    "end": 33.76,
+                    "probability": 0.4286435842514038
+                },
+                {
+                    "word": " going",
+                    "start": 33.76,
+                    "end": 33.76,
+                    "probability": 0.581449031829834
+                },
+                {
+                    "word": " on.",
+                    "start": 33.76,
+                    "end": 34.0,
+                    "probability": 0.9592920541763306
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 2594,
+            "start": 34.06,
+            "end": 35.14,
+            "text": " The money is going on.",
+            "tokens": [
+                50764,
+                440,
+                1460,
+                307,
+                516,
+                322,
+                13,
+                50814
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7465285476373167,
+            "compression_ratio": 1.9135135135135135,
+            "no_speech_prob": 0.0017314981669187546,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 34.06,
+                    "end": 34.06,
+                    "probability": 0.23559574782848358
+                },
+                {
+                    "word": " money",
+                    "start": 34.06,
+                    "end": 34.36,
+                    "probability": 0.15890483558177948
+                },
+                {
+                    "word": " is",
+                    "start": 34.36,
+                    "end": 34.76,
+                    "probability": 0.4921978712081909
+                },
+                {
+                    "word": " going",
+                    "start": 34.76,
+                    "end": 35.14,
+                    "probability": 0.719458281993866
+                },
+                {
+                    "word": " on.",
+                    "start": 35.14,
+                    "end": 35.14,
+                    "probability": 0.9754137396812439
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 2594,
+            "start": 35.64,
+            "end": 39.02,
+            "text": " The respect and the prestige that comes from the job.",
+            "tokens": [
+                50814,
+                440,
+                3104,
+                293,
+                264,
+                42531,
+                300,
+                1487,
+                490,
+                264,
+                1691,
+                13,
+                51014
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7465285476373167,
+            "compression_ratio": 1.9135135135135135,
+            "no_speech_prob": 0.0017314981669187546,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 35.64,
+                    "end": 36.22,
+                    "probability": 0.3597736656665802
+                },
+                {
+                    "word": " respect",
+                    "start": 36.22,
+                    "end": 37.04,
+                    "probability": 0.18030788004398346
+                },
+                {
+                    "word": " and",
+                    "start": 37.04,
+                    "end": 37.44,
+                    "probability": 0.9390431642532349
+                },
+                {
+                    "word": " the",
+                    "start": 37.44,
+                    "end": 37.6,
+                    "probability": 0.6772168874740601
+                },
+                {
+                    "word": " prestige",
+                    "start": 37.6,
+                    "end": 37.98,
+                    "probability": 0.9847247004508972
+                },
+                {
+                    "word": " that",
+                    "start": 37.98,
+                    "end": 38.3,
+                    "probability": 0.6572982668876648
+                },
+                {
+                    "word": " comes",
+                    "start": 38.3,
+                    "end": 38.44,
+                    "probability": 0.8059998750686646
+                },
+                {
+                    "word": " from",
+                    "start": 38.44,
+                    "end": 38.66,
+                    "probability": 0.5614528656005859
+                },
+                {
+                    "word": " the",
+                    "start": 38.66,
+                    "end": 38.7,
+                    "probability": 0.7319802045822144
+                },
+                {
+                    "word": " job.",
+                    "start": 38.7,
+                    "end": 39.02,
+                    "probability": 0.9795324206352234
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 2594,
+            "start": 39.78,
+            "end": 43.18,
+            "text": " A president of India that signs of your appointment is in.",
+            "tokens": [
+                51014,
+                316,
+                3868,
+                295,
+                5282,
+                300,
+                7880,
+                295,
+                428,
+                13653,
+                307,
+                294,
+                13,
+                51214
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7465285476373167,
+            "compression_ratio": 1.9135135135135135,
+            "no_speech_prob": 0.0017314981669187546,
+            "words": [
+                {
+                    "word": " A",
+                    "start": 39.78,
+                    "end": 39.78,
+                    "probability": 0.2855418920516968
+                },
+                {
+                    "word": " president",
+                    "start": 39.78,
+                    "end": 40.24,
+                    "probability": 0.5030754804611206
+                },
+                {
+                    "word": " of",
+                    "start": 40.24,
+                    "end": 40.5,
+                    "probability": 0.9613134860992432
+                },
+                {
+                    "word": " India",
+                    "start": 40.5,
+                    "end": 40.74,
+                    "probability": 0.9960629343986511
+                },
+                {
+                    "word": " that",
+                    "start": 40.74,
+                    "end": 41.36,
+                    "probability": 0.19213232398033142
+                },
+                {
+                    "word": " signs",
+                    "start": 41.36,
+                    "end": 41.9,
+                    "probability": 0.3089158833026886
+                },
+                {
+                    "word": " of",
+                    "start": 41.9,
+                    "end": 42.12,
+                    "probability": 0.25317439436912537
+                },
+                {
+                    "word": " your",
+                    "start": 42.12,
+                    "end": 42.3,
+                    "probability": 0.6320081949234009
+                },
+                {
+                    "word": " appointment",
+                    "start": 42.3,
+                    "end": 42.68,
+                    "probability": 0.9871066212654114
+                },
+                {
+                    "word": " is",
+                    "start": 42.68,
+                    "end": 42.96,
+                    "probability": 0.4125955104827881
+                },
+                {
+                    "word": " in.",
+                    "start": 42.96,
+                    "end": 43.18,
+                    "probability": 0.04619773477315903
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 2594,
+            "start": 43.8,
+            "end": 46.5,
+            "text": " And we have protected by the constitution of India.",
+            "tokens": [
+                51214,
+                400,
+                321,
+                362,
+                10594,
+                538,
+                264,
+                11937,
+                295,
+                5282,
+                13,
+                51364
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7465285476373167,
+            "compression_ratio": 1.9135135135135135,
+            "no_speech_prob": 0.0017314981669187546,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 43.8,
+                    "end": 44.08,
+                    "probability": 0.8148030638694763
+                },
+                {
+                    "word": " we",
+                    "start": 44.08,
+                    "end": 44.38,
+                    "probability": 0.9671633243560791
+                },
+                {
+                    "word": " have",
+                    "start": 44.38,
+                    "end": 44.48,
+                    "probability": 0.7678367495536804
+                },
+                {
+                    "word": " protected",
+                    "start": 44.48,
+                    "end": 44.94,
+                    "probability": 0.9543523192405701
+                },
+                {
+                    "word": " by",
+                    "start": 44.94,
+                    "end": 45.26,
+                    "probability": 0.9507951736450195
+                },
+                {
+                    "word": " the",
+                    "start": 45.26,
+                    "end": 45.48,
+                    "probability": 0.9892513155937195
+                },
+                {
+                    "word": " constitution",
+                    "start": 45.48,
+                    "end": 45.88,
+                    "probability": 0.6940417885780334
+                },
+                {
+                    "word": " of",
+                    "start": 45.88,
+                    "end": 46.18,
+                    "probability": 0.9911831617355347
+                },
+                {
+                    "word": " India.",
+                    "start": 46.18,
+                    "end": 46.5,
+                    "probability": 0.9974925518035889
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "seek": 2594,
+            "start": 46.9,
+            "end": 49.16,
+            "text": " Can no one can fire us below the president of India.",
+            "tokens": [
+                51364,
+                1664,
+                572,
+                472,
+                393,
+                2610,
+                505,
+                2507,
+                264,
+                3868,
+                295,
+                5282,
+                13,
+                51514
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.7465285476373167,
+            "compression_ratio": 1.9135135135135135,
+            "no_speech_prob": 0.0017314981669187546,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 46.9,
+                    "end": 46.98,
+                    "probability": 0.40160393714904785
+                },
+                {
+                    "word": " no",
+                    "start": 46.98,
+                    "end": 47.14,
+                    "probability": 0.5413393378257751
+                },
+                {
+                    "word": " one",
+                    "start": 47.14,
+                    "end": 47.38,
+                    "probability": 0.9883332848548889
+                },
+                {
+                    "word": " can",
+                    "start": 47.38,
+                    "end": 47.5,
+                    "probability": 0.9355943202972412
+                },
+                {
+                    "word": " fire",
+                    "start": 47.5,
+                    "end": 47.72,
+                    "probability": 0.6248940825462341
+                },
+                {
+                    "word": " us",
+                    "start": 47.72,
+                    "end": 48.06,
+                    "probability": 0.9893864393234253
+                },
+                {
+                    "word": " below",
+                    "start": 48.06,
+                    "end": 48.26,
+                    "probability": 0.8478000164031982
+                },
+                {
+                    "word": " the",
+                    "start": 48.26,
+                    "end": 48.5,
+                    "probability": 0.979941725730896
+                },
+                {
+                    "word": " president",
+                    "start": 48.5,
+                    "end": 48.76,
+                    "probability": 0.931265115737915
+                },
+                {
+                    "word": " of",
+                    "start": 48.76,
+                    "end": 49.0,
+                    "probability": 0.9921326041221619
+                },
+                {
+                    "word": " India.",
+                    "start": 49.0,
+                    "end": 49.16,
+                    "probability": 0.9969081282615662
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

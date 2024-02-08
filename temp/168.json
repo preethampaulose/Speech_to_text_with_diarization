@@ -1,0 +1,410 @@
+{
+    "text": " you are saying that I draw this much salary, I draw that man. But there are always esophs, equity, when you get an exit, so you get a huge chunk of money. So, how do these things work out and can save an initial decision to save a revolt?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.7,
+            "text": " you are saying that I draw this much salary, I draw that man.",
+            "tokens": [
+                50364,
+                291,
+                366,
+                1566,
+                300,
+                286,
+                2642,
+                341,
+                709,
+                15360,
+                11,
+                286,
+                2642,
+                300,
+                587,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5424124977805398,
+            "compression_ratio": 1.451219512195122,
+            "no_speech_prob": 0.028185537084937096,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.4328174293041229
+                },
+                {
+                    "word": " are",
+                    "start": 0.26,
+                    "end": 0.44,
+                    "probability": 0.6270192861557007
+                },
+                {
+                    "word": " saying",
+                    "start": 0.44,
+                    "end": 0.58,
+                    "probability": 0.9629572033882141
+                },
+                {
+                    "word": " that",
+                    "start": 0.58,
+                    "end": 0.98,
+                    "probability": 0.8336409330368042
+                },
+                {
+                    "word": " I",
+                    "start": 0.98,
+                    "end": 1.04,
+                    "probability": 0.7280231714248657
+                },
+                {
+                    "word": " draw",
+                    "start": 1.04,
+                    "end": 1.24,
+                    "probability": 0.9835900664329529
+                },
+                {
+                    "word": " this",
+                    "start": 1.24,
+                    "end": 1.44,
+                    "probability": 0.9659128189086914
+                },
+                {
+                    "word": " much",
+                    "start": 1.44,
+                    "end": 1.62,
+                    "probability": 0.36647918820381165
+                },
+                {
+                    "word": " salary,",
+                    "start": 1.62,
+                    "end": 1.96,
+                    "probability": 0.8987025022506714
+                },
+                {
+                    "word": " I",
+                    "start": 2.22,
+                    "end": 2.22,
+                    "probability": 0.9313989281654358
+                },
+                {
+                    "word": " draw",
+                    "start": 2.22,
+                    "end": 2.32,
+                    "probability": 0.9901680946350098
+                },
+                {
+                    "word": " that",
+                    "start": 2.32,
+                    "end": 2.54,
+                    "probability": 0.9851306080818176
+                },
+                {
+                    "word": " man.",
+                    "start": 2.54,
+                    "end": 2.7,
+                    "probability": 0.5688165426254272
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.8,
+            "end": 8.88,
+            "text": " But there are always esophs, equity, when you get an exit, so you get a huge chunk of money.",
+            "tokens": [
+                50496,
+                583,
+                456,
+                366,
+                1009,
+                785,
+                5317,
+                82,
+                11,
+                10769,
+                11,
+                562,
+                291,
+                483,
+                364,
+                11043,
+                11,
+                370,
+                291,
+                483,
+                257,
+                2603,
+                16635,
+                295,
+                1460,
+                13,
+                50818
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5424124977805398,
+            "compression_ratio": 1.451219512195122,
+            "no_speech_prob": 0.028185537084937096,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 2.8,
+                    "end": 2.84,
+                    "probability": 0.701089084148407
+                },
+                {
+                    "word": " there",
+                    "start": 2.84,
+                    "end": 3.04,
+                    "probability": 0.9514669179916382
+                },
+                {
+                    "word": " are",
+                    "start": 3.04,
+                    "end": 3.24,
+                    "probability": 0.9885531663894653
+                },
+                {
+                    "word": " always",
+                    "start": 3.24,
+                    "end": 3.54,
+                    "probability": 0.9971945285797119
+                },
+                {
+                    "word": " esophs,",
+                    "start": 3.54,
+                    "end": 4.34,
+                    "probability": 0.35939839482307434
+                },
+                {
+                    "word": " equity,",
+                    "start": 4.48,
+                    "end": 4.78,
+                    "probability": 0.8884546756744385
+                },
+                {
+                    "word": " when",
+                    "start": 5.88,
+                    "end": 5.94,
+                    "probability": 0.9676607251167297
+                },
+                {
+                    "word": " you",
+                    "start": 5.94,
+                    "end": 6.46,
+                    "probability": 0.9970893263816833
+                },
+                {
+                    "word": " get",
+                    "start": 6.46,
+                    "end": 6.66,
+                    "probability": 0.7876636981964111
+                },
+                {
+                    "word": " an",
+                    "start": 6.66,
+                    "end": 6.9,
+                    "probability": 0.9177011251449585
+                },
+                {
+                    "word": " exit,",
+                    "start": 6.9,
+                    "end": 7.22,
+                    "probability": 0.9501734375953674
+                },
+                {
+                    "word": " so",
+                    "start": 7.52,
+                    "end": 7.54,
+                    "probability": 0.5620920062065125
+                },
+                {
+                    "word": " you",
+                    "start": 7.54,
+                    "end": 7.58,
+                    "probability": 0.9891555905342102
+                },
+                {
+                    "word": " get",
+                    "start": 7.58,
+                    "end": 7.78,
+                    "probability": 0.993939995765686
+                },
+                {
+                    "word": " a",
+                    "start": 7.78,
+                    "end": 7.94,
+                    "probability": 0.9745987057685852
+                },
+                {
+                    "word": " huge",
+                    "start": 7.94,
+                    "end": 8.12,
+                    "probability": 0.8588327169418335
+                },
+                {
+                    "word": " chunk",
+                    "start": 8.12,
+                    "end": 8.32,
+                    "probability": 0.9984038472175598
+                },
+                {
+                    "word": " of",
+                    "start": 8.32,
+                    "end": 8.5,
+                    "probability": 0.9980529546737671
+                },
+                {
+                    "word": " money.",
+                    "start": 8.5,
+                    "end": 8.88,
+                    "probability": 0.9994379878044128
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.76,
+            "end": 13.64,
+            "text": " So, how do these things work out and can save an initial decision to save a revolt?",
+            "tokens": [
+                50818,
+                407,
+                11,
+                577,
+                360,
+                613,
+                721,
+                589,
+                484,
+                293,
+                393,
+                3155,
+                364,
+                5883,
+                3537,
+                281,
+                3155,
+                257,
+                42568,
+                30,
+                51053
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.5424124977805398,
+            "compression_ratio": 1.451219512195122,
+            "no_speech_prob": 0.028185537084937096,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 9.76,
+                    "end": 9.76,
+                    "probability": 0.9341251254081726
+                },
+                {
+                    "word": " how",
+                    "start": 9.94,
+                    "end": 10.1,
+                    "probability": 0.5693103671073914
+                },
+                {
+                    "word": " do",
+                    "start": 10.1,
+                    "end": 10.3,
+                    "probability": 0.3450905978679657
+                },
+                {
+                    "word": " these",
+                    "start": 10.3,
+                    "end": 10.42,
+                    "probability": 0.5693191885948181
+                },
+                {
+                    "word": " things",
+                    "start": 10.42,
+                    "end": 10.66,
+                    "probability": 0.9803017973899841
+                },
+                {
+                    "word": " work",
+                    "start": 10.66,
+                    "end": 10.88,
+                    "probability": 0.9810799360275269
+                },
+                {
+                    "word": " out",
+                    "start": 10.88,
+                    "end": 11.22,
+                    "probability": 0.9938030242919922
+                },
+                {
+                    "word": " and",
+                    "start": 11.22,
+                    "end": 11.52,
+                    "probability": 0.5252624154090881
+                },
+                {
+                    "word": " can",
+                    "start": 11.52,
+                    "end": 11.66,
+                    "probability": 0.08368969708681107
+                },
+                {
+                    "word": " save",
+                    "start": 11.66,
+                    "end": 11.86,
+                    "probability": 0.28861525654792786
+                },
+                {
+                    "word": " an",
+                    "start": 11.86,
+                    "end": 12.0,
+                    "probability": 0.4259338974952698
+                },
+                {
+                    "word": " initial",
+                    "start": 12.0,
+                    "end": 12.2,
+                    "probability": 0.14097140729427338
+                },
+                {
+                    "word": " decision",
+                    "start": 12.2,
+                    "end": 12.56,
+                    "probability": 0.950370728969574
+                },
+                {
+                    "word": " to",
+                    "start": 12.56,
+                    "end": 12.86,
+                    "probability": 0.8240320086479187
+                },
+                {
+                    "word": " save",
+                    "start": 12.86,
+                    "end": 13.12,
+                    "probability": 0.16374756395816803
+                },
+                {
+                    "word": " a",
+                    "start": 13.12,
+                    "end": 13.4,
+                    "probability": 0.5566046237945557
+                },
+                {
+                    "word": " revolt?",
+                    "start": 13.4,
+                    "end": 13.64,
+                    "probability": 0.3649919927120209
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

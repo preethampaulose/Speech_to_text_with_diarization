@@ -1,0 +1,185 @@
+{
+    "text": " for you. So, in my current salary guys I invest about 60 percent which is my savings in SIP's industry.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.46,
+            "text": " for you. So, in my current salary guys I invest about 60 percent which is my savings in",
+            "tokens": [
+                50364,
+                337,
+                291,
+                13,
+                407,
+                11,
+                294,
+                452,
+                2190,
+                15360,
+                1074,
+                286,
+                1963,
+                466,
+                4060,
+                3043,
+                597,
+                307,
+                452,
+                13454,
+                294,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4937173843383789,
+            "compression_ratio": 1.0729166666666667,
+            "no_speech_prob": 0.026241833344101906,
+            "words": [
+                {
+                    "word": " for",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.6990278959274292
+                },
+                {
+                    "word": " you.",
+                    "start": 0.28,
+                    "end": 0.62,
+                    "probability": 0.9797096252441406
+                },
+                {
+                    "word": " So,",
+                    "start": 1.36,
+                    "end": 1.54,
+                    "probability": 0.9268966317176819
+                },
+                {
+                    "word": " in",
+                    "start": 1.66,
+                    "end": 1.72,
+                    "probability": 0.8197511434555054
+                },
+                {
+                    "word": " my",
+                    "start": 1.72,
+                    "end": 1.9,
+                    "probability": 0.9945555925369263
+                },
+                {
+                    "word": " current",
+                    "start": 1.9,
+                    "end": 2.16,
+                    "probability": 0.983578085899353
+                },
+                {
+                    "word": " salary",
+                    "start": 2.16,
+                    "end": 2.46,
+                    "probability": 0.7576562762260437
+                },
+                {
+                    "word": " guys",
+                    "start": 2.46,
+                    "end": 2.96,
+                    "probability": 0.4988602101802826
+                },
+                {
+                    "word": " I",
+                    "start": 2.96,
+                    "end": 3.44,
+                    "probability": 0.663727343082428
+                },
+                {
+                    "word": " invest",
+                    "start": 3.44,
+                    "end": 3.7,
+                    "probability": 0.9629322290420532
+                },
+                {
+                    "word": " about",
+                    "start": 3.7,
+                    "end": 4.08,
+                    "probability": 0.9694322943687439
+                },
+                {
+                    "word": " 60",
+                    "start": 4.08,
+                    "end": 4.44,
+                    "probability": 0.7221214771270752
+                },
+                {
+                    "word": " percent",
+                    "start": 4.44,
+                    "end": 5.24,
+                    "probability": 0.5493832230567932
+                },
+                {
+                    "word": " which",
+                    "start": 5.24,
+                    "end": 5.48,
+                    "probability": 0.6742429137229919
+                },
+                {
+                    "word": " is",
+                    "start": 5.48,
+                    "end": 5.66,
+                    "probability": 0.9919535517692566
+                },
+                {
+                    "word": " my",
+                    "start": 5.66,
+                    "end": 5.82,
+                    "probability": 0.9949195981025696
+                },
+                {
+                    "word": " savings",
+                    "start": 5.82,
+                    "end": 6.32,
+                    "probability": 0.9328194856643677
+                },
+                {
+                    "word": " in",
+                    "start": 6.32,
+                    "end": 7.46,
+                    "probability": 0.9625298976898193
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.12,
+            "end": 9.08,
+            "text": " SIP's industry.",
+            "tokens": [
+                50714,
+                318,
+                9139,
+                311,
+                3518,
+                13,
+                50828
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4937173843383789,
+            "compression_ratio": 1.0729166666666667,
+            "no_speech_prob": 0.026241833344101906,
+            "words": [
+                {
+                    "word": " SIP's",
+                    "start": 8.12,
+                    "end": 8.76,
+                    "probability": 0.5818702379862467
+                },
+                {
+                    "word": " industry.",
+                    "start": 8.76,
+                    "end": 9.08,
+                    "probability": 0.6529539823532104
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

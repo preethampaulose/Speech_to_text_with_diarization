@@ -1,0 +1,624 @@
+{
+    "text": " My grandfather wanted me to be a IS officer and the reason is he was a Pune in Usma Ravad collector. So my mom actually grew up in collectors buffalo like you know God girl. I mean of course there is some perception of power Red, you know this seems like a more stable job, but when both of you have worked in sort of private markets So what was the motivation to sort of",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.0200000000000005,
+            "text": " My grandfather wanted me to be a IS officer and the reason is he was a Pune in",
+            "tokens": [
+                50364,
+                1222,
+                14754,
+                1415,
+                385,
+                281,
+                312,
+                257,
+                6205,
+                8456,
+                293,
+                264,
+                1778,
+                307,
+                415,
+                390,
+                257,
+                430,
+                2613,
+                294,
+                50665
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49009201374459777,
+            "compression_ratio": 1.5654008438818565,
+            "no_speech_prob": 0.018744396045804024,
+            "words": [
+                {
+                    "word": " My",
+                    "start": 0.0,
+                    "end": 0.88,
+                    "probability": 0.5881337523460388
+                },
+                {
+                    "word": " grandfather",
+                    "start": 0.88,
+                    "end": 1.38,
+                    "probability": 0.9887498617172241
+                },
+                {
+                    "word": " wanted",
+                    "start": 1.38,
+                    "end": 1.8,
+                    "probability": 0.2275013029575348
+                },
+                {
+                    "word": " me",
+                    "start": 1.8,
+                    "end": 2.1,
+                    "probability": 0.9783087372779846
+                },
+                {
+                    "word": " to",
+                    "start": 2.1,
+                    "end": 2.2,
+                    "probability": 0.9911303520202637
+                },
+                {
+                    "word": " be",
+                    "start": 2.2,
+                    "end": 2.66,
+                    "probability": 0.9952620267868042
+                },
+                {
+                    "word": " a",
+                    "start": 2.66,
+                    "end": 2.7,
+                    "probability": 0.6669462323188782
+                },
+                {
+                    "word": " IS",
+                    "start": 2.7,
+                    "end": 2.92,
+                    "probability": 0.5128338932991028
+                },
+                {
+                    "word": " officer",
+                    "start": 2.92,
+                    "end": 3.32,
+                    "probability": 0.9744696617126465
+                },
+                {
+                    "word": " and",
+                    "start": 3.32,
+                    "end": 3.8,
+                    "probability": 0.42914360761642456
+                },
+                {
+                    "word": " the",
+                    "start": 3.8,
+                    "end": 3.84,
+                    "probability": 0.9644898176193237
+                },
+                {
+                    "word": " reason",
+                    "start": 3.84,
+                    "end": 4.08,
+                    "probability": 0.9970201849937439
+                },
+                {
+                    "word": " is",
+                    "start": 4.08,
+                    "end": 4.52,
+                    "probability": 0.8077311515808105
+                },
+                {
+                    "word": " he",
+                    "start": 4.52,
+                    "end": 4.64,
+                    "probability": 0.8003039360046387
+                },
+                {
+                    "word": " was",
+                    "start": 4.64,
+                    "end": 4.92,
+                    "probability": 0.9973784685134888
+                },
+                {
+                    "word": " a",
+                    "start": 4.92,
+                    "end": 5.2,
+                    "probability": 0.9628139734268188
+                },
+                {
+                    "word": " Pune",
+                    "start": 5.2,
+                    "end": 5.96,
+                    "probability": 0.4380393475294113
+                },
+                {
+                    "word": " in",
+                    "start": 5.96,
+                    "end": 6.24,
+                    "probability": 0.9257298111915588
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.6,
+            "end": 11.62,
+            "text": " Usma Ravad collector. So my mom actually grew up in collectors buffalo like you know",
+            "tokens": [
+                50665,
+                4958,
+                1696,
+                497,
+                706,
+                345,
+                23960,
+                13,
+                407,
+                452,
+                1225,
+                767,
+                6109,
+                493,
+                294,
+                35384,
+                39681,
+                411,
+                291,
+                458,
+                50923
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49009201374459777,
+            "compression_ratio": 1.5654008438818565,
+            "no_speech_prob": 0.018744396045804024,
+            "words": [
+                {
+                    "word": " Usma",
+                    "start": 6.6,
+                    "end": 6.96,
+                    "probability": 0.4852275103330612
+                },
+                {
+                    "word": " Ravad",
+                    "start": 6.96,
+                    "end": 7.24,
+                    "probability": 0.29008599122365314
+                },
+                {
+                    "word": " collector.",
+                    "start": 7.24,
+                    "end": 7.62,
+                    "probability": 0.17932510375976562
+                },
+                {
+                    "word": " So",
+                    "start": 7.94,
+                    "end": 7.94,
+                    "probability": 0.8573636412620544
+                },
+                {
+                    "word": " my",
+                    "start": 7.94,
+                    "end": 8.12,
+                    "probability": 0.8671268820762634
+                },
+                {
+                    "word": " mom",
+                    "start": 8.12,
+                    "end": 8.56,
+                    "probability": 0.9571443200111389
+                },
+                {
+                    "word": " actually",
+                    "start": 8.56,
+                    "end": 8.82,
+                    "probability": 0.9931580424308777
+                },
+                {
+                    "word": " grew",
+                    "start": 8.82,
+                    "end": 9.1,
+                    "probability": 0.9941636919975281
+                },
+                {
+                    "word": " up",
+                    "start": 9.1,
+                    "end": 9.76,
+                    "probability": 0.9937061667442322
+                },
+                {
+                    "word": " in",
+                    "start": 9.76,
+                    "end": 9.88,
+                    "probability": 0.5893748998641968
+                },
+                {
+                    "word": " collectors",
+                    "start": 9.88,
+                    "end": 10.24,
+                    "probability": 0.7291003465652466
+                },
+                {
+                    "word": " buffalo",
+                    "start": 10.24,
+                    "end": 10.64,
+                    "probability": 0.18139728903770447
+                },
+                {
+                    "word": " like",
+                    "start": 10.64,
+                    "end": 11.02,
+                    "probability": 0.3953758478164673
+                },
+                {
+                    "word": " you",
+                    "start": 11.02,
+                    "end": 11.06,
+                    "probability": 0.6697884798049927
+                },
+                {
+                    "word": " know",
+                    "start": 11.06,
+                    "end": 11.62,
+                    "probability": 0.9978752136230469
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.62,
+            "end": 14.74,
+            "text": " God girl. I mean of course there is some perception of power",
+            "tokens": [
+                50923,
+                1265,
+                2013,
+                13,
+                286,
+                914,
+                295,
+                1164,
+                456,
+                307,
+                512,
+                12860,
+                295,
+                1347,
+                51094
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49009201374459777,
+            "compression_ratio": 1.5654008438818565,
+            "no_speech_prob": 0.018744396045804024,
+            "words": [
+                {
+                    "word": " God",
+                    "start": 11.62,
+                    "end": 11.8,
+                    "probability": 0.14374226331710815
+                },
+                {
+                    "word": " girl.",
+                    "start": 11.8,
+                    "end": 12.34,
+                    "probability": 0.09870100766420364
+                },
+                {
+                    "word": " I",
+                    "start": 12.34,
+                    "end": 12.34,
+                    "probability": 0.901848316192627
+                },
+                {
+                    "word": " mean",
+                    "start": 12.34,
+                    "end": 12.72,
+                    "probability": 0.9986178874969482
+                },
+                {
+                    "word": " of",
+                    "start": 12.72,
+                    "end": 12.86,
+                    "probability": 0.819849967956543
+                },
+                {
+                    "word": " course",
+                    "start": 12.86,
+                    "end": 13.04,
+                    "probability": 0.9910978078842163
+                },
+                {
+                    "word": " there",
+                    "start": 13.04,
+                    "end": 13.3,
+                    "probability": 0.8666120767593384
+                },
+                {
+                    "word": " is",
+                    "start": 13.3,
+                    "end": 13.46,
+                    "probability": 0.9873765707015991
+                },
+                {
+                    "word": " some",
+                    "start": 13.46,
+                    "end": 13.76,
+                    "probability": 0.9611831903457642
+                },
+                {
+                    "word": " perception",
+                    "start": 13.76,
+                    "end": 14.08,
+                    "probability": 0.9960948824882507
+                },
+                {
+                    "word": " of",
+                    "start": 14.08,
+                    "end": 14.5,
+                    "probability": 0.9970058798789978
+                },
+                {
+                    "word": " power",
+                    "start": 14.5,
+                    "end": 14.74,
+                    "probability": 0.9735379815101624
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 14.74,
+            "end": 20.6,
+            "text": " Red, you know this seems like a more stable job, but when both of you have worked in sort of private markets",
+            "tokens": [
+                51094,
+                4477,
+                11,
+                291,
+                458,
+                341,
+                2544,
+                411,
+                257,
+                544,
+                8351,
+                1691,
+                11,
+                457,
+                562,
+                1293,
+                295,
+                291,
+                362,
+                2732,
+                294,
+                1333,
+                295,
+                4551,
+                8383,
+                51391
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49009201374459777,
+            "compression_ratio": 1.5654008438818565,
+            "no_speech_prob": 0.018744396045804024,
+            "words": [
+                {
+                    "word": " Red,",
+                    "start": 14.74,
+                    "end": 15.1,
+                    "probability": 0.06279224902391434
+                },
+                {
+                    "word": " you",
+                    "start": 15.4,
+                    "end": 15.4,
+                    "probability": 0.9216493368148804
+                },
+                {
+                    "word": " know",
+                    "start": 15.4,
+                    "end": 15.48,
+                    "probability": 0.9994528889656067
+                },
+                {
+                    "word": " this",
+                    "start": 15.48,
+                    "end": 15.66,
+                    "probability": 0.47352334856987
+                },
+                {
+                    "word": " seems",
+                    "start": 15.66,
+                    "end": 15.9,
+                    "probability": 0.9906942844390869
+                },
+                {
+                    "word": " like",
+                    "start": 15.9,
+                    "end": 16.14,
+                    "probability": 0.9975035786628723
+                },
+                {
+                    "word": " a",
+                    "start": 16.14,
+                    "end": 16.26,
+                    "probability": 0.9898626804351807
+                },
+                {
+                    "word": " more",
+                    "start": 16.26,
+                    "end": 16.4,
+                    "probability": 0.6270313858985901
+                },
+                {
+                    "word": " stable",
+                    "start": 16.4,
+                    "end": 16.66,
+                    "probability": 0.9969348907470703
+                },
+                {
+                    "word": " job,",
+                    "start": 16.66,
+                    "end": 17.18,
+                    "probability": 0.9978824257850647
+                },
+                {
+                    "word": " but",
+                    "start": 17.58,
+                    "end": 17.7,
+                    "probability": 0.9840710163116455
+                },
+                {
+                    "word": " when",
+                    "start": 17.7,
+                    "end": 18.18,
+                    "probability": 0.9810038208961487
+                },
+                {
+                    "word": " both",
+                    "start": 18.18,
+                    "end": 18.38,
+                    "probability": 0.9939063191413879
+                },
+                {
+                    "word": " of",
+                    "start": 18.38,
+                    "end": 18.54,
+                    "probability": 0.9986405968666077
+                },
+                {
+                    "word": " you",
+                    "start": 18.54,
+                    "end": 18.6,
+                    "probability": 0.9536716938018799
+                },
+                {
+                    "word": " have",
+                    "start": 18.6,
+                    "end": 18.82,
+                    "probability": 0.786401629447937
+                },
+                {
+                    "word": " worked",
+                    "start": 18.82,
+                    "end": 18.98,
+                    "probability": 0.987944483757019
+                },
+                {
+                    "word": " in",
+                    "start": 18.98,
+                    "end": 19.74,
+                    "probability": 0.9276108145713806
+                },
+                {
+                    "word": " sort",
+                    "start": 19.74,
+                    "end": 19.86,
+                    "probability": 0.7997984290122986
+                },
+                {
+                    "word": " of",
+                    "start": 19.86,
+                    "end": 20.06,
+                    "probability": 0.9983450174331665
+                },
+                {
+                    "word": " private",
+                    "start": 20.06,
+                    "end": 20.26,
+                    "probability": 0.9836122393608093
+                },
+                {
+                    "word": " markets",
+                    "start": 20.26,
+                    "end": 20.6,
+                    "probability": 0.9592850208282471
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 20.6,
+            "end": 23.12,
+            "text": " So what was the motivation to sort of",
+            "tokens": [
+                51408,
+                407,
+                437,
+                390,
+                264,
+                12335,
+                281,
+                1333,
+                295,
+                51520
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.49009201374459777,
+            "compression_ratio": 1.5654008438818565,
+            "no_speech_prob": 0.018744396045804024,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 20.6,
+                    "end": 21.44,
+                    "probability": 0.21801862120628357
+                },
+                {
+                    "word": " what",
+                    "start": 21.44,
+                    "end": 21.56,
+                    "probability": 0.9744561910629272
+                },
+                {
+                    "word": " was",
+                    "start": 21.56,
+                    "end": 21.76,
+                    "probability": 0.9752888679504395
+                },
+                {
+                    "word": " the",
+                    "start": 21.76,
+                    "end": 21.86,
+                    "probability": 0.9928172826766968
+                },
+                {
+                    "word": " motivation",
+                    "start": 21.86,
+                    "end": 22.36,
+                    "probability": 0.9974445104598999
+                },
+                {
+                    "word": " to",
+                    "start": 22.36,
+                    "end": 22.94,
+                    "probability": 0.9879961609840393
+                },
+                {
+                    "word": " sort",
+                    "start": 22.94,
+                    "end": 23.06,
+                    "probability": 0.9951767921447754
+                },
+                {
+                    "word": " of",
+                    "start": 23.06,
+                    "end": 23.34,
+                    "probability": 0.9979829788208008
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

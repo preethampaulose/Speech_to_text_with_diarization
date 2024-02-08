@@ -1,0 +1,136 @@
+{
+    "text": " you will need to own some of these assets. No, that's you, man.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.06,
+            "text": " you will need to own some of these assets.",
+            "tokens": [
+                50364,
+                291,
+                486,
+                643,
+                281,
+                1065,
+                512,
+                295,
+                613,
+                9769,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7414467853048573,
+            "compression_ratio": 0.9402985074626866,
+            "no_speech_prob": 0.19875690340995789,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.07722996175289154
+                },
+                {
+                    "word": " will",
+                    "start": 0.42,
+                    "end": 0.62,
+                    "probability": 0.818633496761322
+                },
+                {
+                    "word": " need",
+                    "start": 0.62,
+                    "end": 0.84,
+                    "probability": 0.9794871211051941
+                },
+                {
+                    "word": " to",
+                    "start": 0.84,
+                    "end": 1.06,
+                    "probability": 0.9726598858833313
+                },
+                {
+                    "word": " own",
+                    "start": 1.06,
+                    "end": 1.22,
+                    "probability": 0.3381381332874298
+                },
+                {
+                    "word": " some",
+                    "start": 1.22,
+                    "end": 1.5,
+                    "probability": 0.6759803295135498
+                },
+                {
+                    "word": " of",
+                    "start": 1.5,
+                    "end": 1.72,
+                    "probability": 0.9951451420783997
+                },
+                {
+                    "word": " these",
+                    "start": 1.72,
+                    "end": 1.86,
+                    "probability": 0.9901114106178284
+                },
+                {
+                    "word": " assets.",
+                    "start": 1.86,
+                    "end": 2.06,
+                    "probability": 0.46646997332572937
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.06,
+            "end": 2.82,
+            "text": " No, that's you, man.",
+            "tokens": [
+                50464,
+                883,
+                11,
+                300,
+                311,
+                291,
+                11,
+                587,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7414467853048573,
+            "compression_ratio": 0.9402985074626866,
+            "no_speech_prob": 0.19875690340995789,
+            "words": [
+                {
+                    "word": " No,",
+                    "start": 2.06,
+                    "end": 2.4,
+                    "probability": 0.13467556238174438
+                },
+                {
+                    "word": " that's",
+                    "start": 2.4,
+                    "end": 2.48,
+                    "probability": 0.6187492907047272
+                },
+                {
+                    "word": " you,",
+                    "start": 2.48,
+                    "end": 2.6,
+                    "probability": 0.3406493663787842
+                },
+                {
+                    "word": " man.",
+                    "start": 2.82,
+                    "end": 2.82,
+                    "probability": 0.8784245252609253
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

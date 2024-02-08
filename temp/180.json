@@ -1,0 +1,609 @@
+{
+    "text": " So mutual funds come from the top of the GB of sovereign gold bonds. They come from the top of the GB of sovereign gold bonds. And the PFF is investing. Because we are not allowed to do speculations. Whether you are trading, that is not allowed as per the conduct rules. That's right. So if you are investment, then it's a 50% of my salary.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.24,
+            "text": " So mutual funds come from the top of the GB of sovereign gold bonds.",
+            "tokens": [
+                50364,
+                407,
+                16917,
+                8271,
+                808,
+                490,
+                264,
+                1192,
+                295,
+                264,
+                460,
+                33,
+                295,
+                28756,
+                3821,
+                14713,
+                13,
+                50670
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9415774001288659,
+            "compression_ratio": 1.691542288557214,
+            "no_speech_prob": 0.006172997877001762,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 0.26,
+                    "probability": 0.1317812204360962
+                },
+                {
+                    "word": " mutual",
+                    "start": 0.26,
+                    "end": 0.68,
+                    "probability": 0.14140237867832184
+                },
+                {
+                    "word": " funds",
+                    "start": 0.68,
+                    "end": 1.0,
+                    "probability": 0.9926129579544067
+                },
+                {
+                    "word": " come",
+                    "start": 1.0,
+                    "end": 1.28,
+                    "probability": 0.11911164224147797
+                },
+                {
+                    "word": " from",
+                    "start": 1.28,
+                    "end": 1.7,
+                    "probability": 0.1946440488100052
+                },
+                {
+                    "word": " the",
+                    "start": 1.7,
+                    "end": 1.98,
+                    "probability": 0.13443346321582794
+                },
+                {
+                    "word": " top",
+                    "start": 1.98,
+                    "end": 2.06,
+                    "probability": 0.04687371477484703
+                },
+                {
+                    "word": " of",
+                    "start": 2.06,
+                    "end": 2.82,
+                    "probability": 0.1999908685684204
+                },
+                {
+                    "word": " the",
+                    "start": 2.82,
+                    "end": 2.92,
+                    "probability": 0.4423925578594208
+                },
+                {
+                    "word": " GB",
+                    "start": 2.92,
+                    "end": 3.4,
+                    "probability": 0.16496334969997406
+                },
+                {
+                    "word": " of",
+                    "start": 3.4,
+                    "end": 3.52,
+                    "probability": 0.2615905702114105
+                },
+                {
+                    "word": " sovereign",
+                    "start": 3.52,
+                    "end": 3.9,
+                    "probability": 0.34181487560272217
+                },
+                {
+                    "word": " gold",
+                    "start": 3.9,
+                    "end": 4.18,
+                    "probability": 0.8793524503707886
+                },
+                {
+                    "word": " bonds.",
+                    "start": 4.18,
+                    "end": 5.24,
+                    "probability": 0.9400594234466553
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.52,
+            "end": 8.32,
+            "text": " They come from the top of the GB of sovereign gold bonds.",
+            "tokens": [
+                50670,
+                814,
+                808,
+                490,
+                264,
+                1192,
+                295,
+                264,
+                460,
+                33,
+                295,
+                28756,
+                3821,
+                14713,
+                13,
+                50770
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9415774001288659,
+            "compression_ratio": 1.691542288557214,
+            "no_speech_prob": 0.006172997877001762,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 6.52,
+                    "end": 6.6,
+                    "probability": 0.1513298600912094
+                },
+                {
+                    "word": " come",
+                    "start": 6.6,
+                    "end": 6.6,
+                    "probability": 0.06059104576706886
+                },
+                {
+                    "word": " from",
+                    "start": 6.6,
+                    "end": 6.6,
+                    "probability": 0.830929160118103
+                },
+                {
+                    "word": " the",
+                    "start": 6.6,
+                    "end": 7.08,
+                    "probability": 0.43352508544921875
+                },
+                {
+                    "word": " top",
+                    "start": 7.08,
+                    "end": 7.1,
+                    "probability": 0.24981392920017242
+                },
+                {
+                    "word": " of",
+                    "start": 7.1,
+                    "end": 7.1,
+                    "probability": 0.867614209651947
+                },
+                {
+                    "word": " the",
+                    "start": 7.1,
+                    "end": 7.1,
+                    "probability": 0.7840179800987244
+                },
+                {
+                    "word": " GB",
+                    "start": 7.1,
+                    "end": 7.1,
+                    "probability": 0.8930043578147888
+                },
+                {
+                    "word": " of",
+                    "start": 7.1,
+                    "end": 8.32,
+                    "probability": 0.5815026760101318
+                },
+                {
+                    "word": " sovereign",
+                    "start": 8.32,
+                    "end": 8.32,
+                    "probability": 0.8513196706771851
+                },
+                {
+                    "word": " gold",
+                    "start": 8.32,
+                    "end": 8.32,
+                    "probability": 0.9787561893463135
+                },
+                {
+                    "word": " bonds.",
+                    "start": 8.32,
+                    "end": 8.32,
+                    "probability": 0.9680385589599609
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.66,
+            "end": 10.82,
+            "text": " And the PFF is investing.",
+            "tokens": [
+                50770,
+                400,
+                264,
+                430,
+                6345,
+                307,
+                10978,
+                13,
+                50932
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9415774001288659,
+            "compression_ratio": 1.691542288557214,
+            "no_speech_prob": 0.006172997877001762,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 8.66,
+                    "end": 8.7,
+                    "probability": 0.3362572491168976
+                },
+                {
+                    "word": " the",
+                    "start": 8.7,
+                    "end": 9.42,
+                    "probability": 0.1555226892232895
+                },
+                {
+                    "word": " PFF",
+                    "start": 9.42,
+                    "end": 10.12,
+                    "probability": 0.3112928494811058
+                },
+                {
+                    "word": " is",
+                    "start": 10.12,
+                    "end": 10.5,
+                    "probability": 0.11839065700769424
+                },
+                {
+                    "word": " investing.",
+                    "start": 10.5,
+                    "end": 10.82,
+                    "probability": 0.13392014801502228
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 11.34,
+            "end": 13.52,
+            "text": " Because we are not allowed to do speculations.",
+            "tokens": [
+                50932,
+                1436,
+                321,
+                366,
+                406,
+                4350,
+                281,
+                360,
+                1608,
+                4136,
+                13,
+                51038
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9415774001288659,
+            "compression_ratio": 1.691542288557214,
+            "no_speech_prob": 0.006172997877001762,
+            "words": [
+                {
+                    "word": " Because",
+                    "start": 11.34,
+                    "end": 11.56,
+                    "probability": 0.6536347270011902
+                },
+                {
+                    "word": " we",
+                    "start": 11.56,
+                    "end": 11.68,
+                    "probability": 0.9273707270622253
+                },
+                {
+                    "word": " are",
+                    "start": 11.68,
+                    "end": 11.84,
+                    "probability": 0.9128865003585815
+                },
+                {
+                    "word": " not",
+                    "start": 11.84,
+                    "end": 12.06,
+                    "probability": 0.9823542833328247
+                },
+                {
+                    "word": " allowed",
+                    "start": 12.06,
+                    "end": 12.36,
+                    "probability": 0.9971739053726196
+                },
+                {
+                    "word": " to",
+                    "start": 12.36,
+                    "end": 12.4,
+                    "probability": 0.995553195476532
+                },
+                {
+                    "word": " do",
+                    "start": 12.4,
+                    "end": 12.58,
+                    "probability": 0.9518367648124695
+                },
+                {
+                    "word": " speculations.",
+                    "start": 12.58,
+                    "end": 13.52,
+                    "probability": 0.8957698047161102
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 14.04,
+            "end": 17.04,
+            "text": " Whether you are trading, that is not allowed as per the conduct rules.",
+            "tokens": [
+                51038,
+                8503,
+                291,
+                366,
+                9529,
+                11,
+                300,
+                307,
+                406,
+                4350,
+                382,
+                680,
+                264,
+                6018,
+                4474,
+                13,
+                51218
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9415774001288659,
+            "compression_ratio": 1.691542288557214,
+            "no_speech_prob": 0.006172997877001762,
+            "words": [
+                {
+                    "word": " Whether",
+                    "start": 14.04,
+                    "end": 14.08,
+                    "probability": 0.11662507802248001
+                },
+                {
+                    "word": " you",
+                    "start": 14.08,
+                    "end": 14.32,
+                    "probability": 0.6500616669654846
+                },
+                {
+                    "word": " are",
+                    "start": 14.32,
+                    "end": 14.6,
+                    "probability": 0.7839738726615906
+                },
+                {
+                    "word": " trading,",
+                    "start": 14.6,
+                    "end": 14.6,
+                    "probability": 0.9942649006843567
+                },
+                {
+                    "word": " that",
+                    "start": 15.24,
+                    "end": 15.34,
+                    "probability": 0.8536369204521179
+                },
+                {
+                    "word": " is",
+                    "start": 15.34,
+                    "end": 15.5,
+                    "probability": 0.9366056323051453
+                },
+                {
+                    "word": " not",
+                    "start": 15.5,
+                    "end": 15.66,
+                    "probability": 0.9635700583457947
+                },
+                {
+                    "word": " allowed",
+                    "start": 15.66,
+                    "end": 15.88,
+                    "probability": 0.9996101260185242
+                },
+                {
+                    "word": " as",
+                    "start": 15.88,
+                    "end": 16.12,
+                    "probability": 0.3842045068740845
+                },
+                {
+                    "word": " per",
+                    "start": 16.12,
+                    "end": 16.26,
+                    "probability": 0.4352749288082123
+                },
+                {
+                    "word": " the",
+                    "start": 16.26,
+                    "end": 16.38,
+                    "probability": 0.9845067858695984
+                },
+                {
+                    "word": " conduct",
+                    "start": 16.38,
+                    "end": 16.56,
+                    "probability": 0.8898817300796509
+                },
+                {
+                    "word": " rules.",
+                    "start": 16.56,
+                    "end": 17.04,
+                    "probability": 0.9635128974914551
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 17.44,
+            "end": 17.84,
+            "text": " That's right.",
+            "tokens": [
+                51218,
+                663,
+                311,
+                558,
+                13,
+                51258
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9415774001288659,
+            "compression_ratio": 1.691542288557214,
+            "no_speech_prob": 0.006172997877001762,
+            "words": [
+                {
+                    "word": " That's",
+                    "start": 17.44,
+                    "end": 17.54,
+                    "probability": 0.46327612549066544
+                },
+                {
+                    "word": " right.",
+                    "start": 17.54,
+                    "end": 17.84,
+                    "probability": 0.22730541229248047
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 18.02,
+            "end": 21.92,
+            "text": " So if you are investment, then it's a 50% of my salary.",
+            "tokens": [
+                51258,
+                407,
+                498,
+                291,
+                366,
+                6078,
+                11,
+                550,
+                309,
+                311,
+                257,
+                2625,
+                4,
+                295,
+                452,
+                15360,
+                13,
+                51480
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.9415774001288659,
+            "compression_ratio": 1.691542288557214,
+            "no_speech_prob": 0.006172997877001762,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 18.02,
+                    "end": 18.18,
+                    "probability": 0.6288898587226868
+                },
+                {
+                    "word": " if",
+                    "start": 18.18,
+                    "end": 18.3,
+                    "probability": 0.23439866304397583
+                },
+                {
+                    "word": " you",
+                    "start": 18.3,
+                    "end": 18.3,
+                    "probability": 0.1780814677476883
+                },
+                {
+                    "word": " are",
+                    "start": 18.3,
+                    "end": 18.52,
+                    "probability": 0.5094181895256042
+                },
+                {
+                    "word": " investment,",
+                    "start": 18.52,
+                    "end": 18.96,
+                    "probability": 0.3398861289024353
+                },
+                {
+                    "word": " then",
+                    "start": 19.3,
+                    "end": 19.5,
+                    "probability": 0.20495808124542236
+                },
+                {
+                    "word": " it's",
+                    "start": 19.5,
+                    "end": 19.84,
+                    "probability": 0.20056693255901337
+                },
+                {
+                    "word": " a",
+                    "start": 19.84,
+                    "end": 20.44,
+                    "probability": 0.225357323884964
+                },
+                {
+                    "word": " 50",
+                    "start": 20.44,
+                    "end": 20.98,
+                    "probability": 0.6594716310501099
+                },
+                {
+                    "word": "%",
+                    "start": 20.98,
+                    "end": 21.34,
+                    "probability": 0.7820728421211243
+                },
+                {
+                    "word": " of",
+                    "start": 21.34,
+                    "end": 21.46,
+                    "probability": 0.8261007070541382
+                },
+                {
+                    "word": " my",
+                    "start": 21.46,
+                    "end": 21.58,
+                    "probability": 0.6406612396240234
+                },
+                {
+                    "word": " salary.",
+                    "start": 21.58,
+                    "end": 21.92,
+                    "probability": 0.9951295852661133
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

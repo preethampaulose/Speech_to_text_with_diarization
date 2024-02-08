@@ -1,0 +1,53 @@
+{
+    "text": " \u05e9\u05d0\ufffd to that, that.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.92,
+            "text": " \u05e9\u05d0\ufffd to that, that.",
+            "tokens": [
+                50364,
+                39360,
+                281,
+                300,
+                11,
+                300,
+                13,
+                50540
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.3709593878851996,
+            "compression_ratio": 0.8148148148148148,
+            "no_speech_prob": 0.41900435090065,
+            "words": [
+                {
+                    "word": " \u05e9\u05d0\ufffd",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 2.7777488753599755e-07
+                },
+                {
+                    "word": " to",
+                    "start": 0.4,
+                    "end": 0.42,
+                    "probability": 0.03999200090765953
+                },
+                {
+                    "word": " that,",
+                    "start": 0.42,
+                    "end": 0.58,
+                    "probability": 0.12642498314380646
+                },
+                {
+                    "word": " that.",
+                    "start": 0.72,
+                    "end": 0.92,
+                    "probability": 0.006072945427149534
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

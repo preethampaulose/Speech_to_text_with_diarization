@@ -1,0 +1,150 @@
+{
+    "text": " My name is Biscru. By the way, this number I have found is very cool.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.78,
+            "text": " My name is Biscru.",
+            "tokens": [
+                50364,
+                1222,
+                1315,
+                307,
+                363,
+                5606,
+                894,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6178779983520508,
+            "compression_ratio": 0.9583333333333334,
+            "no_speech_prob": 0.05179779976606369,
+            "words": [
+                {
+                    "word": " My",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.1397802084684372
+                },
+                {
+                    "word": " name",
+                    "start": 0.28,
+                    "end": 0.48,
+                    "probability": 0.847910463809967
+                },
+                {
+                    "word": " is",
+                    "start": 0.48,
+                    "end": 0.88,
+                    "probability": 0.9702044725418091
+                },
+                {
+                    "word": " Biscru.",
+                    "start": 0.88,
+                    "end": 1.78,
+                    "probability": 0.46269730230172473
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.82,
+            "end": 5.94,
+            "text": " By the way, this number I have found is very cool.",
+            "tokens": [
+                50464,
+                3146,
+                264,
+                636,
+                11,
+                341,
+                1230,
+                286,
+                362,
+                1352,
+                307,
+                588,
+                1627,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6178779983520508,
+            "compression_ratio": 0.9583333333333334,
+            "no_speech_prob": 0.05179779976606369,
+            "words": [
+                {
+                    "word": " By",
+                    "start": 2.82,
+                    "end": 2.98,
+                    "probability": 0.748867392539978
+                },
+                {
+                    "word": " the",
+                    "start": 2.98,
+                    "end": 3.08,
+                    "probability": 0.9837092161178589
+                },
+                {
+                    "word": " way,",
+                    "start": 3.08,
+                    "end": 3.44,
+                    "probability": 0.9994974136352539
+                },
+                {
+                    "word": " this",
+                    "start": 3.98,
+                    "end": 3.98,
+                    "probability": 0.8692637085914612
+                },
+                {
+                    "word": " number",
+                    "start": 3.98,
+                    "end": 4.62,
+                    "probability": 0.9602096080780029
+                },
+                {
+                    "word": " I",
+                    "start": 4.62,
+                    "end": 4.94,
+                    "probability": 0.6478811502456665
+                },
+                {
+                    "word": " have",
+                    "start": 4.94,
+                    "end": 5.18,
+                    "probability": 0.9409263730049133
+                },
+                {
+                    "word": " found",
+                    "start": 5.18,
+                    "end": 5.38,
+                    "probability": 0.9957022070884705
+                },
+                {
+                    "word": " is",
+                    "start": 5.38,
+                    "end": 5.7,
+                    "probability": 0.5810790061950684
+                },
+                {
+                    "word": " very",
+                    "start": 5.7,
+                    "end": 5.84,
+                    "probability": 0.9897844195365906
+                },
+                {
+                    "word": " cool.",
+                    "start": 5.84,
+                    "end": 5.94,
+                    "probability": 0.35064417123794556
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

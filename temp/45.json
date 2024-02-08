@@ -1,0 +1,333 @@
+{
+    "text": " Yeah, so through classmates I got a CTC of around 16 lakhs then I was transferred to the Houston office Houston there the CTC I would say was about $150,000 salary plus the apartment and the vehicle then there to",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.18,
+            "text": " Yeah, so through classmates I got a CTC of around 16 lakhs then I was transferred to the Houston office",
+            "tokens": [
+                50364,
+                865,
+                11,
+                370,
+                807,
+                24964,
+                286,
+                658,
+                257,
+                19529,
+                34,
+                295,
+                926,
+                3165,
+                33314,
+                82,
+                550,
+                286,
+                390,
+                15809,
+                281,
+                264,
+                18717,
+                3398,
+                50707
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4541742251469539,
+            "compression_ratio": 1.3766233766233766,
+            "no_speech_prob": 0.15984497964382172,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.23049020767211914
+                },
+                {
+                    "word": " so",
+                    "start": 0.9,
+                    "end": 1.24,
+                    "probability": 0.9071162939071655
+                },
+                {
+                    "word": " through",
+                    "start": 1.24,
+                    "end": 1.86,
+                    "probability": 0.9560136795043945
+                },
+                {
+                    "word": " classmates",
+                    "start": 1.86,
+                    "end": 2.22,
+                    "probability": 0.044180020689964294
+                },
+                {
+                    "word": " I",
+                    "start": 2.22,
+                    "end": 2.66,
+                    "probability": 0.4940282106399536
+                },
+                {
+                    "word": " got",
+                    "start": 2.66,
+                    "end": 2.98,
+                    "probability": 0.9543632864952087
+                },
+                {
+                    "word": " a",
+                    "start": 2.98,
+                    "end": 3.14,
+                    "probability": 0.9542081356048584
+                },
+                {
+                    "word": " CTC",
+                    "start": 3.14,
+                    "end": 3.68,
+                    "probability": 0.38952741026878357
+                },
+                {
+                    "word": " of",
+                    "start": 3.68,
+                    "end": 3.96,
+                    "probability": 0.9102653861045837
+                },
+                {
+                    "word": " around",
+                    "start": 3.96,
+                    "end": 4.2,
+                    "probability": 0.9205849170684814
+                },
+                {
+                    "word": " 16",
+                    "start": 4.2,
+                    "end": 4.52,
+                    "probability": 0.8797498345375061
+                },
+                {
+                    "word": " lakhs",
+                    "start": 4.52,
+                    "end": 5.24,
+                    "probability": 0.722417339682579
+                },
+                {
+                    "word": " then",
+                    "start": 5.24,
+                    "end": 5.38,
+                    "probability": 0.39307066798210144
+                },
+                {
+                    "word": " I",
+                    "start": 5.38,
+                    "end": 5.46,
+                    "probability": 0.9509269595146179
+                },
+                {
+                    "word": " was",
+                    "start": 5.46,
+                    "end": 5.64,
+                    "probability": 0.9933218359947205
+                },
+                {
+                    "word": " transferred",
+                    "start": 5.64,
+                    "end": 6.0,
+                    "probability": 0.9779216647148132
+                },
+                {
+                    "word": " to",
+                    "start": 6.0,
+                    "end": 6.24,
+                    "probability": 0.9976354837417603
+                },
+                {
+                    "word": " the",
+                    "start": 6.24,
+                    "end": 6.46,
+                    "probability": 0.9964196681976318
+                },
+                {
+                    "word": " Houston",
+                    "start": 6.46,
+                    "end": 6.66,
+                    "probability": 0.8531623482704163
+                },
+                {
+                    "word": " office",
+                    "start": 6.66,
+                    "end": 7.18,
+                    "probability": 0.9476378560066223
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.18,
+            "end": 17.1,
+            "text": " Houston there the CTC I would say was about $150,000 salary plus the apartment and the vehicle then there to",
+            "tokens": [
+                50707,
+                18717,
+                456,
+                264,
+                19529,
+                34,
+                286,
+                576,
+                584,
+                390,
+                466,
+                1848,
+                20120,
+                11,
+                1360,
+                15360,
+                1804,
+                264,
+                9587,
+                293,
+                264,
+                5864,
+                550,
+                456,
+                281,
+                51215
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4541742251469539,
+            "compression_ratio": 1.3766233766233766,
+            "no_speech_prob": 0.15984497964382172,
+            "words": [
+                {
+                    "word": " Houston",
+                    "start": 7.18,
+                    "end": 7.52,
+                    "probability": 0.8465096950531006
+                },
+                {
+                    "word": " there",
+                    "start": 7.52,
+                    "end": 7.92,
+                    "probability": 0.5705205202102661
+                },
+                {
+                    "word": " the",
+                    "start": 7.92,
+                    "end": 8.86,
+                    "probability": 0.4346751570701599
+                },
+                {
+                    "word": " CTC",
+                    "start": 8.86,
+                    "end": 9.42,
+                    "probability": 0.7975069284439087
+                },
+                {
+                    "word": " I",
+                    "start": 9.42,
+                    "end": 9.54,
+                    "probability": 0.8812567591667175
+                },
+                {
+                    "word": " would",
+                    "start": 9.54,
+                    "end": 9.64,
+                    "probability": 0.9930445551872253
+                },
+                {
+                    "word": " say",
+                    "start": 9.64,
+                    "end": 9.8,
+                    "probability": 0.9921884536743164
+                },
+                {
+                    "word": " was",
+                    "start": 9.8,
+                    "end": 10.0,
+                    "probability": 0.9928497076034546
+                },
+                {
+                    "word": " about",
+                    "start": 10.0,
+                    "end": 10.28,
+                    "probability": 0.987906813621521
+                },
+                {
+                    "word": " $150",
+                    "start": 10.28,
+                    "end": 10.98,
+                    "probability": 0.7334556579589844
+                },
+                {
+                    "word": ",000",
+                    "start": 10.98,
+                    "end": 13.04,
+                    "probability": 0.8941180109977722
+                },
+                {
+                    "word": " salary",
+                    "start": 13.04,
+                    "end": 13.42,
+                    "probability": 0.9144977927207947
+                },
+                {
+                    "word": " plus",
+                    "start": 13.42,
+                    "end": 14.38,
+                    "probability": 0.9134644269943237
+                },
+                {
+                    "word": " the",
+                    "start": 14.38,
+                    "end": 14.74,
+                    "probability": 0.9781714081764221
+                },
+                {
+                    "word": " apartment",
+                    "start": 14.74,
+                    "end": 15.12,
+                    "probability": 0.9920060038566589
+                },
+                {
+                    "word": " and",
+                    "start": 15.12,
+                    "end": 15.7,
+                    "probability": 0.7402277588844299
+                },
+                {
+                    "word": " the",
+                    "start": 15.7,
+                    "end": 15.82,
+                    "probability": 0.6669744253158569
+                },
+                {
+                    "word": " vehicle",
+                    "start": 15.82,
+                    "end": 16.36,
+                    "probability": 0.9304026365280151
+                },
+                {
+                    "word": " then",
+                    "start": 16.36,
+                    "end": 16.76,
+                    "probability": 0.6066917777061462
+                },
+                {
+                    "word": " there",
+                    "start": 16.76,
+                    "end": 17.0,
+                    "probability": 0.5380829572677612
+                },
+                {
+                    "word": " to",
+                    "start": 17.0,
+                    "end": 17.1,
+                    "probability": 0.3820423483848572
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

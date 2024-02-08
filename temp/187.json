@@ -1,0 +1,471 @@
+{
+    "text": " for me a lot is actually in every season which is financially not a certain reason but now I'm thinking about real estate also because have a kid now so you let them or you need one stable stability to make sure school schedule is not okay what's a drawback of your profession people don't realize.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.96,
+            "text": " for me a lot is actually in every season which is financially not a certain reason but now I'm",
+            "tokens": [
+                50364,
+                337,
+                385,
+                257,
+                688,
+                307,
+                767,
+                294,
+                633,
+                3196,
+                597,
+                307,
+                20469,
+                406,
+                257,
+                1629,
+                1778,
+                457,
+                586,
+                286,
+                478,
+                50756
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4174488067626953,
+            "compression_ratio": 1.5360824742268042,
+            "no_speech_prob": 0.03393002599477768,
+            "words": [
+                {
+                    "word": " for",
+                    "start": 0.0,
+                    "end": 0.66,
+                    "probability": 0.21803291141986847
+                },
+                {
+                    "word": " me",
+                    "start": 0.66,
+                    "end": 1.02,
+                    "probability": 0.9932336211204529
+                },
+                {
+                    "word": " a",
+                    "start": 1.02,
+                    "end": 1.24,
+                    "probability": 0.8261228799819946
+                },
+                {
+                    "word": " lot",
+                    "start": 1.24,
+                    "end": 1.28,
+                    "probability": 0.9996192455291748
+                },
+                {
+                    "word": " is",
+                    "start": 1.28,
+                    "end": 1.64,
+                    "probability": 0.9456162452697754
+                },
+                {
+                    "word": " actually",
+                    "start": 1.64,
+                    "end": 1.86,
+                    "probability": 0.9811596870422363
+                },
+                {
+                    "word": " in",
+                    "start": 1.86,
+                    "end": 2.04,
+                    "probability": 0.19994060695171356
+                },
+                {
+                    "word": " every",
+                    "start": 2.04,
+                    "end": 2.18,
+                    "probability": 0.5496779084205627
+                },
+                {
+                    "word": " season",
+                    "start": 2.18,
+                    "end": 2.46,
+                    "probability": 0.0976695567369461
+                },
+                {
+                    "word": " which",
+                    "start": 2.46,
+                    "end": 2.82,
+                    "probability": 0.7856621146202087
+                },
+                {
+                    "word": " is",
+                    "start": 2.82,
+                    "end": 4.66,
+                    "probability": 0.9945663213729858
+                },
+                {
+                    "word": " financially",
+                    "start": 4.66,
+                    "end": 5.08,
+                    "probability": 0.8879460096359253
+                },
+                {
+                    "word": " not",
+                    "start": 5.08,
+                    "end": 5.46,
+                    "probability": 0.9540536403656006
+                },
+                {
+                    "word": " a",
+                    "start": 5.46,
+                    "end": 6.16,
+                    "probability": 0.9624361395835876
+                },
+                {
+                    "word": " certain",
+                    "start": 6.16,
+                    "end": 6.38,
+                    "probability": 0.40127915143966675
+                },
+                {
+                    "word": " reason",
+                    "start": 6.38,
+                    "end": 6.84,
+                    "probability": 0.991455614566803
+                },
+                {
+                    "word": " but",
+                    "start": 6.84,
+                    "end": 7.44,
+                    "probability": 0.5800137519836426
+                },
+                {
+                    "word": " now",
+                    "start": 7.44,
+                    "end": 7.76,
+                    "probability": 0.9849123954772949
+                },
+                {
+                    "word": " I'm",
+                    "start": 7.76,
+                    "end": 7.96,
+                    "probability": 0.7360234558582306
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.96,
+            "end": 15.0,
+            "text": " thinking about real estate also because have a kid now so you let them or you need one stable",
+            "tokens": [
+                50756,
+                1953,
+                466,
+                957,
+                9749,
+                611,
+                570,
+                362,
+                257,
+                1636,
+                586,
+                370,
+                291,
+                718,
+                552,
+                420,
+                291,
+                643,
+                472,
+                8351,
+                51112
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4174488067626953,
+            "compression_ratio": 1.5360824742268042,
+            "no_speech_prob": 0.03393002599477768,
+            "words": [
+                {
+                    "word": " thinking",
+                    "start": 7.96,
+                    "end": 8.2,
+                    "probability": 0.9959881901741028
+                },
+                {
+                    "word": " about",
+                    "start": 8.2,
+                    "end": 8.86,
+                    "probability": 0.9925554394721985
+                },
+                {
+                    "word": " real",
+                    "start": 8.86,
+                    "end": 9.06,
+                    "probability": 0.5431250929832458
+                },
+                {
+                    "word": " estate",
+                    "start": 9.06,
+                    "end": 10.26,
+                    "probability": 0.9926031231880188
+                },
+                {
+                    "word": " also",
+                    "start": 10.26,
+                    "end": 11.0,
+                    "probability": 0.7357923984527588
+                },
+                {
+                    "word": " because",
+                    "start": 11.0,
+                    "end": 11.4,
+                    "probability": 0.9927385449409485
+                },
+                {
+                    "word": " have",
+                    "start": 11.4,
+                    "end": 11.8,
+                    "probability": 0.284000962972641
+                },
+                {
+                    "word": " a",
+                    "start": 11.8,
+                    "end": 11.92,
+                    "probability": 0.9885568618774414
+                },
+                {
+                    "word": " kid",
+                    "start": 11.92,
+                    "end": 12.1,
+                    "probability": 0.9244120717048645
+                },
+                {
+                    "word": " now",
+                    "start": 12.1,
+                    "end": 12.44,
+                    "probability": 0.9461527466773987
+                },
+                {
+                    "word": " so",
+                    "start": 12.44,
+                    "end": 12.94,
+                    "probability": 0.6058661937713623
+                },
+                {
+                    "word": " you",
+                    "start": 12.94,
+                    "end": 13.2,
+                    "probability": 0.5830026268959045
+                },
+                {
+                    "word": " let",
+                    "start": 13.2,
+                    "end": 13.44,
+                    "probability": 0.3519681394100189
+                },
+                {
+                    "word": " them",
+                    "start": 13.44,
+                    "end": 13.72,
+                    "probability": 0.5338950157165527
+                },
+                {
+                    "word": " or",
+                    "start": 13.72,
+                    "end": 14.14,
+                    "probability": 0.24652549624443054
+                },
+                {
+                    "word": " you",
+                    "start": 14.14,
+                    "end": 14.24,
+                    "probability": 0.9096451997756958
+                },
+                {
+                    "word": " need",
+                    "start": 14.24,
+                    "end": 14.42,
+                    "probability": 0.9939117431640625
+                },
+                {
+                    "word": " one",
+                    "start": 14.42,
+                    "end": 14.72,
+                    "probability": 0.9204502701759338
+                },
+                {
+                    "word": " stable",
+                    "start": 14.72,
+                    "end": 15.0,
+                    "probability": 0.9223917722702026
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 15.0,
+            "end": 22.14,
+            "text": " stability to make sure school schedule is not okay what's a drawback of your profession",
+            "tokens": [
+                51112,
+                11826,
+                281,
+                652,
+                988,
+                1395,
+                7567,
+                307,
+                406,
+                1392,
+                437,
+                311,
+                257,
+                2642,
+                3207,
+                295,
+                428,
+                7032,
+                51468
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4174488067626953,
+            "compression_ratio": 1.5360824742268042,
+            "no_speech_prob": 0.03393002599477768,
+            "words": [
+                {
+                    "word": " stability",
+                    "start": 15.0,
+                    "end": 15.66,
+                    "probability": 0.14396318793296814
+                },
+                {
+                    "word": " to",
+                    "start": 15.66,
+                    "end": 16.54,
+                    "probability": 0.5796611309051514
+                },
+                {
+                    "word": " make",
+                    "start": 16.54,
+                    "end": 16.72,
+                    "probability": 0.9848949313163757
+                },
+                {
+                    "word": " sure",
+                    "start": 16.72,
+                    "end": 17.0,
+                    "probability": 0.99433434009552
+                },
+                {
+                    "word": " school",
+                    "start": 17.0,
+                    "end": 17.34,
+                    "probability": 0.48076164722442627
+                },
+                {
+                    "word": " schedule",
+                    "start": 17.34,
+                    "end": 17.8,
+                    "probability": 0.6688392758369446
+                },
+                {
+                    "word": " is",
+                    "start": 17.8,
+                    "end": 18.06,
+                    "probability": 0.8518145084381104
+                },
+                {
+                    "word": " not",
+                    "start": 18.06,
+                    "end": 18.48,
+                    "probability": 0.9479537010192871
+                },
+                {
+                    "word": " okay",
+                    "start": 18.48,
+                    "end": 20.0,
+                    "probability": 0.8219611048698425
+                },
+                {
+                    "word": " what's",
+                    "start": 20.0,
+                    "end": 21.04,
+                    "probability": 0.8499191403388977
+                },
+                {
+                    "word": " a",
+                    "start": 21.04,
+                    "end": 21.12,
+                    "probability": 0.7678260803222656
+                },
+                {
+                    "word": " drawback",
+                    "start": 21.12,
+                    "end": 21.46,
+                    "probability": 0.9853160381317139
+                },
+                {
+                    "word": " of",
+                    "start": 21.46,
+                    "end": 21.62,
+                    "probability": 0.9932345747947693
+                },
+                {
+                    "word": " your",
+                    "start": 21.62,
+                    "end": 21.78,
+                    "probability": 0.9862996935844421
+                },
+                {
+                    "word": " profession",
+                    "start": 21.78,
+                    "end": 22.14,
+                    "probability": 0.8866170048713684
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 22.14,
+            "end": 23.06,
+            "text": " people don't realize.",
+            "tokens": [
+                51468,
+                561,
+                500,
+                380,
+                4325,
+                13,
+                51520
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4174488067626953,
+            "compression_ratio": 1.5360824742268042,
+            "no_speech_prob": 0.03393002599477768,
+            "words": [
+                {
+                    "word": " people",
+                    "start": 22.14,
+                    "end": 22.5,
+                    "probability": 0.9274895787239075
+                },
+                {
+                    "word": " don't",
+                    "start": 22.5,
+                    "end": 22.78,
+                    "probability": 0.973246306180954
+                },
+                {
+                    "word": " realize.",
+                    "start": 22.78,
+                    "end": 23.06,
+                    "probability": 0.7845380306243896
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

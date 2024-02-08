@@ -1,0 +1,521 @@
+{
+    "text": " So for us it is very difficult, when I come to Bangalore and I go out with people. So I would like spend 5% to 10% of my salary in just one day. Yeah, it's expensive. It's very expensive when you come out. When you are there, it's a good idea. I'm saying, come expenses. Come on.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.76,
+            "text": " So for us it is very difficult, when I come to Bangalore and I go out with people.",
+            "tokens": [
+                50364,
+                407,
+                337,
+                505,
+                309,
+                307,
+                588,
+                2252,
+                11,
+                562,
+                286,
+                808,
+                281,
+                11538,
+                304,
+                418,
+                293,
+                286,
+                352,
+                484,
+                365,
+                561,
+                13,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47144690327260685,
+            "compression_ratio": 1.4761904761904763,
+            "no_speech_prob": 0.002928653499111533,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 0.62,
+                    "probability": 0.23287825286388397
+                },
+                {
+                    "word": " for",
+                    "start": 0.62,
+                    "end": 0.78,
+                    "probability": 0.5304250717163086
+                },
+                {
+                    "word": " us",
+                    "start": 0.78,
+                    "end": 0.94,
+                    "probability": 0.9976798892021179
+                },
+                {
+                    "word": " it",
+                    "start": 0.94,
+                    "end": 1.12,
+                    "probability": 0.7429700493812561
+                },
+                {
+                    "word": " is",
+                    "start": 1.12,
+                    "end": 1.24,
+                    "probability": 0.9371387362480164
+                },
+                {
+                    "word": " very",
+                    "start": 1.24,
+                    "end": 1.4,
+                    "probability": 0.9705803990364075
+                },
+                {
+                    "word": " difficult,",
+                    "start": 1.4,
+                    "end": 1.9,
+                    "probability": 0.9970968961715698
+                },
+                {
+                    "word": " when",
+                    "start": 2.44,
+                    "end": 2.6,
+                    "probability": 0.48293328285217285
+                },
+                {
+                    "word": " I",
+                    "start": 2.6,
+                    "end": 2.78,
+                    "probability": 0.9779988527297974
+                },
+                {
+                    "word": " come",
+                    "start": 2.78,
+                    "end": 2.98,
+                    "probability": 0.9840201139450073
+                },
+                {
+                    "word": " to",
+                    "start": 2.98,
+                    "end": 3.22,
+                    "probability": 0.978626012802124
+                },
+                {
+                    "word": " Bangalore",
+                    "start": 3.22,
+                    "end": 3.86,
+                    "probability": 0.945353090763092
+                },
+                {
+                    "word": " and",
+                    "start": 3.86,
+                    "end": 4.38,
+                    "probability": 0.4802640974521637
+                },
+                {
+                    "word": " I",
+                    "start": 4.38,
+                    "end": 4.5,
+                    "probability": 0.6303769946098328
+                },
+                {
+                    "word": " go",
+                    "start": 4.5,
+                    "end": 4.6,
+                    "probability": 0.993313729763031
+                },
+                {
+                    "word": " out",
+                    "start": 4.6,
+                    "end": 4.88,
+                    "probability": 0.9903911352157593
+                },
+                {
+                    "word": " with",
+                    "start": 4.88,
+                    "end": 5.06,
+                    "probability": 0.9946585297584534
+                },
+                {
+                    "word": " people.",
+                    "start": 5.06,
+                    "end": 5.76,
+                    "probability": 0.9876399636268616
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.32,
+            "end": 10.76,
+            "text": " So I would like spend 5% to 10% of my salary in just one day.",
+            "tokens": [
+                50664,
+                407,
+                286,
+                576,
+                411,
+                3496,
+                1025,
+                4,
+                281,
+                1266,
+                4,
+                295,
+                452,
+                15360,
+                294,
+                445,
+                472,
+                786,
+                13,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47144690327260685,
+            "compression_ratio": 1.4761904761904763,
+            "no_speech_prob": 0.002928653499111533,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 6.32,
+                    "end": 6.32,
+                    "probability": 0.8590186834335327
+                },
+                {
+                    "word": " I",
+                    "start": 6.32,
+                    "end": 6.38,
+                    "probability": 0.9435661435127258
+                },
+                {
+                    "word": " would",
+                    "start": 6.38,
+                    "end": 6.66,
+                    "probability": 0.9837259650230408
+                },
+                {
+                    "word": " like",
+                    "start": 6.66,
+                    "end": 7.06,
+                    "probability": 0.9174217581748962
+                },
+                {
+                    "word": " spend",
+                    "start": 7.06,
+                    "end": 7.6,
+                    "probability": 0.5056424736976624
+                },
+                {
+                    "word": " 5",
+                    "start": 7.6,
+                    "end": 8.44,
+                    "probability": 0.4468633830547333
+                },
+                {
+                    "word": "%",
+                    "start": 8.44,
+                    "end": 8.58,
+                    "probability": 0.3600587248802185
+                },
+                {
+                    "word": " to",
+                    "start": 8.58,
+                    "end": 8.58,
+                    "probability": 0.7462576031684875
+                },
+                {
+                    "word": " 10",
+                    "start": 8.58,
+                    "end": 8.76,
+                    "probability": 0.9796593189239502
+                },
+                {
+                    "word": "%",
+                    "start": 8.76,
+                    "end": 9.02,
+                    "probability": 0.9360642433166504
+                },
+                {
+                    "word": " of",
+                    "start": 9.02,
+                    "end": 9.2,
+                    "probability": 0.9594177603721619
+                },
+                {
+                    "word": " my",
+                    "start": 9.2,
+                    "end": 9.36,
+                    "probability": 0.9375488758087158
+                },
+                {
+                    "word": " salary",
+                    "start": 9.36,
+                    "end": 9.66,
+                    "probability": 0.9662880897521973
+                },
+                {
+                    "word": " in",
+                    "start": 9.66,
+                    "end": 9.96,
+                    "probability": 0.821438729763031
+                },
+                {
+                    "word": " just",
+                    "start": 9.96,
+                    "end": 10.4,
+                    "probability": 0.9640829563140869
+                },
+                {
+                    "word": " one",
+                    "start": 10.4,
+                    "end": 10.56,
+                    "probability": 0.33775758743286133
+                },
+                {
+                    "word": " day.",
+                    "start": 10.56,
+                    "end": 10.76,
+                    "probability": 0.7367391586303711
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 11.96,
+            "end": 12.78,
+            "text": " Yeah, it's expensive.",
+            "tokens": [
+                50964,
+                865,
+                11,
+                309,
+                311,
+                5124,
+                13,
+                51014
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47144690327260685,
+            "compression_ratio": 1.4761904761904763,
+            "no_speech_prob": 0.002928653499111533,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 11.96,
+                    "end": 12.2,
+                    "probability": 0.4130171239376068
+                },
+                {
+                    "word": " it's",
+                    "start": 12.42,
+                    "end": 12.46,
+                    "probability": 0.8028840124607086
+                },
+                {
+                    "word": " expensive.",
+                    "start": 12.46,
+                    "end": 12.78,
+                    "probability": 0.9954448938369751
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 13.06,
+            "end": 16.38,
+            "text": " It's very expensive when you come out. When you are there,",
+            "tokens": [
+                51014,
+                467,
+                311,
+                588,
+                5124,
+                562,
+                291,
+                808,
+                484,
+                13,
+                1133,
+                291,
+                366,
+                456,
+                11,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47144690327260685,
+            "compression_ratio": 1.4761904761904763,
+            "no_speech_prob": 0.002928653499111533,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 13.06,
+                    "end": 13.32,
+                    "probability": 0.5402687937021255
+                },
+                {
+                    "word": " very",
+                    "start": 13.32,
+                    "end": 13.34,
+                    "probability": 0.6579731106758118
+                },
+                {
+                    "word": " expensive",
+                    "start": 13.34,
+                    "end": 13.94,
+                    "probability": 0.9859207272529602
+                },
+                {
+                    "word": " when",
+                    "start": 13.94,
+                    "end": 14.24,
+                    "probability": 0.8626306653022766
+                },
+                {
+                    "word": " you",
+                    "start": 14.24,
+                    "end": 14.32,
+                    "probability": 0.9895336031913757
+                },
+                {
+                    "word": " come",
+                    "start": 14.32,
+                    "end": 14.94,
+                    "probability": 0.7672244310379028
+                },
+                {
+                    "word": " out.",
+                    "start": 14.94,
+                    "end": 15.3,
+                    "probability": 0.95501309633255
+                },
+                {
+                    "word": " When",
+                    "start": 15.42,
+                    "end": 15.56,
+                    "probability": 0.9549949765205383
+                },
+                {
+                    "word": " you",
+                    "start": 15.56,
+                    "end": 15.78,
+                    "probability": 0.9702420234680176
+                },
+                {
+                    "word": " are",
+                    "start": 15.78,
+                    "end": 15.88,
+                    "probability": 0.8816400766372681
+                },
+                {
+                    "word": " there,",
+                    "start": 15.88,
+                    "end": 16.38,
+                    "probability": 0.9985703229904175
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 16.82,
+            "end": 18.94,
+            "text": " it's a good idea. I'm saying, come expenses. Come on.",
+            "tokens": [
+                51164,
+                309,
+                311,
+                257,
+                665,
+                1558,
+                13,
+                286,
+                478,
+                1566,
+                11,
+                808,
+                15506,
+                13,
+                2492,
+                322,
+                13,
+                51314
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.47144690327260685,
+            "compression_ratio": 1.4761904761904763,
+            "no_speech_prob": 0.002928653499111533,
+            "words": [
+                {
+                    "word": " it's",
+                    "start": 16.82,
+                    "end": 16.82,
+                    "probability": 0.48726963996887207
+                },
+                {
+                    "word": " a",
+                    "start": 16.82,
+                    "end": 16.94,
+                    "probability": 0.13962580263614655
+                },
+                {
+                    "word": " good",
+                    "start": 16.94,
+                    "end": 17.0,
+                    "probability": 0.28323960304260254
+                },
+                {
+                    "word": " idea.",
+                    "start": 17.0,
+                    "end": 17.3,
+                    "probability": 0.28497645258903503
+                },
+                {
+                    "word": " I'm",
+                    "start": 17.44,
+                    "end": 17.54,
+                    "probability": 0.5357993096113205
+                },
+                {
+                    "word": " saying,",
+                    "start": 17.54,
+                    "end": 17.74,
+                    "probability": 0.4735686779022217
+                },
+                {
+                    "word": " come",
+                    "start": 18.08,
+                    "end": 18.08,
+                    "probability": 0.6457456350326538
+                },
+                {
+                    "word": " expenses.",
+                    "start": 18.08,
+                    "end": 18.4,
+                    "probability": 0.39977768063545227
+                },
+                {
+                    "word": " Come",
+                    "start": 18.62,
+                    "end": 18.78,
+                    "probability": 0.4738368093967438
+                },
+                {
+                    "word": " on.",
+                    "start": 18.78,
+                    "end": 18.94,
+                    "probability": 0.3296971917152405
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

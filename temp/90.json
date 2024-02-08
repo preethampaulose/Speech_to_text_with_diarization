@@ -1,0 +1,63 @@
+{
+    "text": " Thank you. No.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.3,
+            "text": " Thank you.",
+            "tokens": [
+                50364,
+                1044,
+                291,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.617579460144043,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.2997094988822937,
+            "words": [
+                {
+                    "word": " Thank",
+                    "start": 0.0,
+                    "end": 0.16,
+                    "probability": 0.05606216564774513
+                },
+                {
+                    "word": " you.",
+                    "start": 0.16,
+                    "end": 0.3,
+                    "probability": 0.9785003066062927
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.44,
+            "end": 0.68,
+            "text": " No.",
+            "tokens": [
+                50414,
+                883,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.617579460144043,
+            "compression_ratio": 0.6363636363636364,
+            "no_speech_prob": 0.2997094988822937,
+            "words": [
+                {
+                    "word": " No.",
+                    "start": 0.44,
+                    "end": 0.68,
+                    "probability": 0.510719895362854
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

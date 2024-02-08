@@ -1,0 +1,68 @@
+{
+    "text": " It's not an entry game, right?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 4.1,
+            "end": 5.84,
+            "text": " It's not an entry game, right?",
+            "tokens": [
+                50364,
+                467,
+                311,
+                406,
+                364,
+                8729,
+                1216,
+                11,
+                558,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7439218362172445,
+            "compression_ratio": 0.7894736842105263,
+            "no_speech_prob": 0.2678942084312439,
+            "words": [
+                {
+                    "word": " It's",
+                    "start": 4.1,
+                    "end": 4.54,
+                    "probability": 0.3343346230685711
+                },
+                {
+                    "word": " not",
+                    "start": 4.54,
+                    "end": 4.68,
+                    "probability": 0.9451126456260681
+                },
+                {
+                    "word": " an",
+                    "start": 4.68,
+                    "end": 4.94,
+                    "probability": 0.9136842489242554
+                },
+                {
+                    "word": " entry",
+                    "start": 4.94,
+                    "end": 5.28,
+                    "probability": 0.951012134552002
+                },
+                {
+                    "word": " game,",
+                    "start": 5.28,
+                    "end": 5.6,
+                    "probability": 0.9862615466117859
+                },
+                {
+                    "word": " right?",
+                    "start": 5.74,
+                    "end": 5.84,
+                    "probability": 0.7180264592170715
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

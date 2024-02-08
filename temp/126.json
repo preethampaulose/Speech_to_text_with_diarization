@@ -1,0 +1,74 @@
+{
+    "text": " but like you know whether there\u00b4s music",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.26,
+            "text": " but like you know whether there\u00b4s music",
+            "tokens": [
+                50364,
+                457,
+                411,
+                291,
+                458,
+                1968,
+                456,
+                6945,
+                82,
+                1318,
+                50421
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.3945085207621255,
+            "compression_ratio": 0.8695652173913043,
+            "no_speech_prob": 0.4411590099334717,
+            "words": [
+                {
+                    "word": " but",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.02546507492661476
+                },
+                {
+                    "word": " like",
+                    "start": 0.32,
+                    "end": 0.56,
+                    "probability": 0.32755303382873535
+                },
+                {
+                    "word": " you",
+                    "start": 0.56,
+                    "end": 0.62,
+                    "probability": 0.4560074806213379
+                },
+                {
+                    "word": " know",
+                    "start": 0.62,
+                    "end": 0.74,
+                    "probability": 0.9896537661552429
+                },
+                {
+                    "word": " whether",
+                    "start": 0.74,
+                    "end": 0.88,
+                    "probability": 0.27412745356559753
+                },
+                {
+                    "word": " there\u00b4s",
+                    "start": 0.88,
+                    "end": 1.08,
+                    "probability": 0.3304551357565894
+                },
+                {
+                    "word": " music",
+                    "start": 1.08,
+                    "end": 1.26,
+                    "probability": 0.09096262603998184
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,73 @@
+{
+    "text": " which may be an officer will get.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.2,
+            "text": " which may be an officer will get.",
+            "tokens": [
+                50364,
+                597,
+                815,
+                312,
+                364,
+                8456,
+                486,
+                483,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3723170974037864,
+            "compression_ratio": 0.8048780487804879,
+            "no_speech_prob": 0.3821101188659668,
+            "words": [
+                {
+                    "word": " which",
+                    "start": 0.0,
+                    "end": 0.86,
+                    "probability": 0.5192081928253174
+                },
+                {
+                    "word": " may",
+                    "start": 0.86,
+                    "end": 1.06,
+                    "probability": 0.5862903594970703
+                },
+                {
+                    "word": " be",
+                    "start": 1.06,
+                    "end": 1.18,
+                    "probability": 0.9279571175575256
+                },
+                {
+                    "word": " an",
+                    "start": 1.18,
+                    "end": 1.32,
+                    "probability": 0.9607693552970886
+                },
+                {
+                    "word": " officer",
+                    "start": 1.32,
+                    "end": 1.62,
+                    "probability": 0.948972225189209
+                },
+                {
+                    "word": " will",
+                    "start": 1.62,
+                    "end": 1.88,
+                    "probability": 0.9848535060882568
+                },
+                {
+                    "word": " get.",
+                    "start": 1.88,
+                    "end": 2.2,
+                    "probability": 0.9965124726295471
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,600 @@
+{
+    "text": " decided to start this business at just cross 30 or 31 right like when I have a 35 over there. So would I or ambition be this? Yes. Energy, I mean your life circumstances change. I have a kid now. You know, why is it? I mean when I got married I like you know a wife approach to my decisions were very different. Yeah. So I'll do what I do.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 5.0,
+            "text": " decided to start this business at just cross 30 or 31 right like when I have a 35",
+            "tokens": [
+                50364,
+                3047,
+                281,
+                722,
+                341,
+                1606,
+                412,
+                445,
+                3278,
+                2217,
+                420,
+                10353,
+                558,
+                411,
+                562,
+                286,
+                362,
+                257,
+                6976,
+                50612
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7431319216464428,
+            "compression_ratio": 1.480349344978166,
+            "no_speech_prob": 0.0029032062739133835,
+            "words": [
+                {
+                    "word": " decided",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.5340800881385803
+                },
+                {
+                    "word": " to",
+                    "start": 0.48,
+                    "end": 0.78,
+                    "probability": 0.9715602993965149
+                },
+                {
+                    "word": " start",
+                    "start": 0.78,
+                    "end": 0.96,
+                    "probability": 0.9877501130104065
+                },
+                {
+                    "word": " this",
+                    "start": 0.96,
+                    "end": 1.12,
+                    "probability": 0.7038000226020813
+                },
+                {
+                    "word": " business",
+                    "start": 1.12,
+                    "end": 1.3,
+                    "probability": 0.7543548941612244
+                },
+                {
+                    "word": " at",
+                    "start": 1.3,
+                    "end": 1.58,
+                    "probability": 0.34847480058670044
+                },
+                {
+                    "word": " just",
+                    "start": 1.58,
+                    "end": 1.78,
+                    "probability": 0.9794815182685852
+                },
+                {
+                    "word": " cross",
+                    "start": 1.78,
+                    "end": 2.1,
+                    "probability": 0.5198971033096313
+                },
+                {
+                    "word": " 30",
+                    "start": 2.1,
+                    "end": 2.48,
+                    "probability": 0.5630905628204346
+                },
+                {
+                    "word": " or",
+                    "start": 2.48,
+                    "end": 2.84,
+                    "probability": 0.8924826979637146
+                },
+                {
+                    "word": " 31",
+                    "start": 2.84,
+                    "end": 3.34,
+                    "probability": 0.8940997123718262
+                },
+                {
+                    "word": " right",
+                    "start": 3.34,
+                    "end": 3.52,
+                    "probability": 0.2647642195224762
+                },
+                {
+                    "word": " like",
+                    "start": 3.52,
+                    "end": 3.68,
+                    "probability": 0.5072530508041382
+                },
+                {
+                    "word": " when",
+                    "start": 3.68,
+                    "end": 3.8,
+                    "probability": 0.886469841003418
+                },
+                {
+                    "word": " I",
+                    "start": 3.8,
+                    "end": 4.52,
+                    "probability": 0.5123045444488525
+                },
+                {
+                    "word": " have",
+                    "start": 4.52,
+                    "end": 4.62,
+                    "probability": 0.15046927332878113
+                },
+                {
+                    "word": " a",
+                    "start": 4.62,
+                    "end": 4.62,
+                    "probability": 0.15475879609584808
+                },
+                {
+                    "word": " 35",
+                    "start": 4.62,
+                    "end": 5.0,
+                    "probability": 0.31939610838890076
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.0,
+            "end": 9.32,
+            "text": " over there. So would I or ambition be this?",
+            "tokens": [
+                50612,
+                670,
+                456,
+                13,
+                407,
+                576,
+                286,
+                420,
+                22814,
+                312,
+                341,
+                30,
+                50820
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7431319216464428,
+            "compression_ratio": 1.480349344978166,
+            "no_speech_prob": 0.0029032062739133835,
+            "words": [
+                {
+                    "word": " over",
+                    "start": 5.0,
+                    "end": 5.48,
+                    "probability": 0.12224096059799194
+                },
+                {
+                    "word": " there.",
+                    "start": 5.48,
+                    "end": 7.28,
+                    "probability": 0.2608548104763031
+                },
+                {
+                    "word": " So",
+                    "start": 7.78,
+                    "end": 7.78,
+                    "probability": 0.8936734795570374
+                },
+                {
+                    "word": " would",
+                    "start": 7.78,
+                    "end": 8.02,
+                    "probability": 0.5080742835998535
+                },
+                {
+                    "word": " I",
+                    "start": 8.02,
+                    "end": 8.18,
+                    "probability": 0.3389488160610199
+                },
+                {
+                    "word": " or",
+                    "start": 8.18,
+                    "end": 8.38,
+                    "probability": 0.31227582693099976
+                },
+                {
+                    "word": " ambition",
+                    "start": 8.38,
+                    "end": 8.74,
+                    "probability": 0.7246449589729309
+                },
+                {
+                    "word": " be",
+                    "start": 8.74,
+                    "end": 8.94,
+                    "probability": 0.18939390778541565
+                },
+                {
+                    "word": " this?",
+                    "start": 8.94,
+                    "end": 9.32,
+                    "probability": 0.2558758556842804
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 9.52,
+            "end": 14.3,
+            "text": " Yes. Energy, I mean your life circumstances change. I have a kid now.",
+            "tokens": [
+                50820,
+                1079,
+                13,
+                14939,
+                11,
+                286,
+                914,
+                428,
+                993,
+                9121,
+                1319,
+                13,
+                286,
+                362,
+                257,
+                1636,
+                586,
+                13,
+                51064
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7431319216464428,
+            "compression_ratio": 1.480349344978166,
+            "no_speech_prob": 0.0029032062739133835,
+            "words": [
+                {
+                    "word": " Yes.",
+                    "start": 9.52,
+                    "end": 9.52,
+                    "probability": 0.20909996330738068
+                },
+                {
+                    "word": " Energy,",
+                    "start": 9.68,
+                    "end": 9.98,
+                    "probability": 0.7639789581298828
+                },
+                {
+                    "word": " I",
+                    "start": 10.22,
+                    "end": 10.24,
+                    "probability": 0.8144220113754272
+                },
+                {
+                    "word": " mean",
+                    "start": 10.24,
+                    "end": 10.32,
+                    "probability": 0.9866639375686646
+                },
+                {
+                    "word": " your",
+                    "start": 10.32,
+                    "end": 10.5,
+                    "probability": 0.843165397644043
+                },
+                {
+                    "word": " life",
+                    "start": 10.5,
+                    "end": 10.64,
+                    "probability": 0.9740062952041626
+                },
+                {
+                    "word": " circumstances",
+                    "start": 10.64,
+                    "end": 11.12,
+                    "probability": 0.9620468616485596
+                },
+                {
+                    "word": " change.",
+                    "start": 11.12,
+                    "end": 11.98,
+                    "probability": 0.9655841588973999
+                },
+                {
+                    "word": " I",
+                    "start": 12.6,
+                    "end": 12.6,
+                    "probability": 0.9909573793411255
+                },
+                {
+                    "word": " have",
+                    "start": 12.6,
+                    "end": 12.8,
+                    "probability": 0.9911873936653137
+                },
+                {
+                    "word": " a",
+                    "start": 12.8,
+                    "end": 12.88,
+                    "probability": 0.9913357496261597
+                },
+                {
+                    "word": " kid",
+                    "start": 12.88,
+                    "end": 13.08,
+                    "probability": 0.9474965929985046
+                },
+                {
+                    "word": " now.",
+                    "start": 13.08,
+                    "end": 14.3,
+                    "probability": 0.9482643604278564
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 15.06,
+            "end": 20.98,
+            "text": " You know, why is it? I mean when I got married I like you know a wife approach to my decisions",
+            "tokens": [
+                51064,
+                509,
+                458,
+                11,
+                983,
+                307,
+                309,
+                30,
+                286,
+                914,
+                562,
+                286,
+                658,
+                5259,
+                286,
+                411,
+                291,
+                458,
+                257,
+                3836,
+                3109,
+                281,
+                452,
+                5327,
+                51414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7431319216464428,
+            "compression_ratio": 1.480349344978166,
+            "no_speech_prob": 0.0029032062739133835,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 15.06,
+                    "end": 15.06,
+                    "probability": 0.6091736555099487
+                },
+                {
+                    "word": " know,",
+                    "start": 15.06,
+                    "end": 15.64,
+                    "probability": 0.9983239769935608
+                },
+                {
+                    "word": " why",
+                    "start": 15.76,
+                    "end": 15.86,
+                    "probability": 0.3542761206626892
+                },
+                {
+                    "word": " is",
+                    "start": 15.86,
+                    "end": 16.08,
+                    "probability": 0.21937686204910278
+                },
+                {
+                    "word": " it?",
+                    "start": 16.08,
+                    "end": 16.3,
+                    "probability": 0.23711709678173065
+                },
+                {
+                    "word": " I",
+                    "start": 16.3,
+                    "end": 16.3,
+                    "probability": 0.9141951203346252
+                },
+                {
+                    "word": " mean",
+                    "start": 16.3,
+                    "end": 16.66,
+                    "probability": 0.9831852316856384
+                },
+                {
+                    "word": " when",
+                    "start": 16.66,
+                    "end": 16.82,
+                    "probability": 0.5959756374359131
+                },
+                {
+                    "word": " I",
+                    "start": 16.82,
+                    "end": 17.0,
+                    "probability": 0.9921616911888123
+                },
+                {
+                    "word": " got",
+                    "start": 17.0,
+                    "end": 17.16,
+                    "probability": 0.9866220355033875
+                },
+                {
+                    "word": " married",
+                    "start": 17.16,
+                    "end": 17.42,
+                    "probability": 0.9877187013626099
+                },
+                {
+                    "word": " I",
+                    "start": 17.42,
+                    "end": 18.0,
+                    "probability": 0.6414175033569336
+                },
+                {
+                    "word": " like",
+                    "start": 18.0,
+                    "end": 18.24,
+                    "probability": 0.7331923246383667
+                },
+                {
+                    "word": " you",
+                    "start": 18.24,
+                    "end": 18.36,
+                    "probability": 0.6062108874320984
+                },
+                {
+                    "word": " know",
+                    "start": 18.36,
+                    "end": 19.26,
+                    "probability": 0.9967606663703918
+                },
+                {
+                    "word": " a",
+                    "start": 19.26,
+                    "end": 19.34,
+                    "probability": 0.16293436288833618
+                },
+                {
+                    "word": " wife",
+                    "start": 19.34,
+                    "end": 19.58,
+                    "probability": 0.9561923146247864
+                },
+                {
+                    "word": " approach",
+                    "start": 19.58,
+                    "end": 20.0,
+                    "probability": 0.40975749492645264
+                },
+                {
+                    "word": " to",
+                    "start": 20.0,
+                    "end": 20.5,
+                    "probability": 0.971335768699646
+                },
+                {
+                    "word": " my",
+                    "start": 20.5,
+                    "end": 20.68,
+                    "probability": 0.5174325704574585
+                },
+                {
+                    "word": " decisions",
+                    "start": 20.68,
+                    "end": 20.98,
+                    "probability": 0.951514482498169
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 20.98,
+            "end": 23.18,
+            "text": " were very different. Yeah. So I'll do what I do.",
+            "tokens": [
+                51414,
+                645,
+                588,
+                819,
+                13,
+                865,
+                13,
+                407,
+                286,
+                603,
+                360,
+                437,
+                286,
+                360,
+                13,
+                51514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7431319216464428,
+            "compression_ratio": 1.480349344978166,
+            "no_speech_prob": 0.0029032062739133835,
+            "words": [
+                {
+                    "word": " were",
+                    "start": 20.98,
+                    "end": 21.48,
+                    "probability": 0.4241143763065338
+                },
+                {
+                    "word": " very",
+                    "start": 21.48,
+                    "end": 21.74,
+                    "probability": 0.9587559103965759
+                },
+                {
+                    "word": " different.",
+                    "start": 21.74,
+                    "end": 22.08,
+                    "probability": 0.5154858231544495
+                },
+                {
+                    "word": " Yeah.",
+                    "start": 22.24,
+                    "end": 22.36,
+                    "probability": 0.3244144022464752
+                },
+                {
+                    "word": " So",
+                    "start": 22.52,
+                    "end": 22.58,
+                    "probability": 0.15776342153549194
+                },
+                {
+                    "word": " I'll",
+                    "start": 22.58,
+                    "end": 22.58,
+                    "probability": 0.4048904627561569
+                },
+                {
+                    "word": " do",
+                    "start": 22.58,
+                    "end": 22.78,
+                    "probability": 0.27490371465682983
+                },
+                {
+                    "word": " what",
+                    "start": 22.78,
+                    "end": 22.92,
+                    "probability": 0.19882838428020477
+                },
+                {
+                    "word": " I",
+                    "start": 22.92,
+                    "end": 23.04,
+                    "probability": 0.8960102796554565
+                },
+                {
+                    "word": " do.",
+                    "start": 23.04,
+                    "end": 23.18,
+                    "probability": 0.4512905180454254
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

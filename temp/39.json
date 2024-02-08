@@ -1,0 +1,161 @@
+{
+    "text": " share. Can you describe the timeline of your income, right? So, EY then prep.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.68,
+            "text": " share.",
+            "tokens": [
+                50364,
+                2073,
+                13,
+                50414
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6682318934687862,
+            "compression_ratio": 0.9746835443037974,
+            "no_speech_prob": 0.20252825319766998,
+            "words": [
+                {
+                    "word": " share.",
+                    "start": 0.0,
+                    "end": 0.68,
+                    "probability": 0.17885923385620117
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.84,
+            "end": 2.82,
+            "text": " Can you describe the timeline of your income, right?",
+            "tokens": [
+                50414,
+                1664,
+                291,
+                6786,
+                264,
+                12933,
+                295,
+                428,
+                5742,
+                11,
+                558,
+                30,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6682318934687862,
+            "compression_ratio": 0.9746835443037974,
+            "no_speech_prob": 0.20252825319766998,
+            "words": [
+                {
+                    "word": " Can",
+                    "start": 0.84,
+                    "end": 0.92,
+                    "probability": 0.13707342743873596
+                },
+                {
+                    "word": " you",
+                    "start": 0.92,
+                    "end": 1.1,
+                    "probability": 0.981357753276825
+                },
+                {
+                    "word": " describe",
+                    "start": 1.1,
+                    "end": 1.38,
+                    "probability": 0.8820366859436035
+                },
+                {
+                    "word": " the",
+                    "start": 1.38,
+                    "end": 1.62,
+                    "probability": 0.9017091393470764
+                },
+                {
+                    "word": " timeline",
+                    "start": 1.62,
+                    "end": 1.88,
+                    "probability": 0.9909380674362183
+                },
+                {
+                    "word": " of",
+                    "start": 1.88,
+                    "end": 2.18,
+                    "probability": 0.9812033772468567
+                },
+                {
+                    "word": " your",
+                    "start": 2.18,
+                    "end": 2.34,
+                    "probability": 0.9785914421081543
+                },
+                {
+                    "word": " income,",
+                    "start": 2.34,
+                    "end": 2.6,
+                    "probability": 0.9985987544059753
+                },
+                {
+                    "word": " right?",
+                    "start": 2.82,
+                    "end": 2.82,
+                    "probability": 0.8046929240226746
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 2.98,
+            "end": 4.48,
+            "text": " So, EY then prep.",
+            "tokens": [
+                50514,
+                407,
+                11,
+                462,
+                56,
+                550,
+                2666,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6682318934687862,
+            "compression_ratio": 0.9746835443037974,
+            "no_speech_prob": 0.20252825319766998,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 2.98,
+                    "end": 3.2,
+                    "probability": 0.5917403101921082
+                },
+                {
+                    "word": " EY",
+                    "start": 3.3,
+                    "end": 3.98,
+                    "probability": 0.48614199459552765
+                },
+                {
+                    "word": " then",
+                    "start": 3.98,
+                    "end": 4.26,
+                    "probability": 0.7557953000068665
+                },
+                {
+                    "word": " prep.",
+                    "start": 4.26,
+                    "end": 4.48,
+                    "probability": 0.5543949007987976
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

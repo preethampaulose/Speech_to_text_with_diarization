@@ -1,0 +1,87 @@
+{
+    "text": " You want to walk us through your trig line?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.5599999999999997,
+            "end": 2.3,
+            "text": " You want to walk us through your trig line?",
+            "tokens": [
+                50364,
+                509,
+                528,
+                281,
+                1792,
+                505,
+                807,
+                428,
+                35386,
+                1622,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6912989983191857,
+            "compression_ratio": 0.8775510204081632,
+            "no_speech_prob": 0.3384056091308594,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 0.5599999999999997,
+                    "end": 0.88,
+                    "probability": 0.15556149184703827
+                },
+                {
+                    "word": " want",
+                    "start": 0.88,
+                    "end": 1.1,
+                    "probability": 0.6974889636039734
+                },
+                {
+                    "word": " to",
+                    "start": 1.1,
+                    "end": 1.24,
+                    "probability": 0.9783242344856262
+                },
+                {
+                    "word": " walk",
+                    "start": 1.24,
+                    "end": 1.4,
+                    "probability": 0.9636313915252686
+                },
+                {
+                    "word": " us",
+                    "start": 1.4,
+                    "end": 1.56,
+                    "probability": 0.4775179326534271
+                },
+                {
+                    "word": " through",
+                    "start": 1.56,
+                    "end": 1.72,
+                    "probability": 0.9916533827781677
+                },
+                {
+                    "word": " your",
+                    "start": 1.72,
+                    "end": 1.96,
+                    "probability": 0.9784358739852905
+                },
+                {
+                    "word": " trig",
+                    "start": 1.96,
+                    "end": 2.12,
+                    "probability": 0.3737649619579315
+                },
+                {
+                    "word": " line?",
+                    "start": 2.12,
+                    "end": 2.3,
+                    "probability": 0.14110435545444489
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

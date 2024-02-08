@@ -1,0 +1,31 @@
+{
+    "text": " Yes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.34,
+            "text": " Yes.",
+            "tokens": [
+                50364,
+                1079,
+                13,
+                50437
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -1.349039649963379,
+            "compression_ratio": 0.3333333333333333,
+            "no_speech_prob": 0.4939309358596802,
+            "words": [
+                {
+                    "word": " Yes.",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.15610499680042267
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

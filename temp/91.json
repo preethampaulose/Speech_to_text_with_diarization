@@ -1,0 +1,31 @@
+{
+    "text": " Together.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.32,
+            "text": " Together.",
+            "tokens": [
+                50364,
+                15911,
+                13,
+                50377
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.9346519470214845,
+            "compression_ratio": 0.5294117647058824,
+            "no_speech_prob": 0.3785434067249298,
+            "words": [
+                {
+                    "word": " Together.",
+                    "start": 0.0,
+                    "end": 0.32,
+                    "probability": 0.00037523123319260776
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

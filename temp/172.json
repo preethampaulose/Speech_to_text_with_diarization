@@ -1,0 +1,360 @@
+{
+    "text": " But it's a risk-reward equation. So as a founder, most of your financial outcome is logged in terms of equity, relying on an assumption that if this works out, it will mathematically solve for me because then it will be 100x.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.54,
+            "text": " But it's a risk-reward equation. So as a founder, most of your financial outcome is",
+            "tokens": [
+                50364,
+                583,
+                309,
+                311,
+                257,
+                3148,
+                12,
+                265,
+                1007,
+                5367,
+                13,
+                407,
+                382,
+                257,
+                14917,
+                11,
+                881,
+                295,
+                428,
+                4669,
+                9700,
+                307,
+                50684
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25534981694714776,
+            "compression_ratio": 1.3719512195121952,
+            "no_speech_prob": 0.011691160500049591,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 0.0,
+                    "end": 0.4,
+                    "probability": 0.521330714225769
+                },
+                {
+                    "word": " it's",
+                    "start": 0.4,
+                    "end": 1.12,
+                    "probability": 0.5545424669981003
+                },
+                {
+                    "word": " a",
+                    "start": 1.12,
+                    "end": 1.2,
+                    "probability": 0.877617359161377
+                },
+                {
+                    "word": " risk",
+                    "start": 1.2,
+                    "end": 1.38,
+                    "probability": 0.5133332014083862
+                },
+                {
+                    "word": "-reward",
+                    "start": 1.38,
+                    "end": 1.68,
+                    "probability": 0.5623424251874288
+                },
+                {
+                    "word": " equation.",
+                    "start": 1.68,
+                    "end": 2.14,
+                    "probability": 0.977202832698822
+                },
+                {
+                    "word": " So",
+                    "start": 2.66,
+                    "end": 2.68,
+                    "probability": 0.9060778021812439
+                },
+                {
+                    "word": " as",
+                    "start": 2.68,
+                    "end": 2.98,
+                    "probability": 0.7687318325042725
+                },
+                {
+                    "word": " a",
+                    "start": 2.98,
+                    "end": 3.1,
+                    "probability": 0.9842982292175293
+                },
+                {
+                    "word": " founder,",
+                    "start": 3.1,
+                    "end": 3.46,
+                    "probability": 0.9752895832061768
+                },
+                {
+                    "word": " most",
+                    "start": 3.86,
+                    "end": 3.96,
+                    "probability": 0.9930369257926941
+                },
+                {
+                    "word": " of",
+                    "start": 3.96,
+                    "end": 4.2,
+                    "probability": 0.9939647316932678
+                },
+                {
+                    "word": " your",
+                    "start": 4.2,
+                    "end": 5.36,
+                    "probability": 0.9818997383117676
+                },
+                {
+                    "word": " financial",
+                    "start": 5.36,
+                    "end": 5.84,
+                    "probability": 0.9874706864356995
+                },
+                {
+                    "word": " outcome",
+                    "start": 5.84,
+                    "end": 6.26,
+                    "probability": 0.9650037884712219
+                },
+                {
+                    "word": " is",
+                    "start": 6.26,
+                    "end": 6.54,
+                    "probability": 0.9937917590141296
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.54,
+            "end": 13.02,
+            "text": " logged in terms of equity, relying on an assumption that if this works out, it will mathematically",
+            "tokens": [
+                50684,
+                27231,
+                294,
+                2115,
+                295,
+                10769,
+                11,
+                24140,
+                322,
+                364,
+                15302,
+                300,
+                498,
+                341,
+                1985,
+                484,
+                11,
+                309,
+                486,
+                44003,
+                51020
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25534981694714776,
+            "compression_ratio": 1.3719512195121952,
+            "no_speech_prob": 0.011691160500049591,
+            "words": [
+                {
+                    "word": " logged",
+                    "start": 6.54,
+                    "end": 6.72,
+                    "probability": 0.7937189936637878
+                },
+                {
+                    "word": " in",
+                    "start": 6.72,
+                    "end": 6.92,
+                    "probability": 0.9092417359352112
+                },
+                {
+                    "word": " terms",
+                    "start": 6.92,
+                    "end": 7.12,
+                    "probability": 0.9667953848838806
+                },
+                {
+                    "word": " of",
+                    "start": 7.12,
+                    "end": 7.28,
+                    "probability": 0.9988276362419128
+                },
+                {
+                    "word": " equity,",
+                    "start": 7.28,
+                    "end": 7.7,
+                    "probability": 0.9047280550003052
+                },
+                {
+                    "word": " relying",
+                    "start": 8.52,
+                    "end": 8.74,
+                    "probability": 0.9900072813034058
+                },
+                {
+                    "word": " on",
+                    "start": 8.74,
+                    "end": 9.24,
+                    "probability": 0.998522937297821
+                },
+                {
+                    "word": " an",
+                    "start": 9.24,
+                    "end": 9.44,
+                    "probability": 0.9840244650840759
+                },
+                {
+                    "word": " assumption",
+                    "start": 9.44,
+                    "end": 9.82,
+                    "probability": 0.9904192090034485
+                },
+                {
+                    "word": " that",
+                    "start": 9.82,
+                    "end": 10.32,
+                    "probability": 0.9815683960914612
+                },
+                {
+                    "word": " if",
+                    "start": 10.32,
+                    "end": 10.64,
+                    "probability": 0.6181353330612183
+                },
+                {
+                    "word": " this",
+                    "start": 10.64,
+                    "end": 10.92,
+                    "probability": 0.9968540072441101
+                },
+                {
+                    "word": " works",
+                    "start": 10.92,
+                    "end": 11.16,
+                    "probability": 0.9936442375183105
+                },
+                {
+                    "word": " out,",
+                    "start": 11.16,
+                    "end": 11.94,
+                    "probability": 0.9989483952522278
+                },
+                {
+                    "word": " it",
+                    "start": 12.2,
+                    "end": 12.3,
+                    "probability": 0.9969906806945801
+                },
+                {
+                    "word": " will",
+                    "start": 12.3,
+                    "end": 12.5,
+                    "probability": 0.9970658421516418
+                },
+                {
+                    "word": " mathematically",
+                    "start": 12.5,
+                    "end": 13.02,
+                    "probability": 0.9941556453704834
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 13.02,
+            "end": 15.66,
+            "text": " solve for me because then it will be 100x.",
+            "tokens": [
+                51020,
+                5039,
+                337,
+                385,
+                570,
+                550,
+                309,
+                486,
+                312,
+                2319,
+                87,
+                13,
+                51144
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.25534981694714776,
+            "compression_ratio": 1.3719512195121952,
+            "no_speech_prob": 0.011691160500049591,
+            "words": [
+                {
+                    "word": " solve",
+                    "start": 13.02,
+                    "end": 13.54,
+                    "probability": 0.9755772352218628
+                },
+                {
+                    "word": " for",
+                    "start": 13.54,
+                    "end": 13.8,
+                    "probability": 0.9973552227020264
+                },
+                {
+                    "word": " me",
+                    "start": 13.8,
+                    "end": 14.18,
+                    "probability": 0.998508870601654
+                },
+                {
+                    "word": " because",
+                    "start": 14.18,
+                    "end": 14.58,
+                    "probability": 0.5167290568351746
+                },
+                {
+                    "word": " then",
+                    "start": 14.58,
+                    "end": 14.82,
+                    "probability": 0.9906195402145386
+                },
+                {
+                    "word": " it",
+                    "start": 14.82,
+                    "end": 14.88,
+                    "probability": 0.985240638256073
+                },
+                {
+                    "word": " will",
+                    "start": 14.88,
+                    "end": 15.06,
+                    "probability": 0.9839598536491394
+                },
+                {
+                    "word": " be",
+                    "start": 15.06,
+                    "end": 15.2,
+                    "probability": 0.9991832375526428
+                },
+                {
+                    "word": " 100x.",
+                    "start": 15.2,
+                    "end": 15.66,
+                    "probability": 0.7465030252933502
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,84 @@
+{
+    "text": " health of bad luck. Thank you.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.4,
+            "text": " health of bad luck.",
+            "tokens": [
+                50364,
+                1585,
+                295,
+                1578,
+                3668,
+                13,
+                50416
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.5510884798490086,
+            "compression_ratio": 0.7894736842105263,
+            "no_speech_prob": 0.4817136526107788,
+            "words": [
+                {
+                    "word": " health",
+                    "start": 0.0,
+                    "end": 0.3,
+                    "probability": 0.0005958981928415596
+                },
+                {
+                    "word": " of",
+                    "start": 0.3,
+                    "end": 0.3,
+                    "probability": 0.040403515100479126
+                },
+                {
+                    "word": " bad",
+                    "start": 0.3,
+                    "end": 0.3,
+                    "probability": 0.0025019366294145584
+                },
+                {
+                    "word": " luck.",
+                    "start": 0.3,
+                    "end": 0.4,
+                    "probability": 0.11277595162391663
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.66,
+            "end": 1.0,
+            "text": " Thank you.",
+            "tokens": [
+                50416,
+                1044,
+                291,
+                13,
+                50431
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.5510884798490086,
+            "compression_ratio": 0.7894736842105263,
+            "no_speech_prob": 0.4817136526107788,
+            "words": [
+                {
+                    "word": " Thank",
+                    "start": 0.66,
+                    "end": 0.66,
+                    "probability": 0.07422962784767151
+                },
+                {
+                    "word": " you.",
+                    "start": 0.66,
+                    "end": 1.0,
+                    "probability": 0.9806557893753052
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

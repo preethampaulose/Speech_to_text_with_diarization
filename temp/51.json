@@ -1,0 +1,803 @@
+{
+    "text": " Yeah, okay. Yeah after deduction, less in hand, the taxes and other things. And then of course I also started preparing. So it was zero income for about two years. And then I started again at 56,100. Today I stand at the basic salary of 59,500. My current salary, almost three times is other used to pay as tax in my last job in 2017, 2018. So that's the kind of pay cut we have taken. Still. Abhinav, why don't you go?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.38,
+            "text": " Yeah, okay. Yeah after deduction, less in hand,",
+            "tokens": [
+                50364,
+                865,
+                11,
+                1392,
+                13,
+                865,
+                934,
+                46385,
+                11,
+                1570,
+                294,
+                1011,
+                11,
+                50533
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3807907867431641,
+            "compression_ratio": 1.48471615720524,
+            "no_speech_prob": 0.17360085248947144,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.2788236737251282
+                },
+                {
+                    "word": " okay.",
+                    "start": 0.84,
+                    "end": 1.0,
+                    "probability": 0.5942158102989197
+                },
+                {
+                    "word": " Yeah",
+                    "start": 1.34,
+                    "end": 1.48,
+                    "probability": 0.6793164610862732
+                },
+                {
+                    "word": " after",
+                    "start": 1.48,
+                    "end": 1.66,
+                    "probability": 0.581950306892395
+                },
+                {
+                    "word": " deduction,",
+                    "start": 1.66,
+                    "end": 2.02,
+                    "probability": 0.4839310646057129
+                },
+                {
+                    "word": " less",
+                    "start": 2.3,
+                    "end": 2.4,
+                    "probability": 0.26827356219291687
+                },
+                {
+                    "word": " in",
+                    "start": 2.4,
+                    "end": 2.62,
+                    "probability": 0.9786272644996643
+                },
+                {
+                    "word": " hand,",
+                    "start": 2.62,
+                    "end": 3.38,
+                    "probability": 0.9535494446754456
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.66,
+            "end": 5.28,
+            "text": " the taxes and other things.",
+            "tokens": [
+                50533,
+                264,
+                10041,
+                293,
+                661,
+                721,
+                13,
+                50656
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3807907867431641,
+            "compression_ratio": 1.48471615720524,
+            "no_speech_prob": 0.17360085248947144,
+            "words": [
+                {
+                    "word": " the",
+                    "start": 3.66,
+                    "end": 3.82,
+                    "probability": 0.2556873857975006
+                },
+                {
+                    "word": " taxes",
+                    "start": 3.82,
+                    "end": 4.14,
+                    "probability": 0.7795770168304443
+                },
+                {
+                    "word": " and",
+                    "start": 4.14,
+                    "end": 4.66,
+                    "probability": 0.9069305658340454
+                },
+                {
+                    "word": " other",
+                    "start": 4.66,
+                    "end": 4.84,
+                    "probability": 0.9651171565055847
+                },
+                {
+                    "word": " things.",
+                    "start": 4.84,
+                    "end": 5.28,
+                    "probability": 0.9983687996864319
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 6.22,
+            "end": 8.6,
+            "text": " And then of course I also started preparing.",
+            "tokens": [
+                50656,
+                400,
+                550,
+                295,
+                1164,
+                286,
+                611,
+                1409,
+                10075,
+                13,
+                50822
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3807907867431641,
+            "compression_ratio": 1.48471615720524,
+            "no_speech_prob": 0.17360085248947144,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 6.22,
+                    "end": 6.32,
+                    "probability": 0.9438326358795166
+                },
+                {
+                    "word": " then",
+                    "start": 6.32,
+                    "end": 6.56,
+                    "probability": 0.9874451160430908
+                },
+                {
+                    "word": " of",
+                    "start": 6.56,
+                    "end": 6.68,
+                    "probability": 0.8351936340332031
+                },
+                {
+                    "word": " course",
+                    "start": 6.68,
+                    "end": 6.82,
+                    "probability": 0.9889281988143921
+                },
+                {
+                    "word": " I",
+                    "start": 6.82,
+                    "end": 7.02,
+                    "probability": 0.5574601292610168
+                },
+                {
+                    "word": " also",
+                    "start": 7.02,
+                    "end": 7.56,
+                    "probability": 0.9759517908096313
+                },
+                {
+                    "word": " started",
+                    "start": 7.56,
+                    "end": 8.24,
+                    "probability": 0.961118221282959
+                },
+                {
+                    "word": " preparing.",
+                    "start": 8.24,
+                    "end": 8.6,
+                    "probability": 0.9962959885597229
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 9.36,
+            "end": 12.62,
+            "text": " So it was zero income for about two years.",
+            "tokens": [
+                50822,
+                407,
+                309,
+                390,
+                4018,
+                5742,
+                337,
+                466,
+                732,
+                924,
+                13,
+                51018
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3807907867431641,
+            "compression_ratio": 1.48471615720524,
+            "no_speech_prob": 0.17360085248947144,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 9.36,
+                    "end": 9.38,
+                    "probability": 0.979323148727417
+                },
+                {
+                    "word": " it",
+                    "start": 9.38,
+                    "end": 9.46,
+                    "probability": 0.9674265384674072
+                },
+                {
+                    "word": " was",
+                    "start": 9.46,
+                    "end": 9.62,
+                    "probability": 0.9991542100906372
+                },
+                {
+                    "word": " zero",
+                    "start": 9.62,
+                    "end": 9.9,
+                    "probability": 0.6344287991523743
+                },
+                {
+                    "word": " income",
+                    "start": 9.9,
+                    "end": 10.52,
+                    "probability": 0.9914544820785522
+                },
+                {
+                    "word": " for",
+                    "start": 10.52,
+                    "end": 11.38,
+                    "probability": 0.9231709837913513
+                },
+                {
+                    "word": " about",
+                    "start": 11.38,
+                    "end": 11.88,
+                    "probability": 0.9747485518455505
+                },
+                {
+                    "word": " two",
+                    "start": 11.88,
+                    "end": 12.2,
+                    "probability": 0.8735408186912537
+                },
+                {
+                    "word": " years.",
+                    "start": 12.2,
+                    "end": 12.62,
+                    "probability": 0.9981067180633545
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 13.3,
+            "end": 15.88,
+            "text": " And then I started again at 56,100.",
+            "tokens": [
+                51018,
+                400,
+                550,
+                286,
+                1409,
+                797,
+                412,
+                19687,
+                11,
+                6879,
+                13,
+                51198
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3807907867431641,
+            "compression_ratio": 1.48471615720524,
+            "no_speech_prob": 0.17360085248947144,
+            "words": [
+                {
+                    "word": " And",
+                    "start": 13.3,
+                    "end": 13.36,
+                    "probability": 0.9818300008773804
+                },
+                {
+                    "word": " then",
+                    "start": 13.36,
+                    "end": 13.62,
+                    "probability": 0.9987940788269043
+                },
+                {
+                    "word": " I",
+                    "start": 13.62,
+                    "end": 13.84,
+                    "probability": 0.9699321985244751
+                },
+                {
+                    "word": " started",
+                    "start": 13.84,
+                    "end": 14.14,
+                    "probability": 0.9942264556884766
+                },
+                {
+                    "word": " again",
+                    "start": 14.14,
+                    "end": 14.48,
+                    "probability": 0.9490659832954407
+                },
+                {
+                    "word": " at",
+                    "start": 14.48,
+                    "end": 14.66,
+                    "probability": 0.9747369885444641
+                },
+                {
+                    "word": " 56",
+                    "start": 14.66,
+                    "end": 15.1,
+                    "probability": 0.9317190647125244
+                },
+                {
+                    "word": ",100.",
+                    "start": 15.1,
+                    "end": 15.88,
+                    "probability": 0.8838714361190796
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 16.72,
+            "end": 20.18,
+            "text": " Today I stand at the basic salary of 59,500.",
+            "tokens": [
+                51198,
+                2692,
+                286,
+                1463,
+                412,
+                264,
+                3875,
+                15360,
+                295,
+                24624,
+                11,
+                7526,
+                13,
+                51398
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3807907867431641,
+            "compression_ratio": 1.48471615720524,
+            "no_speech_prob": 0.17360085248947144,
+            "words": [
+                {
+                    "word": " Today",
+                    "start": 16.72,
+                    "end": 16.96,
+                    "probability": 0.9510874152183533
+                },
+                {
+                    "word": " I",
+                    "start": 16.96,
+                    "end": 17.2,
+                    "probability": 0.931974470615387
+                },
+                {
+                    "word": " stand",
+                    "start": 17.2,
+                    "end": 17.52,
+                    "probability": 0.9624148607254028
+                },
+                {
+                    "word": " at",
+                    "start": 17.52,
+                    "end": 18.12,
+                    "probability": 0.9926304817199707
+                },
+                {
+                    "word": " the",
+                    "start": 18.12,
+                    "end": 18.3,
+                    "probability": 0.9736951589584351
+                },
+                {
+                    "word": " basic",
+                    "start": 18.3,
+                    "end": 18.52,
+                    "probability": 0.8122186660766602
+                },
+                {
+                    "word": " salary",
+                    "start": 18.52,
+                    "end": 18.88,
+                    "probability": 0.9946734309196472
+                },
+                {
+                    "word": " of",
+                    "start": 18.88,
+                    "end": 19.1,
+                    "probability": 0.9969965219497681
+                },
+                {
+                    "word": " 59",
+                    "start": 19.1,
+                    "end": 19.48,
+                    "probability": 0.9441665410995483
+                },
+                {
+                    "word": ",500.",
+                    "start": 19.48,
+                    "end": 20.18,
+                    "probability": 0.9872167408466339
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 20.72,
+            "end": 25.14,
+            "text": " My current salary, almost three times is other used to pay",
+            "tokens": [
+                51398,
+                1222,
+                2190,
+                15360,
+                11,
+                1920,
+                1045,
+                1413,
+                307,
+                661,
+                1143,
+                281,
+                1689,
+                51620
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3807907867431641,
+            "compression_ratio": 1.48471615720524,
+            "no_speech_prob": 0.17360085248947144,
+            "words": [
+                {
+                    "word": " My",
+                    "start": 20.72,
+                    "end": 20.96,
+                    "probability": 0.7827523946762085
+                },
+                {
+                    "word": " current",
+                    "start": 20.96,
+                    "end": 21.28,
+                    "probability": 0.9966166615486145
+                },
+                {
+                    "word": " salary,",
+                    "start": 21.28,
+                    "end": 21.92,
+                    "probability": 0.9990537762641907
+                },
+                {
+                    "word": " almost",
+                    "start": 23.34,
+                    "end": 23.6,
+                    "probability": 0.8851392269134521
+                },
+                {
+                    "word": " three",
+                    "start": 23.6,
+                    "end": 23.94,
+                    "probability": 0.8894051909446716
+                },
+                {
+                    "word": " times",
+                    "start": 23.94,
+                    "end": 24.14,
+                    "probability": 0.9442380666732788
+                },
+                {
+                    "word": " is",
+                    "start": 24.14,
+                    "end": 24.34,
+                    "probability": 0.3267236649990082
+                },
+                {
+                    "word": " other",
+                    "start": 24.34,
+                    "end": 24.58,
+                    "probability": 0.34200283885002136
+                },
+                {
+                    "word": " used",
+                    "start": 24.58,
+                    "end": 24.84,
+                    "probability": 0.6602463126182556
+                },
+                {
+                    "word": " to",
+                    "start": 24.84,
+                    "end": 25.0,
+                    "probability": 0.9884015917778015
+                },
+                {
+                    "word": " pay",
+                    "start": 25.0,
+                    "end": 25.14,
+                    "probability": 0.9965858459472656
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 25.14,
+            "end": 28.26,
+            "text": " as tax in my last job in 2017, 2018.",
+            "tokens": [
+                51620,
+                382,
+                3366,
+                294,
+                452,
+                1036,
+                1691,
+                294,
+                6591,
+                11,
+                6096,
+                13,
+                51772
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3807907867431641,
+            "compression_ratio": 1.48471615720524,
+            "no_speech_prob": 0.17360085248947144,
+            "words": [
+                {
+                    "word": " as",
+                    "start": 25.14,
+                    "end": 25.36,
+                    "probability": 0.6292877197265625
+                },
+                {
+                    "word": " tax",
+                    "start": 25.36,
+                    "end": 25.82,
+                    "probability": 0.9439681768417358
+                },
+                {
+                    "word": " in",
+                    "start": 25.82,
+                    "end": 26.16,
+                    "probability": 0.7457537055015564
+                },
+                {
+                    "word": " my",
+                    "start": 26.16,
+                    "end": 26.34,
+                    "probability": 0.9958934783935547
+                },
+                {
+                    "word": " last",
+                    "start": 26.34,
+                    "end": 26.54,
+                    "probability": 0.9938349723815918
+                },
+                {
+                    "word": " job",
+                    "start": 26.54,
+                    "end": 26.78,
+                    "probability": 0.9679394960403442
+                },
+                {
+                    "word": " in",
+                    "start": 26.78,
+                    "end": 27.08,
+                    "probability": 0.9822485446929932
+                },
+                {
+                    "word": " 2017,",
+                    "start": 27.08,
+                    "end": 27.46,
+                    "probability": 0.5714151263237
+                },
+                {
+                    "word": " 2018.",
+                    "start": 28.22,
+                    "end": 28.26,
+                    "probability": 0.8687511682510376
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 2826,
+            "start": 28.26,
+            "end": 30.74,
+            "text": " So that's the kind of pay cut we have taken.",
+            "tokens": [
+                50364,
+                407,
+                300,
+                311,
+                264,
+                733,
+                295,
+                1689,
+                1723,
+                321,
+                362,
+                2726,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7387647321147304,
+            "compression_ratio": 0.9873417721518988,
+            "no_speech_prob": 0.44320449233055115,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 28.26,
+                    "end": 28.26,
+                    "probability": 0.02987128496170044
+                },
+                {
+                    "word": " that's",
+                    "start": 28.26,
+                    "end": 28.64,
+                    "probability": 0.5738642811775208
+                },
+                {
+                    "word": " the",
+                    "start": 28.64,
+                    "end": 28.7,
+                    "probability": 0.7617408633232117
+                },
+                {
+                    "word": " kind",
+                    "start": 28.7,
+                    "end": 28.92,
+                    "probability": 0.8653159141540527
+                },
+                {
+                    "word": " of",
+                    "start": 28.92,
+                    "end": 29.7,
+                    "probability": 0.9966562986373901
+                },
+                {
+                    "word": " pay",
+                    "start": 29.7,
+                    "end": 29.86,
+                    "probability": 0.012767951004207134
+                },
+                {
+                    "word": " cut",
+                    "start": 29.86,
+                    "end": 30.04,
+                    "probability": 0.6354324221611023
+                },
+                {
+                    "word": " we",
+                    "start": 30.04,
+                    "end": 30.16,
+                    "probability": 0.9252628684043884
+                },
+                {
+                    "word": " have",
+                    "start": 30.16,
+                    "end": 30.3,
+                    "probability": 0.9869333505630493
+                },
+                {
+                    "word": " taken.",
+                    "start": 30.3,
+                    "end": 30.74,
+                    "probability": 0.9814876317977905
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 2826,
+            "start": 31.24,
+            "end": 31.32,
+            "text": " Still.",
+            "tokens": [
+                50496,
+                8291,
+                13,
+                50521
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7387647321147304,
+            "compression_ratio": 0.9873417721518988,
+            "no_speech_prob": 0.44320449233055115,
+            "words": [
+                {
+                    "word": " Still.",
+                    "start": 31.24,
+                    "end": 31.32,
+                    "probability": 0.025019345805048943
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 2826,
+            "start": 31.58,
+            "end": 32.36,
+            "text": " Abhinav, why don't you go?",
+            "tokens": [
+                50521,
+                2847,
+                10876,
+                706,
+                11,
+                983,
+                500,
+                380,
+                291,
+                352,
+                30,
+                50571
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7387647321147304,
+            "compression_ratio": 0.9873417721518988,
+            "no_speech_prob": 0.44320449233055115,
+            "words": [
+                {
+                    "word": " Abhinav,",
+                    "start": 31.58,
+                    "end": 31.88,
+                    "probability": 0.4962119261423747
+                },
+                {
+                    "word": " why",
+                    "start": 31.98,
+                    "end": 32.06,
+                    "probability": 0.783707857131958
+                },
+                {
+                    "word": " don't",
+                    "start": 32.06,
+                    "end": 32.26,
+                    "probability": 0.976756751537323
+                },
+                {
+                    "word": " you",
+                    "start": 32.26,
+                    "end": 32.28,
+                    "probability": 0.8614405989646912
+                },
+                {
+                    "word": " go?",
+                    "start": 32.28,
+                    "end": 32.36,
+                    "probability": 0.9521259665489197
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,202 @@
+{
+    "text": " lot of this press full unpredictable years of hard work out of at the end of which there might not be any recognition.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 8.0,
+            "text": " lot of this press full unpredictable years of hard work out of at the end of which there might",
+            "tokens": [
+                50364,
+                688,
+                295,
+                341,
+                1886,
+                1577,
+                31160,
+                924,
+                295,
+                1152,
+                589,
+                484,
+                295,
+                412,
+                264,
+                917,
+                295,
+                597,
+                456,
+                1062,
+                50760
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2893956283043171,
+            "compression_ratio": 1.2421052631578948,
+            "no_speech_prob": 0.026758216321468353,
+            "words": [
+                {
+                    "word": " lot",
+                    "start": 0.0,
+                    "end": 0.28,
+                    "probability": 0.7974507212638855
+                },
+                {
+                    "word": " of",
+                    "start": 0.28,
+                    "end": 0.44,
+                    "probability": 0.9931268692016602
+                },
+                {
+                    "word": " this",
+                    "start": 0.44,
+                    "end": 0.62,
+                    "probability": 0.545842170715332
+                },
+                {
+                    "word": " press",
+                    "start": 0.62,
+                    "end": 0.94,
+                    "probability": 0.8375228643417358
+                },
+                {
+                    "word": " full",
+                    "start": 0.94,
+                    "end": 1.44,
+                    "probability": 0.8602314591407776
+                },
+                {
+                    "word": " unpredictable",
+                    "start": 1.44,
+                    "end": 2.04,
+                    "probability": 0.6885285377502441
+                },
+                {
+                    "word": " years",
+                    "start": 2.04,
+                    "end": 3.3,
+                    "probability": 0.4863540828227997
+                },
+                {
+                    "word": " of",
+                    "start": 3.3,
+                    "end": 3.94,
+                    "probability": 0.9770077466964722
+                },
+                {
+                    "word": " hard",
+                    "start": 3.94,
+                    "end": 4.22,
+                    "probability": 0.9859429597854614
+                },
+                {
+                    "word": " work",
+                    "start": 4.22,
+                    "end": 5.4,
+                    "probability": 0.9798812866210938
+                },
+                {
+                    "word": " out",
+                    "start": 5.4,
+                    "end": 6.28,
+                    "probability": 0.7808466553688049
+                },
+                {
+                    "word": " of",
+                    "start": 6.28,
+                    "end": 6.9,
+                    "probability": 0.873988687992096
+                },
+                {
+                    "word": " at",
+                    "start": 6.9,
+                    "end": 7.02,
+                    "probability": 0.8608167767524719
+                },
+                {
+                    "word": " the",
+                    "start": 7.02,
+                    "end": 7.2,
+                    "probability": 0.9915412068367004
+                },
+                {
+                    "word": " end",
+                    "start": 7.2,
+                    "end": 7.34,
+                    "probability": 0.9996802806854248
+                },
+                {
+                    "word": " of",
+                    "start": 7.34,
+                    "end": 7.52,
+                    "probability": 0.9916077852249146
+                },
+                {
+                    "word": " which",
+                    "start": 7.52,
+                    "end": 7.66,
+                    "probability": 0.5747039318084717
+                },
+                {
+                    "word": " there",
+                    "start": 7.66,
+                    "end": 7.84,
+                    "probability": 0.9270979166030884
+                },
+                {
+                    "word": " might",
+                    "start": 7.84,
+                    "end": 8.0,
+                    "probability": 0.9884451627731323
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.0,
+            "end": 8.82,
+            "text": " not be any recognition.",
+            "tokens": [
+                50760,
+                406,
+                312,
+                604,
+                11150,
+                13,
+                50810
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2893956283043171,
+            "compression_ratio": 1.2421052631578948,
+            "no_speech_prob": 0.026758216321468353,
+            "words": [
+                {
+                    "word": " not",
+                    "start": 8.0,
+                    "end": 8.2,
+                    "probability": 0.9816359281539917
+                },
+                {
+                    "word": " be",
+                    "start": 8.2,
+                    "end": 8.38,
+                    "probability": 0.9963346719741821
+                },
+                {
+                    "word": " any",
+                    "start": 8.38,
+                    "end": 8.54,
+                    "probability": 0.9933666586875916
+                },
+                {
+                    "word": " recognition.",
+                    "start": 8.54,
+                    "end": 8.82,
+                    "probability": 0.6994538307189941
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

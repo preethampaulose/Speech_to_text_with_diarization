@@ -1,0 +1,250 @@
+{
+    "text": " I think for me, mine security is whether I will be able to go 10x from here. So, the insecurity is what if I don't get 10x from here?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.16,
+            "text": " I think for me, mine security is whether I will be able to go 10x from here.",
+            "tokens": [
+                50364,
+                286,
+                519,
+                337,
+                385,
+                11,
+                3892,
+                3825,
+                307,
+                1968,
+                286,
+                486,
+                312,
+                1075,
+                281,
+                352,
+                1266,
+                87,
+                490,
+                510,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3094357281196408,
+            "compression_ratio": 1.303921568627451,
+            "no_speech_prob": 0.008549920283257961,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.8675507307052612
+                },
+                {
+                    "word": " think",
+                    "start": 0.24,
+                    "end": 0.46,
+                    "probability": 0.9923140406608582
+                },
+                {
+                    "word": " for",
+                    "start": 0.46,
+                    "end": 0.76,
+                    "probability": 0.9722588062286377
+                },
+                {
+                    "word": " me,",
+                    "start": 0.76,
+                    "end": 1.78,
+                    "probability": 0.9724497199058533
+                },
+                {
+                    "word": " mine",
+                    "start": 1.86,
+                    "end": 2.1,
+                    "probability": 0.2899802029132843
+                },
+                {
+                    "word": " security",
+                    "start": 2.1,
+                    "end": 2.52,
+                    "probability": 0.9448404312133789
+                },
+                {
+                    "word": " is",
+                    "start": 2.52,
+                    "end": 2.9,
+                    "probability": 0.9224048256874084
+                },
+                {
+                    "word": " whether",
+                    "start": 2.9,
+                    "end": 3.12,
+                    "probability": 0.5220071077346802
+                },
+                {
+                    "word": " I",
+                    "start": 3.12,
+                    "end": 3.46,
+                    "probability": 0.9577208757400513
+                },
+                {
+                    "word": " will",
+                    "start": 3.46,
+                    "end": 3.62,
+                    "probability": 0.692788302898407
+                },
+                {
+                    "word": " be",
+                    "start": 3.62,
+                    "end": 4.1,
+                    "probability": 0.9927433729171753
+                },
+                {
+                    "word": " able",
+                    "start": 4.1,
+                    "end": 4.48,
+                    "probability": 0.9976217150688171
+                },
+                {
+                    "word": " to",
+                    "start": 4.48,
+                    "end": 4.7,
+                    "probability": 0.9922388792037964
+                },
+                {
+                    "word": " go",
+                    "start": 4.7,
+                    "end": 4.92,
+                    "probability": 0.9919885993003845
+                },
+                {
+                    "word": " 10x",
+                    "start": 4.92,
+                    "end": 5.38,
+                    "probability": 0.5596519708633423
+                },
+                {
+                    "word": " from",
+                    "start": 5.38,
+                    "end": 5.54,
+                    "probability": 0.9920555949211121
+                },
+                {
+                    "word": " here.",
+                    "start": 5.54,
+                    "end": 6.16,
+                    "probability": 0.9969022870063782
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.48,
+            "end": 10.86,
+            "text": " So, the insecurity is what if I don't get 10x from here?",
+            "tokens": [
+                50714,
+                407,
+                11,
+                264,
+                35058,
+                307,
+                437,
+                498,
+                286,
+                500,
+                380,
+                483,
+                1266,
+                87,
+                490,
+                510,
+                30,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.3094357281196408,
+            "compression_ratio": 1.303921568627451,
+            "no_speech_prob": 0.008549920283257961,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 7.48,
+                    "end": 7.48,
+                    "probability": 0.923064112663269
+                },
+                {
+                    "word": " the",
+                    "start": 7.92,
+                    "end": 8.1,
+                    "probability": 0.9864526391029358
+                },
+                {
+                    "word": " insecurity",
+                    "start": 8.1,
+                    "end": 8.46,
+                    "probability": 0.8869024515151978
+                },
+                {
+                    "word": " is",
+                    "start": 8.46,
+                    "end": 9.16,
+                    "probability": 0.9963893890380859
+                },
+                {
+                    "word": " what",
+                    "start": 9.16,
+                    "end": 9.38,
+                    "probability": 0.664458692073822
+                },
+                {
+                    "word": " if",
+                    "start": 9.38,
+                    "end": 9.64,
+                    "probability": 0.9713745713233948
+                },
+                {
+                    "word": " I",
+                    "start": 9.64,
+                    "end": 9.82,
+                    "probability": 0.9888049364089966
+                },
+                {
+                    "word": " don't",
+                    "start": 9.82,
+                    "end": 10.0,
+                    "probability": 0.7044377326965332
+                },
+                {
+                    "word": " get",
+                    "start": 10.0,
+                    "end": 10.2,
+                    "probability": 0.9979233741760254
+                },
+                {
+                    "word": " 10x",
+                    "start": 10.2,
+                    "end": 10.56,
+                    "probability": 0.9892519414424896
+                },
+                {
+                    "word": " from",
+                    "start": 10.56,
+                    "end": 10.74,
+                    "probability": 0.9965068697929382
+                },
+                {
+                    "word": " here?",
+                    "start": 10.74,
+                    "end": 10.86,
+                    "probability": 0.9883423447608948
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

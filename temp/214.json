@@ -1,0 +1,38 @@
+{
+    "text": " your family.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.76,
+            "text": " your family.",
+            "tokens": [
+                50364,
+                428,
+                1605,
+                13,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6504320303599039,
+            "compression_ratio": 0.6,
+            "no_speech_prob": 0.3054199814796448,
+            "words": [
+                {
+                    "word": " your",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.5910450220108032
+                },
+                {
+                    "word": " family.",
+                    "start": 0.34,
+                    "end": 0.76,
+                    "probability": 0.9918988943099976
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

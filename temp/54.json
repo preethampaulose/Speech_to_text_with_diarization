@@ -1,0 +1,48 @@
+{
+    "text": " let's see, Davey.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.8200000000000003,
+            "end": 1.2,
+            "text": " let's see, Davey.",
+            "tokens": [
+                50364,
+                718,
+                311,
+                536,
+                11,
+                11017,
+                88,
+                13,
+                50513
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -2.9200973510742188,
+            "compression_ratio": 0.68,
+            "no_speech_prob": 0.4689384996891022,
+            "words": [
+                {
+                    "word": " let's",
+                    "start": 0.8200000000000003,
+                    "end": 1.02,
+                    "probability": 0.48590481583960354
+                },
+                {
+                    "word": " see,",
+                    "start": 1.02,
+                    "end": 1.1,
+                    "probability": 0.8407350778579712
+                },
+                {
+                    "word": " Davey.",
+                    "start": 1.2,
+                    "end": 1.2,
+                    "probability": 0.008350679148861673
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

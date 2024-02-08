@@ -1,0 +1,221 @@
+{
+    "text": " proceed a bit more urgency about",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.82,
+            "text": " proceed a bit more urgency about",
+            "tokens": [
+                50364,
+                8991,
+                257,
+                857,
+                544,
+                29734,
+                466,
+                50474
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.328067736679248,
+            "compression_ratio": 1.5302325581395348,
+            "no_speech_prob": 0.4684050977230072,
+            "words": [
+                {
+                    "word": " proceed",
+                    "start": 0.0,
+                    "end": 0.82,
+                    "probability": 1.3742661053584015e-07
+                },
+                {
+                    "word": " a",
+                    "start": 0.82,
+                    "end": 0.82,
+                    "probability": 0.004161222837865353
+                },
+                {
+                    "word": " bit",
+                    "start": 0.82,
+                    "end": 0.82,
+                    "probability": 0.04699312523007393
+                },
+                {
+                    "word": " more",
+                    "start": 0.82,
+                    "end": 0.82,
+                    "probability": 0.13748815655708313
+                },
+                {
+                    "word": " urgency",
+                    "start": 0.82,
+                    "end": 0.82,
+                    "probability": 3.093433770118281e-05
+                },
+                {
+                    "word": " about",
+                    "start": 0.82,
+                    "end": 0.82,
+                    "probability": 0.009728013537824154
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.82,
+            "end": 0.82,
+            "text": "",
+            "tokens": [],
+            "temperature": 1.0,
+            "avg_logprob": -4.328067736679248,
+            "compression_ratio": 1.5302325581395348,
+            "no_speech_prob": 0.4684050977230072,
+            "words": []
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 0.82,
+            "end": 0.82,
+            "text": "",
+            "tokens": [],
+            "temperature": 1.0,
+            "avg_logprob": -4.328067736679248,
+            "compression_ratio": 1.5302325581395348,
+            "no_speech_prob": 0.4684050977230072,
+            "words": []
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 0.82,
+            "end": 0.82,
+            "text": "",
+            "tokens": [],
+            "temperature": 1.0,
+            "avg_logprob": -4.328067736679248,
+            "compression_ratio": 1.5302325581395348,
+            "no_speech_prob": 0.4684050977230072,
+            "words": []
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 0.82,
+            "end": 0.82,
+            "text": "",
+            "tokens": [],
+            "temperature": 1.0,
+            "avg_logprob": -4.328067736679248,
+            "compression_ratio": 1.5302325581395348,
+            "no_speech_prob": 0.4684050977230072,
+            "words": []
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 0.82,
+            "end": 0.82,
+            "text": "",
+            "tokens": [],
+            "temperature": 1.0,
+            "avg_logprob": -4.328067736679248,
+            "compression_ratio": 1.5302325581395348,
+            "no_speech_prob": 0.4684050977230072,
+            "words": []
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 0.82,
+            "end": 0.82,
+            "text": "",
+            "tokens": [],
+            "temperature": 1.0,
+            "avg_logprob": -4.328067736679248,
+            "compression_ratio": 1.5302325581395348,
+            "no_speech_prob": 0.4684050977230072,
+            "words": []
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 0.82,
+            "end": 0.82,
+            "text": "",
+            "tokens": [],
+            "temperature": 1.0,
+            "avg_logprob": -4.328067736679248,
+            "compression_ratio": 1.5302325581395348,
+            "no_speech_prob": 0.4684050977230072,
+            "words": []
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 0.82,
+            "end": 0.82,
+            "text": "",
+            "tokens": [],
+            "temperature": 1.0,
+            "avg_logprob": -4.328067736679248,
+            "compression_ratio": 1.5302325581395348,
+            "no_speech_prob": 0.4684050977230072,
+            "words": []
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 0.82,
+            "end": 0.82,
+            "text": "",
+            "tokens": [],
+            "temperature": 1.0,
+            "avg_logprob": -4.328067736679248,
+            "compression_ratio": 1.5302325581395348,
+            "no_speech_prob": 0.4684050977230072,
+            "words": []
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 0.82,
+            "end": 0.82,
+            "text": "",
+            "tokens": [],
+            "temperature": 1.0,
+            "avg_logprob": -4.328067736679248,
+            "compression_ratio": 1.5302325581395348,
+            "no_speech_prob": 0.4684050977230072,
+            "words": []
+        },
+        {
+            "id": 11,
+            "seek": 0,
+            "start": 0.82,
+            "end": 0.82,
+            "text": "",
+            "tokens": [],
+            "temperature": 1.0,
+            "avg_logprob": -4.328067736679248,
+            "compression_ratio": 1.5302325581395348,
+            "no_speech_prob": 0.4684050977230072,
+            "words": []
+        },
+        {
+            "id": 12,
+            "seek": 82,
+            "start": 0.8,
+            "end": 0.8,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.0,
+            "avg_logprob": -0.9586189985275269,
+            "compression_ratio": 0.2727272727272727,
+            "no_speech_prob": 0.9649286270141602,
+            "words": []
+        }
+    ],
+    "language": "en"
+}

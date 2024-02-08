@@ -1,0 +1,251 @@
+{
+    "text": " I mean... What is your social pressure? What is your social pressure? Why are you being a little bit scared? I won't.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.06,
+            "text": " I mean...",
+            "tokens": [
+                50364,
+                286,
+                914,
+                485,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9406785231370193,
+            "compression_ratio": 1.3928571428571428,
+            "no_speech_prob": 0.0611487440764904,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.56,
+                    "probability": 0.054194703698158264
+                },
+                {
+                    "word": " mean...",
+                    "start": 0.56,
+                    "end": 1.06,
+                    "probability": 0.13736861944198608
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.06,
+            "end": 3.02,
+            "text": " What is your social pressure?",
+            "tokens": [
+                50464,
+                708,
+                307,
+                428,
+                2093,
+                3321,
+                30,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9406785231370193,
+            "compression_ratio": 1.3928571428571428,
+            "no_speech_prob": 0.0611487440764904,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 1.06,
+                    "end": 1.96,
+                    "probability": 0.06540974974632263
+                },
+                {
+                    "word": " is",
+                    "start": 1.96,
+                    "end": 2.2,
+                    "probability": 0.23916840553283691
+                },
+                {
+                    "word": " your",
+                    "start": 2.2,
+                    "end": 2.2,
+                    "probability": 0.27017635107040405
+                },
+                {
+                    "word": " social",
+                    "start": 2.2,
+                    "end": 2.66,
+                    "probability": 0.14422328770160675
+                },
+                {
+                    "word": " pressure?",
+                    "start": 2.66,
+                    "end": 3.02,
+                    "probability": 0.8444603085517883
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 3.56,
+            "end": 4.7,
+            "text": " What is your social pressure?",
+            "tokens": [
+                50564,
+                708,
+                307,
+                428,
+                2093,
+                3321,
+                30,
+                50614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9406785231370193,
+            "compression_ratio": 1.3928571428571428,
+            "no_speech_prob": 0.0611487440764904,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 3.56,
+                    "end": 3.76,
+                    "probability": 0.18809343874454498
+                },
+                {
+                    "word": " is",
+                    "start": 3.76,
+                    "end": 4.16,
+                    "probability": 0.7160533666610718
+                },
+                {
+                    "word": " your",
+                    "start": 4.16,
+                    "end": 4.34,
+                    "probability": 0.7537717819213867
+                },
+                {
+                    "word": " social",
+                    "start": 4.34,
+                    "end": 4.34,
+                    "probability": 0.884904146194458
+                },
+                {
+                    "word": " pressure?",
+                    "start": 4.34,
+                    "end": 4.7,
+                    "probability": 0.9927041530609131
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 4.92,
+            "end": 5.82,
+            "text": " Why are you being a little bit scared?",
+            "tokens": [
+                50614,
+                1545,
+                366,
+                291,
+                885,
+                257,
+                707,
+                857,
+                5338,
+                30,
+                50664
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9406785231370193,
+            "compression_ratio": 1.3928571428571428,
+            "no_speech_prob": 0.0611487440764904,
+            "words": [
+                {
+                    "word": " Why",
+                    "start": 4.92,
+                    "end": 5.24,
+                    "probability": 0.4506598711013794
+                },
+                {
+                    "word": " are",
+                    "start": 5.24,
+                    "end": 5.24,
+                    "probability": 0.32213807106018066
+                },
+                {
+                    "word": " you",
+                    "start": 5.24,
+                    "end": 5.3,
+                    "probability": 0.9630241990089417
+                },
+                {
+                    "word": " being",
+                    "start": 5.3,
+                    "end": 5.3,
+                    "probability": 0.0733354464173317
+                },
+                {
+                    "word": " a",
+                    "start": 5.3,
+                    "end": 5.46,
+                    "probability": 0.2602684497833252
+                },
+                {
+                    "word": " little",
+                    "start": 5.46,
+                    "end": 5.46,
+                    "probability": 0.6089385151863098
+                },
+                {
+                    "word": " bit",
+                    "start": 5.46,
+                    "end": 5.58,
+                    "probability": 0.3197757303714752
+                },
+                {
+                    "word": " scared?",
+                    "start": 5.58,
+                    "end": 5.82,
+                    "probability": 0.1070840135216713
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 6.14,
+            "end": 6.54,
+            "text": " I won't.",
+            "tokens": [
+                50664,
+                286,
+                1582,
+                380,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9406785231370193,
+            "compression_ratio": 1.3928571428571428,
+            "no_speech_prob": 0.0611487440764904,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 6.14,
+                    "end": 6.44,
+                    "probability": 0.45523515343666077
+                },
+                {
+                    "word": " won't.",
+                    "start": 6.44,
+                    "end": 6.54,
+                    "probability": 0.617837555706501
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,66 @@
+{
+    "text": " What is this market level number?",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.18,
+            "text": " What is this market level number?",
+            "tokens": [
+                50364,
+                708,
+                307,
+                341,
+                2142,
+                1496,
+                1230,
+                30,
+                50464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4214216709136963,
+            "compression_ratio": 0.8461538461538461,
+            "no_speech_prob": 0.0707622766494751,
+            "words": [
+                {
+                    "word": " What",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.45687276124954224
+                },
+                {
+                    "word": " is",
+                    "start": 0.46,
+                    "end": 0.72,
+                    "probability": 0.9660868048667908
+                },
+                {
+                    "word": " this",
+                    "start": 0.72,
+                    "end": 1.04,
+                    "probability": 0.9535224437713623
+                },
+                {
+                    "word": " market",
+                    "start": 1.04,
+                    "end": 1.32,
+                    "probability": 0.9402886033058167
+                },
+                {
+                    "word": " level",
+                    "start": 1.32,
+                    "end": 1.7,
+                    "probability": 0.9781697988510132
+                },
+                {
+                    "word": " number?",
+                    "start": 1.7,
+                    "end": 2.18,
+                    "probability": 0.9375516176223755
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

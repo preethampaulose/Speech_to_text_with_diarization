@@ -1,0 +1,46 @@
+{
+    "text": " Yeah, my Jordan.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.72,
+            "text": " Yeah, my Jordan.",
+            "tokens": [
+                50364,
+                865,
+                11,
+                452,
+                10979,
+                13,
+                50406
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7176249623298645,
+            "compression_ratio": 0.6666666666666666,
+            "no_speech_prob": 0.21098284423351288,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.23098479211330414
+                },
+                {
+                    "word": " my",
+                    "start": 0.42,
+                    "end": 0.48,
+                    "probability": 0.5409795045852661
+                },
+                {
+                    "word": " Jordan.",
+                    "start": 0.48,
+                    "end": 0.72,
+                    "probability": 0.4040478467941284
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,102 @@
+{
+    "text": " you generally try and hang out with other officers, other people.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.8,
+            "text": " you generally try and hang out with other officers, other people.",
+            "tokens": [
+                50364,
+                291,
+                5101,
+                853,
+                293,
+                3967,
+                484,
+                365,
+                661,
+                9199,
+                11,
+                661,
+                561,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.4144935607910156,
+            "compression_ratio": 0.9848484848484849,
+            "no_speech_prob": 0.12946656346321106,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 0.0,
+                    "end": 0.44,
+                    "probability": 0.2973079979419708
+                },
+                {
+                    "word": " generally",
+                    "start": 0.44,
+                    "end": 0.98,
+                    "probability": 0.43122225999832153
+                },
+                {
+                    "word": " try",
+                    "start": 0.98,
+                    "end": 1.34,
+                    "probability": 0.9856019616127014
+                },
+                {
+                    "word": " and",
+                    "start": 1.34,
+                    "end": 1.46,
+                    "probability": 0.9760486483573914
+                },
+                {
+                    "word": " hang",
+                    "start": 1.46,
+                    "end": 1.66,
+                    "probability": 0.9945959448814392
+                },
+                {
+                    "word": " out",
+                    "start": 1.66,
+                    "end": 1.88,
+                    "probability": 0.96502286195755
+                },
+                {
+                    "word": " with",
+                    "start": 1.88,
+                    "end": 2.24,
+                    "probability": 0.989234447479248
+                },
+                {
+                    "word": " other",
+                    "start": 2.24,
+                    "end": 2.52,
+                    "probability": 0.9981587529182434
+                },
+                {
+                    "word": " officers,",
+                    "start": 2.52,
+                    "end": 2.94,
+                    "probability": 0.9214135408401489
+                },
+                {
+                    "word": " other",
+                    "start": 3.28,
+                    "end": 3.44,
+                    "probability": 0.9932780861854553
+                },
+                {
+                    "word": " people.",
+                    "start": 3.44,
+                    "end": 3.8,
+                    "probability": 0.9979058504104614
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

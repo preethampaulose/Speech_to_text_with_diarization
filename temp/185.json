@@ -1,0 +1,517 @@
+{
+    "text": " So, I think of it as I generally invest in those instruments which can be, which can get liquid instantly because I think of the money as my startup investment capital. So most of the money is in mutual funds which can be redeemed overnight. Some of the money is I think in FDs almost 80-90% is in mutual funds.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.72,
+            "text": " So, I think of it as I generally invest in those instruments which can be, which can get",
+            "tokens": [
+                50364,
+                407,
+                11,
+                286,
+                519,
+                295,
+                309,
+                382,
+                286,
+                5101,
+                1963,
+                294,
+                729,
+                12190,
+                597,
+                393,
+                312,
+                11,
+                597,
+                393,
+                483,
+                50692
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.294176983833313,
+            "compression_ratio": 1.7277777777777779,
+            "no_speech_prob": 0.0020411128643900156,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 0.0,
+                    "end": 0.46,
+                    "probability": 0.34144023060798645
+                },
+                {
+                    "word": " I",
+                    "start": 0.64,
+                    "end": 0.88,
+                    "probability": 0.9813824892044067
+                },
+                {
+                    "word": " think",
+                    "start": 0.88,
+                    "end": 1.2,
+                    "probability": 0.9985336065292358
+                },
+                {
+                    "word": " of",
+                    "start": 1.2,
+                    "end": 1.48,
+                    "probability": 0.9735661149024963
+                },
+                {
+                    "word": " it",
+                    "start": 1.48,
+                    "end": 1.7,
+                    "probability": 0.9962911605834961
+                },
+                {
+                    "word": " as",
+                    "start": 1.7,
+                    "end": 2.52,
+                    "probability": 0.9702941179275513
+                },
+                {
+                    "word": " I",
+                    "start": 2.52,
+                    "end": 2.72,
+                    "probability": 0.36744147539138794
+                },
+                {
+                    "word": " generally",
+                    "start": 2.72,
+                    "end": 3.08,
+                    "probability": 0.7542208433151245
+                },
+                {
+                    "word": " invest",
+                    "start": 3.08,
+                    "end": 3.52,
+                    "probability": 0.9828048348426819
+                },
+                {
+                    "word": " in",
+                    "start": 3.52,
+                    "end": 3.74,
+                    "probability": 0.9956639409065247
+                },
+                {
+                    "word": " those",
+                    "start": 3.74,
+                    "end": 3.96,
+                    "probability": 0.9770061373710632
+                },
+                {
+                    "word": " instruments",
+                    "start": 3.96,
+                    "end": 4.36,
+                    "probability": 0.992741584777832
+                },
+                {
+                    "word": " which",
+                    "start": 4.36,
+                    "end": 4.72,
+                    "probability": 0.6981080174446106
+                },
+                {
+                    "word": " can",
+                    "start": 4.72,
+                    "end": 5.0,
+                    "probability": 0.9890055060386658
+                },
+                {
+                    "word": " be,",
+                    "start": 5.0,
+                    "end": 5.4,
+                    "probability": 0.6676908731460571
+                },
+                {
+                    "word": " which",
+                    "start": 5.66,
+                    "end": 6.12,
+                    "probability": 0.9615470767021179
+                },
+                {
+                    "word": " can",
+                    "start": 6.12,
+                    "end": 6.46,
+                    "probability": 0.9935430288314819
+                },
+                {
+                    "word": " get",
+                    "start": 6.46,
+                    "end": 6.72,
+                    "probability": 0.9884291291236877
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.72,
+            "end": 14.22,
+            "text": " liquid instantly because I think of the money as my startup investment capital.",
+            "tokens": [
+                50692,
+                6553,
+                13518,
+                570,
+                286,
+                519,
+                295,
+                264,
+                1460,
+                382,
+                452,
+                18578,
+                6078,
+                4238,
+                13,
+                51100
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.294176983833313,
+            "compression_ratio": 1.7277777777777779,
+            "no_speech_prob": 0.0020411128643900156,
+            "words": [
+                {
+                    "word": " liquid",
+                    "start": 6.72,
+                    "end": 7.04,
+                    "probability": 0.9409920573234558
+                },
+                {
+                    "word": " instantly",
+                    "start": 7.04,
+                    "end": 7.74,
+                    "probability": 0.9580419659614563
+                },
+                {
+                    "word": " because",
+                    "start": 7.74,
+                    "end": 9.04,
+                    "probability": 0.42349618673324585
+                },
+                {
+                    "word": " I",
+                    "start": 9.04,
+                    "end": 9.46,
+                    "probability": 0.9531531929969788
+                },
+                {
+                    "word": " think",
+                    "start": 9.46,
+                    "end": 9.7,
+                    "probability": 0.9987255930900574
+                },
+                {
+                    "word": " of",
+                    "start": 9.7,
+                    "end": 10.3,
+                    "probability": 0.9863081574440002
+                },
+                {
+                    "word": " the",
+                    "start": 10.3,
+                    "end": 10.64,
+                    "probability": 0.9710392355918884
+                },
+                {
+                    "word": " money",
+                    "start": 10.64,
+                    "end": 11.02,
+                    "probability": 0.9939141869544983
+                },
+                {
+                    "word": " as",
+                    "start": 11.02,
+                    "end": 11.44,
+                    "probability": 0.9575374126434326
+                },
+                {
+                    "word": " my",
+                    "start": 11.44,
+                    "end": 11.86,
+                    "probability": 0.9687082767486572
+                },
+                {
+                    "word": " startup",
+                    "start": 11.86,
+                    "end": 12.46,
+                    "probability": 0.9322569370269775
+                },
+                {
+                    "word": " investment",
+                    "start": 12.46,
+                    "end": 13.7,
+                    "probability": 0.9386727809906006
+                },
+                {
+                    "word": " capital.",
+                    "start": 13.7,
+                    "end": 14.22,
+                    "probability": 0.9645310044288635
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 14.78,
+            "end": 18.78,
+            "text": " So most of the money is in mutual funds which can be redeemed overnight.",
+            "tokens": [
+                51100,
+                407,
+                881,
+                295,
+                264,
+                1460,
+                307,
+                294,
+                16917,
+                8271,
+                597,
+                393,
+                312,
+                14328,
+                15485,
+                13935,
+                13,
+                51364
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.294176983833313,
+            "compression_ratio": 1.7277777777777779,
+            "no_speech_prob": 0.0020411128643900156,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 14.78,
+                    "end": 14.96,
+                    "probability": 0.9222354888916016
+                },
+                {
+                    "word": " most",
+                    "start": 14.96,
+                    "end": 15.16,
+                    "probability": 0.26532551646232605
+                },
+                {
+                    "word": " of",
+                    "start": 15.16,
+                    "end": 15.36,
+                    "probability": 0.9971832633018494
+                },
+                {
+                    "word": " the",
+                    "start": 15.36,
+                    "end": 15.52,
+                    "probability": 0.9929183125495911
+                },
+                {
+                    "word": " money",
+                    "start": 15.52,
+                    "end": 15.88,
+                    "probability": 0.9965947270393372
+                },
+                {
+                    "word": " is",
+                    "start": 15.88,
+                    "end": 16.34,
+                    "probability": 0.9940497875213623
+                },
+                {
+                    "word": " in",
+                    "start": 16.34,
+                    "end": 16.6,
+                    "probability": 0.730124831199646
+                },
+                {
+                    "word": " mutual",
+                    "start": 16.6,
+                    "end": 16.76,
+                    "probability": 0.9692793488502502
+                },
+                {
+                    "word": " funds",
+                    "start": 16.76,
+                    "end": 17.28,
+                    "probability": 0.9952430129051208
+                },
+                {
+                    "word": " which",
+                    "start": 17.28,
+                    "end": 17.62,
+                    "probability": 0.7140962481498718
+                },
+                {
+                    "word": " can",
+                    "start": 17.62,
+                    "end": 17.84,
+                    "probability": 0.9934145212173462
+                },
+                {
+                    "word": " be",
+                    "start": 17.84,
+                    "end": 17.96,
+                    "probability": 0.9952523708343506
+                },
+                {
+                    "word": " redeemed",
+                    "start": 17.96,
+                    "end": 18.22,
+                    "probability": 0.9486739039421082
+                },
+                {
+                    "word": " overnight.",
+                    "start": 18.22,
+                    "end": 18.78,
+                    "probability": 0.9742028117179871
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 19.88,
+            "end": 26.58,
+            "text": " Some of the money is I think in FDs almost 80-90% is in mutual funds.",
+            "tokens": [
+                51364,
+                2188,
+                295,
+                264,
+                1460,
+                307,
+                286,
+                519,
+                294,
+                479,
+                35,
+                82,
+                1920,
+                4688,
+                12,
+                7771,
+                4,
+                307,
+                294,
+                16917,
+                8271,
+                13,
+                51692
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.294176983833313,
+            "compression_ratio": 1.7277777777777779,
+            "no_speech_prob": 0.0020411128643900156,
+            "words": [
+                {
+                    "word": " Some",
+                    "start": 19.88,
+                    "end": 20.08,
+                    "probability": 0.972497284412384
+                },
+                {
+                    "word": " of",
+                    "start": 20.08,
+                    "end": 20.3,
+                    "probability": 0.9955803751945496
+                },
+                {
+                    "word": " the",
+                    "start": 20.3,
+                    "end": 20.44,
+                    "probability": 0.9941099286079407
+                },
+                {
+                    "word": " money",
+                    "start": 20.44,
+                    "end": 20.92,
+                    "probability": 0.991315484046936
+                },
+                {
+                    "word": " is",
+                    "start": 20.92,
+                    "end": 21.64,
+                    "probability": 0.9730490446090698
+                },
+                {
+                    "word": " I",
+                    "start": 21.64,
+                    "end": 21.7,
+                    "probability": 0.6455206871032715
+                },
+                {
+                    "word": " think",
+                    "start": 21.7,
+                    "end": 22.64,
+                    "probability": 0.9991569519042969
+                },
+                {
+                    "word": " in",
+                    "start": 22.64,
+                    "end": 23.28,
+                    "probability": 0.5901142358779907
+                },
+                {
+                    "word": " FDs",
+                    "start": 23.28,
+                    "end": 24.64,
+                    "probability": 0.5866106549898783
+                },
+                {
+                    "word": " almost",
+                    "start": 24.64,
+                    "end": 24.9,
+                    "probability": 0.6170364022254944
+                },
+                {
+                    "word": " 80",
+                    "start": 24.9,
+                    "end": 25.3,
+                    "probability": 0.4151489734649658
+                },
+                {
+                    "word": "-90",
+                    "start": 25.3,
+                    "end": 25.58,
+                    "probability": 0.6331688761711121
+                },
+                {
+                    "word": "%",
+                    "start": 25.58,
+                    "end": 25.7,
+                    "probability": 0.6533962488174438
+                },
+                {
+                    "word": " is",
+                    "start": 25.7,
+                    "end": 25.96,
+                    "probability": 0.9390914440155029
+                },
+                {
+                    "word": " in",
+                    "start": 25.96,
+                    "end": 26.1,
+                    "probability": 0.978807806968689
+                },
+                {
+                    "word": " mutual",
+                    "start": 26.1,
+                    "end": 26.26,
+                    "probability": 0.9944766163825989
+                },
+                {
+                    "word": " funds.",
+                    "start": 26.26,
+                    "end": 26.58,
+                    "probability": 0.9960720539093018
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

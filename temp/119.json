@@ -1,0 +1,133 @@
+{
+    "text": " No tight look, just keeping your position on is listed in your video.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.46,
+            "text": " No tight look,",
+            "tokens": [
+                50364,
+                883,
+                4524,
+                574,
+                11,
+                50511
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.325344085693359,
+            "compression_ratio": 1.0147058823529411,
+            "no_speech_prob": 0.005826182663440704,
+            "words": [
+                {
+                    "word": " No",
+                    "start": 0.0,
+                    "end": 0.5,
+                    "probability": 0.17897509038448334
+                },
+                {
+                    "word": " tight",
+                    "start": 0.5,
+                    "end": 1.1,
+                    "probability": 5.026155122322962e-06
+                },
+                {
+                    "word": " look,",
+                    "start": 1.1,
+                    "end": 2.46,
+                    "probability": 0.0025420396123081446
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.02,
+            "end": 4.32,
+            "text": " just keeping your position on is listed in your video.",
+            "tokens": [
+                50511,
+                445,
+                5145,
+                428,
+                2535,
+                322,
+                307,
+                10052,
+                294,
+                428,
+                960,
+                13,
+                50624
+            ],
+            "temperature": 1.0,
+            "avg_logprob": -4.325344085693359,
+            "compression_ratio": 1.0147058823529411,
+            "no_speech_prob": 0.005826182663440704,
+            "words": [
+                {
+                    "word": " just",
+                    "start": 3.02,
+                    "end": 3.24,
+                    "probability": 0.012701408006250858
+                },
+                {
+                    "word": " keeping",
+                    "start": 3.24,
+                    "end": 3.24,
+                    "probability": 0.0003624265955295414
+                },
+                {
+                    "word": " your",
+                    "start": 3.24,
+                    "end": 3.24,
+                    "probability": 0.29938215017318726
+                },
+                {
+                    "word": " position",
+                    "start": 3.24,
+                    "end": 3.68,
+                    "probability": 0.0019803792238235474
+                },
+                {
+                    "word": " on",
+                    "start": 3.68,
+                    "end": 3.9,
+                    "probability": 0.04434589669108391
+                },
+                {
+                    "word": " is",
+                    "start": 3.9,
+                    "end": 3.9,
+                    "probability": 0.06408916413784027
+                },
+                {
+                    "word": " listed",
+                    "start": 3.9,
+                    "end": 4.32,
+                    "probability": 1.7424122233933304e-06
+                },
+                {
+                    "word": " in",
+                    "start": 4.32,
+                    "end": 4.32,
+                    "probability": 0.08515070378780365
+                },
+                {
+                    "word": " your",
+                    "start": 4.32,
+                    "end": 4.32,
+                    "probability": 0.15708589553833008
+                },
+                {
+                    "word": " video.",
+                    "start": 4.32,
+                    "end": 4.32,
+                    "probability": 0.009420834481716156
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

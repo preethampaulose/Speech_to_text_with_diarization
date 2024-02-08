@@ -1,0 +1,122 @@
+{
+    "text": " you are talking then you are talking about 80 lakh rupees and well explained.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.8199999999999996,
+            "end": 4.52,
+            "text": " you are talking then you are talking about 80 lakh rupees and well explained.",
+            "tokens": [
+                50364,
+                291,
+                366,
+                1417,
+                550,
+                291,
+                366,
+                1417,
+                466,
+                4688,
+                33314,
+                24638,
+                293,
+                731,
+                8825,
+                13,
+                50588
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.6989463700188531,
+            "compression_ratio": 1.1159420289855073,
+            "no_speech_prob": 0.29840412735939026,
+            "words": [
+                {
+                    "word": " you",
+                    "start": 0.8199999999999996,
+                    "end": 1.26,
+                    "probability": 0.08716735988855362
+                },
+                {
+                    "word": " are",
+                    "start": 1.26,
+                    "end": 1.48,
+                    "probability": 0.7620804905891418
+                },
+                {
+                    "word": " talking",
+                    "start": 1.48,
+                    "end": 1.72,
+                    "probability": 0.3979412913322449
+                },
+                {
+                    "word": " then",
+                    "start": 1.72,
+                    "end": 2.0,
+                    "probability": 0.3933142423629761
+                },
+                {
+                    "word": " you",
+                    "start": 2.0,
+                    "end": 2.14,
+                    "probability": 0.9356023669242859
+                },
+                {
+                    "word": " are",
+                    "start": 2.14,
+                    "end": 2.26,
+                    "probability": 0.86131352186203
+                },
+                {
+                    "word": " talking",
+                    "start": 2.26,
+                    "end": 2.46,
+                    "probability": 0.9868148565292358
+                },
+                {
+                    "word": " about",
+                    "start": 2.46,
+                    "end": 2.68,
+                    "probability": 0.9777087569236755
+                },
+                {
+                    "word": " 80",
+                    "start": 2.68,
+                    "end": 2.92,
+                    "probability": 0.7449401617050171
+                },
+                {
+                    "word": " lakh",
+                    "start": 2.92,
+                    "end": 3.12,
+                    "probability": 0.6921011209487915
+                },
+                {
+                    "word": " rupees",
+                    "start": 3.12,
+                    "end": 3.48,
+                    "probability": 0.9748855233192444
+                },
+                {
+                    "word": " and",
+                    "start": 3.48,
+                    "end": 4.06,
+                    "probability": 0.27061694860458374
+                },
+                {
+                    "word": " well",
+                    "start": 4.06,
+                    "end": 4.24,
+                    "probability": 0.6523044109344482
+                },
+                {
+                    "word": " explained.",
+                    "start": 4.24,
+                    "end": 4.52,
+                    "probability": 0.08965952694416046
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

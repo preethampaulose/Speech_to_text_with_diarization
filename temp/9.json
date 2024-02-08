@@ -1,0 +1,579 @@
+{
+    "text": " I just like to told you that needs for a foreign country, for foreign country, if you want to do foreign foreign, if your ambition is there, then private sector will be a better choice. I have to make peace with it. If I don't make peace, then I will go to the side track path, and I will be happy.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.84,
+            "text": " I just like to told you that needs for a foreign country,",
+            "tokens": [
+                50364,
+                286,
+                445,
+                411,
+                281,
+                1907,
+                291,
+                300,
+                2203,
+                337,
+                257,
+                5329,
+                1941,
+                11,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7137133424932306,
+            "compression_ratio": 1.6741573033707866,
+            "no_speech_prob": 0.0003148722753394395,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.3148498237133026
+                },
+                {
+                    "word": " just",
+                    "start": 0.36,
+                    "end": 0.58,
+                    "probability": 0.4406357407569885
+                },
+                {
+                    "word": " like",
+                    "start": 0.58,
+                    "end": 1.12,
+                    "probability": 0.8493960499763489
+                },
+                {
+                    "word": " to",
+                    "start": 1.12,
+                    "end": 1.26,
+                    "probability": 0.45151811838150024
+                },
+                {
+                    "word": " told",
+                    "start": 1.26,
+                    "end": 1.48,
+                    "probability": 0.3716908395290375
+                },
+                {
+                    "word": " you",
+                    "start": 1.48,
+                    "end": 1.82,
+                    "probability": 0.9920018911361694
+                },
+                {
+                    "word": " that",
+                    "start": 1.82,
+                    "end": 2.12,
+                    "probability": 0.8154708743095398
+                },
+                {
+                    "word": " needs",
+                    "start": 2.12,
+                    "end": 2.52,
+                    "probability": 0.14578913152217865
+                },
+                {
+                    "word": " for",
+                    "start": 2.52,
+                    "end": 2.78,
+                    "probability": 0.24248367547988892
+                },
+                {
+                    "word": " a",
+                    "start": 2.78,
+                    "end": 2.88,
+                    "probability": 0.11717527359724045
+                },
+                {
+                    "word": " foreign",
+                    "start": 2.88,
+                    "end": 2.88,
+                    "probability": 0.06702452152967453
+                },
+                {
+                    "word": " country,",
+                    "start": 2.88,
+                    "end": 3.84,
+                    "probability": 0.41421934962272644
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 4.3,
+            "end": 7.84,
+            "text": " for foreign country, if you want to do foreign foreign,",
+            "tokens": [
+                50564,
+                337,
+                5329,
+                1941,
+                11,
+                498,
+                291,
+                528,
+                281,
+                360,
+                5329,
+                5329,
+                11,
+                50764
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7137133424932306,
+            "compression_ratio": 1.6741573033707866,
+            "no_speech_prob": 0.0003148722753394395,
+            "words": [
+                {
+                    "word": " for",
+                    "start": 4.3,
+                    "end": 4.3,
+                    "probability": 0.10835844278335571
+                },
+                {
+                    "word": " foreign",
+                    "start": 4.3,
+                    "end": 4.76,
+                    "probability": 0.2615680992603302
+                },
+                {
+                    "word": " country,",
+                    "start": 4.76,
+                    "end": 5.38,
+                    "probability": 0.454780638217926
+                },
+                {
+                    "word": " if",
+                    "start": 6.24,
+                    "end": 6.98,
+                    "probability": 0.4960181415081024
+                },
+                {
+                    "word": " you",
+                    "start": 6.98,
+                    "end": 7.38,
+                    "probability": 0.24082335829734802
+                },
+                {
+                    "word": " want",
+                    "start": 7.38,
+                    "end": 7.38,
+                    "probability": 0.30349549651145935
+                },
+                {
+                    "word": " to",
+                    "start": 7.38,
+                    "end": 7.42,
+                    "probability": 0.6753174066543579
+                },
+                {
+                    "word": " do",
+                    "start": 7.42,
+                    "end": 7.84,
+                    "probability": 0.11557819694280624
+                },
+                {
+                    "word": " foreign",
+                    "start": 7.84,
+                    "end": 7.84,
+                    "probability": 0.4420415759086609
+                },
+                {
+                    "word": " foreign,",
+                    "start": 7.84,
+                    "end": 7.84,
+                    "probability": 0.37755653262138367
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 8.3,
+            "end": 10.0,
+            "text": " if your ambition is there,",
+            "tokens": [
+                50764,
+                498,
+                428,
+                22814,
+                307,
+                456,
+                11,
+                50864
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7137133424932306,
+            "compression_ratio": 1.6741573033707866,
+            "no_speech_prob": 0.0003148722753394395,
+            "words": [
+                {
+                    "word": " if",
+                    "start": 8.3,
+                    "end": 8.8,
+                    "probability": 0.6435409784317017
+                },
+                {
+                    "word": " your",
+                    "start": 8.8,
+                    "end": 9.16,
+                    "probability": 0.49965691566467285
+                },
+                {
+                    "word": " ambition",
+                    "start": 9.16,
+                    "end": 9.5,
+                    "probability": 0.928371012210846
+                },
+                {
+                    "word": " is",
+                    "start": 9.5,
+                    "end": 9.86,
+                    "probability": 0.9125474691390991
+                },
+                {
+                    "word": " there,",
+                    "start": 9.86,
+                    "end": 10.209999999999999,
+                    "probability": 0.1621062159538269
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 10.9,
+            "end": 13.0,
+            "text": " then private sector will be a better choice.",
+            "tokens": [
+                50864,
+                550,
+                4551,
+                6977,
+                486,
+                312,
+                257,
+                1101,
+                3922,
+                13,
+                51014
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7137133424932306,
+            "compression_ratio": 1.6741573033707866,
+            "no_speech_prob": 0.0003148722753394395,
+            "words": [
+                {
+                    "word": " then",
+                    "start": 10.9,
+                    "end": 11.06,
+                    "probability": 0.5035867094993591
+                },
+                {
+                    "word": " private",
+                    "start": 11.06,
+                    "end": 11.54,
+                    "probability": 0.40221095085144043
+                },
+                {
+                    "word": " sector",
+                    "start": 11.54,
+                    "end": 12.12,
+                    "probability": 0.9816012382507324
+                },
+                {
+                    "word": " will",
+                    "start": 12.12,
+                    "end": 12.4,
+                    "probability": 0.9499318599700928
+                },
+                {
+                    "word": " be",
+                    "start": 12.4,
+                    "end": 12.54,
+                    "probability": 0.7675450444221497
+                },
+                {
+                    "word": " a",
+                    "start": 12.54,
+                    "end": 12.66,
+                    "probability": 0.7025190591812134
+                },
+                {
+                    "word": " better",
+                    "start": 12.66,
+                    "end": 12.82,
+                    "probability": 0.9708908796310425
+                },
+                {
+                    "word": " choice.",
+                    "start": 12.82,
+                    "end": 13.17,
+                    "probability": 0.9972819089889526
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 13.9,
+            "end": 16.22,
+            "text": " I have to make peace with it.",
+            "tokens": [
+                51014,
+                286,
+                362,
+                281,
+                652,
+                4336,
+                365,
+                309,
+                13,
+                51164
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7137133424932306,
+            "compression_ratio": 1.6741573033707866,
+            "no_speech_prob": 0.0003148722753394395,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 13.9,
+                    "end": 14.1,
+                    "probability": 0.48093077540397644
+                },
+                {
+                    "word": " have",
+                    "start": 14.1,
+                    "end": 15.04,
+                    "probability": 0.9138946533203125
+                },
+                {
+                    "word": " to",
+                    "start": 15.04,
+                    "end": 15.2,
+                    "probability": 0.9942231774330139
+                },
+                {
+                    "word": " make",
+                    "start": 15.2,
+                    "end": 15.34,
+                    "probability": 0.9456872344017029
+                },
+                {
+                    "word": " peace",
+                    "start": 15.34,
+                    "end": 15.56,
+                    "probability": 0.9766290783882141
+                },
+                {
+                    "word": " with",
+                    "start": 15.56,
+                    "end": 15.74,
+                    "probability": 0.9848451614379883
+                },
+                {
+                    "word": " it.",
+                    "start": 15.74,
+                    "end": 16.22,
+                    "probability": 0.9712058305740356
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 16.48,
+            "end": 17.42,
+            "text": " If I don't make peace,",
+            "tokens": [
+                51164,
+                759,
+                286,
+                500,
+                380,
+                652,
+                4336,
+                11,
+                51264
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7137133424932306,
+            "compression_ratio": 1.6741573033707866,
+            "no_speech_prob": 0.0003148722753394395,
+            "words": [
+                {
+                    "word": " If",
+                    "start": 16.48,
+                    "end": 16.62,
+                    "probability": 0.8450134992599487
+                },
+                {
+                    "word": " I",
+                    "start": 16.62,
+                    "end": 17.02,
+                    "probability": 0.9229110479354858
+                },
+                {
+                    "word": " don't",
+                    "start": 17.02,
+                    "end": 17.02,
+                    "probability": 0.6431544125080109
+                },
+                {
+                    "word": " make",
+                    "start": 17.02,
+                    "end": 17.02,
+                    "probability": 0.6566600799560547
+                },
+                {
+                    "word": " peace,",
+                    "start": 17.02,
+                    "end": 17.42,
+                    "probability": 0.7811989188194275
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 18.82,
+            "end": 21.44,
+            "text": " then I will go to the side track path,",
+            "tokens": [
+                51264,
+                550,
+                286,
+                486,
+                352,
+                281,
+                264,
+                1252,
+                2837,
+                3100,
+                11,
+                51464
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7137133424932306,
+            "compression_ratio": 1.6741573033707866,
+            "no_speech_prob": 0.0003148722753394395,
+            "words": [
+                {
+                    "word": " then",
+                    "start": 18.82,
+                    "end": 19.52,
+                    "probability": 0.6320058107376099
+                },
+                {
+                    "word": " I",
+                    "start": 19.52,
+                    "end": 19.58,
+                    "probability": 0.4446897506713867
+                },
+                {
+                    "word": " will",
+                    "start": 19.58,
+                    "end": 20.1,
+                    "probability": 0.3925281763076782
+                },
+                {
+                    "word": " go",
+                    "start": 20.1,
+                    "end": 20.1,
+                    "probability": 0.13503848016262054
+                },
+                {
+                    "word": " to",
+                    "start": 20.1,
+                    "end": 20.68,
+                    "probability": 0.38411250710487366
+                },
+                {
+                    "word": " the",
+                    "start": 20.68,
+                    "end": 20.68,
+                    "probability": 0.40340328216552734
+                },
+                {
+                    "word": " side",
+                    "start": 20.68,
+                    "end": 20.92,
+                    "probability": 0.26225829124450684
+                },
+                {
+                    "word": " track",
+                    "start": 20.92,
+                    "end": 21.2,
+                    "probability": 0.6598724722862244
+                },
+                {
+                    "word": " path,",
+                    "start": 21.2,
+                    "end": 21.44,
+                    "probability": 0.10827513784170151
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 22.96,
+            "end": 24.98,
+            "text": " and I will be happy.",
+            "tokens": [
+                51464,
+                293,
+                286,
+                486,
+                312,
+                2055,
+                13,
+                51614
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7137133424932306,
+            "compression_ratio": 1.6741573033707866,
+            "no_speech_prob": 0.0003148722753394395,
+            "words": [
+                {
+                    "word": " and",
+                    "start": 22.96,
+                    "end": 23.66,
+                    "probability": 0.2532304525375366
+                },
+                {
+                    "word": " I",
+                    "start": 23.66,
+                    "end": 24.36,
+                    "probability": 0.8559713959693909
+                },
+                {
+                    "word": " will",
+                    "start": 24.36,
+                    "end": 24.46,
+                    "probability": 0.6378301382064819
+                },
+                {
+                    "word": " be",
+                    "start": 24.46,
+                    "end": 24.58,
+                    "probability": 0.883653998374939
+                },
+                {
+                    "word": " happy.",
+                    "start": 24.58,
+                    "end": 24.98,
+                    "probability": 0.5409957766532898
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

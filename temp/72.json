@@ -1,0 +1,660 @@
+{
+    "text": " I got out of I'm being I was drawing I think 35k month I was at 35k for until the first liquidity They would be sold in the business Then I got married so in exile there was nothing because second business I think you were drawing something like 12 lakhs for 18 months Didn't that got equity hired there I was this ball-pocken more than you were talking to us first Didn't you say exile there was nothing",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.36,
+            "text": " I got out of I'm being I was drawing I think 35k month I was at 35k for until the first liquidity",
+            "tokens": [
+                50364,
+                286,
+                658,
+                484,
+                295,
+                286,
+                478,
+                885,
+                286,
+                390,
+                6316,
+                286,
+                519,
+                6976,
+                74,
+                1618,
+                286,
+                390,
+                412,
+                6976,
+                74,
+                337,
+                1826,
+                264,
+                700,
+                33131,
+                50725
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7430519866943359,
+            "compression_ratio": 1.7264957264957266,
+            "no_speech_prob": 0.012729811482131481,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.98,
+                    "probability": 0.470864474773407
+                },
+                {
+                    "word": " got",
+                    "start": 0.98,
+                    "end": 1.18,
+                    "probability": 0.9574410319328308
+                },
+                {
+                    "word": " out",
+                    "start": 1.18,
+                    "end": 1.44,
+                    "probability": 0.9743468761444092
+                },
+                {
+                    "word": " of",
+                    "start": 1.44,
+                    "end": 1.6,
+                    "probability": 0.9637940526008606
+                },
+                {
+                    "word": " I'm",
+                    "start": 1.6,
+                    "end": 1.84,
+                    "probability": 0.2542914003133774
+                },
+                {
+                    "word": " being",
+                    "start": 1.84,
+                    "end": 2.18,
+                    "probability": 0.5045973658561707
+                },
+                {
+                    "word": " I",
+                    "start": 2.18,
+                    "end": 2.42,
+                    "probability": 0.5325006246566772
+                },
+                {
+                    "word": " was",
+                    "start": 2.42,
+                    "end": 2.58,
+                    "probability": 0.9969210624694824
+                },
+                {
+                    "word": " drawing",
+                    "start": 2.58,
+                    "end": 2.76,
+                    "probability": 0.5825248956680298
+                },
+                {
+                    "word": " I",
+                    "start": 2.76,
+                    "end": 2.88,
+                    "probability": 0.6686111092567444
+                },
+                {
+                    "word": " think",
+                    "start": 2.88,
+                    "end": 3.02,
+                    "probability": 0.9936488270759583
+                },
+                {
+                    "word": " 35k",
+                    "start": 3.02,
+                    "end": 3.68,
+                    "probability": 0.533538281917572
+                },
+                {
+                    "word": " month",
+                    "start": 3.68,
+                    "end": 4.06,
+                    "probability": 0.6357486844062805
+                },
+                {
+                    "word": " I",
+                    "start": 4.06,
+                    "end": 4.42,
+                    "probability": 0.5421543121337891
+                },
+                {
+                    "word": " was",
+                    "start": 4.42,
+                    "end": 4.6,
+                    "probability": 0.9776554107666016
+                },
+                {
+                    "word": " at",
+                    "start": 4.6,
+                    "end": 4.92,
+                    "probability": 0.9599791765213013
+                },
+                {
+                    "word": " 35k",
+                    "start": 4.92,
+                    "end": 5.72,
+                    "probability": 0.9336996078491211
+                },
+                {
+                    "word": " for",
+                    "start": 5.72,
+                    "end": 6.08,
+                    "probability": 0.7892115116119385
+                },
+                {
+                    "word": " until",
+                    "start": 6.08,
+                    "end": 6.56,
+                    "probability": 0.9379463195800781
+                },
+                {
+                    "word": " the",
+                    "start": 6.56,
+                    "end": 6.78,
+                    "probability": 0.9852672815322876
+                },
+                {
+                    "word": " first",
+                    "start": 6.78,
+                    "end": 6.94,
+                    "probability": 0.8730406165122986
+                },
+                {
+                    "word": " liquidity",
+                    "start": 6.94,
+                    "end": 7.36,
+                    "probability": 0.6477439403533936
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.36,
+            "end": 9.22,
+            "text": " They would be sold in the business",
+            "tokens": [
+                50725,
+                814,
+                576,
+                312,
+                3718,
+                294,
+                264,
+                1606,
+                50825
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7430519866943359,
+            "compression_ratio": 1.7264957264957266,
+            "no_speech_prob": 0.012729811482131481,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 7.36,
+                    "end": 8.04,
+                    "probability": 0.00804848037660122
+                },
+                {
+                    "word": " would",
+                    "start": 8.04,
+                    "end": 8.16,
+                    "probability": 0.23952773213386536
+                },
+                {
+                    "word": " be",
+                    "start": 8.16,
+                    "end": 8.34,
+                    "probability": 0.9530503153800964
+                },
+                {
+                    "word": " sold",
+                    "start": 8.34,
+                    "end": 8.54,
+                    "probability": 0.9175831079483032
+                },
+                {
+                    "word": " in",
+                    "start": 8.54,
+                    "end": 8.78,
+                    "probability": 0.1829117238521576
+                },
+                {
+                    "word": " the",
+                    "start": 8.78,
+                    "end": 8.92,
+                    "probability": 0.35265520215034485
+                },
+                {
+                    "word": " business",
+                    "start": 8.92,
+                    "end": 9.22,
+                    "probability": 0.09959658980369568
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.48,
+            "end": 18.12,
+            "text": " Then I got married so in exile there was nothing because second business I think you were drawing something like 12 lakhs for 18 months",
+            "tokens": [
+                50850,
+                1396,
+                286,
+                658,
+                5259,
+                370,
+                294,
+                37984,
+                456,
+                390,
+                1825,
+                570,
+                1150,
+                1606,
+                286,
+                519,
+                291,
+                645,
+                6316,
+                746,
+                411,
+                2272,
+                33314,
+                82,
+                337,
+                2443,
+                2493,
+                51270
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7430519866943359,
+            "compression_ratio": 1.7264957264957266,
+            "no_speech_prob": 0.012729811482131481,
+            "words": [
+                {
+                    "word": " Then",
+                    "start": 10.48,
+                    "end": 11.0,
+                    "probability": 0.597903311252594
+                },
+                {
+                    "word": " I",
+                    "start": 11.0,
+                    "end": 11.52,
+                    "probability": 0.8796994686126709
+                },
+                {
+                    "word": " got",
+                    "start": 11.52,
+                    "end": 11.68,
+                    "probability": 0.9964465498924255
+                },
+                {
+                    "word": " married",
+                    "start": 11.68,
+                    "end": 11.98,
+                    "probability": 0.7538248896598816
+                },
+                {
+                    "word": " so",
+                    "start": 11.98,
+                    "end": 12.16,
+                    "probability": 0.7582026720046997
+                },
+                {
+                    "word": " in",
+                    "start": 12.16,
+                    "end": 12.32,
+                    "probability": 0.2618594467639923
+                },
+                {
+                    "word": " exile",
+                    "start": 12.32,
+                    "end": 12.7,
+                    "probability": 0.18800510466098785
+                },
+                {
+                    "word": " there",
+                    "start": 12.7,
+                    "end": 13.0,
+                    "probability": 0.8649187088012695
+                },
+                {
+                    "word": " was",
+                    "start": 13.0,
+                    "end": 13.2,
+                    "probability": 0.9923558235168457
+                },
+                {
+                    "word": " nothing",
+                    "start": 13.2,
+                    "end": 13.58,
+                    "probability": 0.9948126077651978
+                },
+                {
+                    "word": " because",
+                    "start": 13.58,
+                    "end": 13.98,
+                    "probability": 0.7684389352798462
+                },
+                {
+                    "word": " second",
+                    "start": 13.98,
+                    "end": 14.36,
+                    "probability": 0.7949618101119995
+                },
+                {
+                    "word": " business",
+                    "start": 14.36,
+                    "end": 14.72,
+                    "probability": 0.9532680511474609
+                },
+                {
+                    "word": " I",
+                    "start": 14.72,
+                    "end": 14.98,
+                    "probability": 0.8513355851173401
+                },
+                {
+                    "word": " think",
+                    "start": 14.98,
+                    "end": 15.14,
+                    "probability": 0.9980672001838684
+                },
+                {
+                    "word": " you",
+                    "start": 15.14,
+                    "end": 15.26,
+                    "probability": 0.27215704321861267
+                },
+                {
+                    "word": " were",
+                    "start": 15.26,
+                    "end": 15.42,
+                    "probability": 0.9519327878952026
+                },
+                {
+                    "word": " drawing",
+                    "start": 15.42,
+                    "end": 15.72,
+                    "probability": 0.9919173121452332
+                },
+                {
+                    "word": " something",
+                    "start": 15.72,
+                    "end": 16.04,
+                    "probability": 0.996813952922821
+                },
+                {
+                    "word": " like",
+                    "start": 16.04,
+                    "end": 16.28,
+                    "probability": 0.9956086277961731
+                },
+                {
+                    "word": " 12",
+                    "start": 16.28,
+                    "end": 16.48,
+                    "probability": 0.4478703439235687
+                },
+                {
+                    "word": " lakhs",
+                    "start": 16.48,
+                    "end": 17.56,
+                    "probability": 0.7530312240123749
+                },
+                {
+                    "word": " for",
+                    "start": 17.56,
+                    "end": 17.66,
+                    "probability": 0.9008209705352783
+                },
+                {
+                    "word": " 18",
+                    "start": 17.66,
+                    "end": 17.92,
+                    "probability": 0.36774975061416626
+                },
+                {
+                    "word": " months",
+                    "start": 17.92,
+                    "end": 18.180000000000003,
+                    "probability": 0.9734359979629517
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 18.78,
+            "end": 24.98,
+            "text": " Didn't that got equity hired there I was this ball-pocken more than you were talking to us first",
+            "tokens": [
+                51290,
+                11151,
+                380,
+                300,
+                658,
+                10769,
+                13144,
+                456,
+                286,
+                390,
+                341,
+                2594,
+                12,
+                79,
+                1560,
+                268,
+                544,
+                813,
+                291,
+                645,
+                1417,
+                281,
+                505,
+                700,
+                51612
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7430519866943359,
+            "compression_ratio": 1.7264957264957266,
+            "no_speech_prob": 0.012729811482131481,
+            "words": [
+                {
+                    "word": " Didn't",
+                    "start": 18.78,
+                    "end": 19.16,
+                    "probability": 0.5479092560708523
+                },
+                {
+                    "word": " that",
+                    "start": 19.16,
+                    "end": 19.6,
+                    "probability": 0.9802748560905457
+                },
+                {
+                    "word": " got",
+                    "start": 19.6,
+                    "end": 19.8,
+                    "probability": 0.6796855330467224
+                },
+                {
+                    "word": " equity",
+                    "start": 19.8,
+                    "end": 20.08,
+                    "probability": 0.03740782290697098
+                },
+                {
+                    "word": " hired",
+                    "start": 20.08,
+                    "end": 20.56,
+                    "probability": 0.9445866942405701
+                },
+                {
+                    "word": " there",
+                    "start": 20.56,
+                    "end": 21.3,
+                    "probability": 0.49022164940834045
+                },
+                {
+                    "word": " I",
+                    "start": 21.3,
+                    "end": 21.54,
+                    "probability": 0.6850290894508362
+                },
+                {
+                    "word": " was",
+                    "start": 21.54,
+                    "end": 21.84,
+                    "probability": 0.9972869157791138
+                },
+                {
+                    "word": " this",
+                    "start": 21.84,
+                    "end": 22.06,
+                    "probability": 0.9288533926010132
+                },
+                {
+                    "word": " ball",
+                    "start": 22.06,
+                    "end": 22.26,
+                    "probability": 0.7714322805404663
+                },
+                {
+                    "word": "-pocken",
+                    "start": 22.26,
+                    "end": 22.62,
+                    "probability": 0.27594715543091297
+                },
+                {
+                    "word": " more",
+                    "start": 22.62,
+                    "end": 22.86,
+                    "probability": 0.13872742652893066
+                },
+                {
+                    "word": " than",
+                    "start": 22.86,
+                    "end": 23.66,
+                    "probability": 0.6024865508079529
+                },
+                {
+                    "word": " you",
+                    "start": 23.66,
+                    "end": 23.82,
+                    "probability": 0.35843709111213684
+                },
+                {
+                    "word": " were",
+                    "start": 23.82,
+                    "end": 23.96,
+                    "probability": 0.7047836184501648
+                },
+                {
+                    "word": " talking",
+                    "start": 23.96,
+                    "end": 24.12,
+                    "probability": 0.4584261476993561
+                },
+                {
+                    "word": " to",
+                    "start": 24.12,
+                    "end": 24.42,
+                    "probability": 0.26915988326072693
+                },
+                {
+                    "word": " us",
+                    "start": 24.42,
+                    "end": 24.76,
+                    "probability": 0.17960220575332642
+                },
+                {
+                    "word": " first",
+                    "start": 24.76,
+                    "end": 24.98,
+                    "probability": 0.07938214391469955
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 24.98,
+            "end": 27.16,
+            "text": " Didn't you say exile there was nothing",
+            "tokens": [
+                51612,
+                11151,
+                380,
+                291,
+                584,
+                37984,
+                456,
+                390,
+                1825,
+                51720
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7430519866943359,
+            "compression_ratio": 1.7264957264957266,
+            "no_speech_prob": 0.012729811482131481,
+            "words": [
+                {
+                    "word": " Didn't",
+                    "start": 24.98,
+                    "end": 25.42,
+                    "probability": 0.5467569120228291
+                },
+                {
+                    "word": " you",
+                    "start": 25.42,
+                    "end": 25.54,
+                    "probability": 0.16171947121620178
+                },
+                {
+                    "word": " say",
+                    "start": 25.54,
+                    "end": 25.68,
+                    "probability": 0.7286832332611084
+                },
+                {
+                    "word": " exile",
+                    "start": 25.68,
+                    "end": 26.1,
+                    "probability": 0.493047297000885
+                },
+                {
+                    "word": " there",
+                    "start": 26.1,
+                    "end": 26.34,
+                    "probability": 0.8226979970932007
+                },
+                {
+                    "word": " was",
+                    "start": 26.34,
+                    "end": 26.92,
+                    "probability": 0.9978419542312622
+                },
+                {
+                    "word": " nothing",
+                    "start": 26.92,
+                    "end": 27.16,
+                    "probability": 0.9681403636932373
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

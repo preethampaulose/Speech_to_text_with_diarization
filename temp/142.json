@@ -1,0 +1,250 @@
+{
+    "text": " But also look at it like if you could build this from scratch yourself that should make you more confident Because he has a lot of stuff to cut out",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 6.5,
+            "text": " But also look at it like if you could build this from scratch yourself that should make you more confident",
+            "tokens": [
+                50364,
+                583,
+                611,
+                574,
+                412,
+                309,
+                411,
+                498,
+                291,
+                727,
+                1322,
+                341,
+                490,
+                8459,
+                1803,
+                300,
+                820,
+                652,
+                291,
+                544,
+                6679,
+                50687
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7858241489955358,
+            "compression_ratio": 1.348623853211009,
+            "no_speech_prob": 0.1449795663356781,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.043659407645463943
+                },
+                {
+                    "word": " also",
+                    "start": 0.36,
+                    "end": 0.96,
+                    "probability": 0.42114728689193726
+                },
+                {
+                    "word": " look",
+                    "start": 0.96,
+                    "end": 1.24,
+                    "probability": 0.888678789138794
+                },
+                {
+                    "word": " at",
+                    "start": 1.24,
+                    "end": 1.46,
+                    "probability": 0.9910293817520142
+                },
+                {
+                    "word": " it",
+                    "start": 1.46,
+                    "end": 1.62,
+                    "probability": 0.9781678318977356
+                },
+                {
+                    "word": " like",
+                    "start": 1.62,
+                    "end": 1.78,
+                    "probability": 0.88841712474823
+                },
+                {
+                    "word": " if",
+                    "start": 1.78,
+                    "end": 1.98,
+                    "probability": 0.9250300526618958
+                },
+                {
+                    "word": " you",
+                    "start": 1.98,
+                    "end": 2.12,
+                    "probability": 0.995505690574646
+                },
+                {
+                    "word": " could",
+                    "start": 2.12,
+                    "end": 2.34,
+                    "probability": 0.9059550166130066
+                },
+                {
+                    "word": " build",
+                    "start": 2.34,
+                    "end": 2.72,
+                    "probability": 0.9872647523880005
+                },
+                {
+                    "word": " this",
+                    "start": 2.72,
+                    "end": 3.26,
+                    "probability": 0.9613847732543945
+                },
+                {
+                    "word": " from",
+                    "start": 3.26,
+                    "end": 3.42,
+                    "probability": 0.9332053661346436
+                },
+                {
+                    "word": " scratch",
+                    "start": 3.42,
+                    "end": 3.92,
+                    "probability": 0.9882539510726929
+                },
+                {
+                    "word": " yourself",
+                    "start": 3.92,
+                    "end": 4.62,
+                    "probability": 0.5778579711914062
+                },
+                {
+                    "word": " that",
+                    "start": 4.62,
+                    "end": 5.12,
+                    "probability": 0.3203580975532532
+                },
+                {
+                    "word": " should",
+                    "start": 5.12,
+                    "end": 5.4,
+                    "probability": 0.9870647192001343
+                },
+                {
+                    "word": " make",
+                    "start": 5.4,
+                    "end": 5.6,
+                    "probability": 0.9833828806877136
+                },
+                {
+                    "word": " you",
+                    "start": 5.6,
+                    "end": 5.76,
+                    "probability": 0.9692850708961487
+                },
+                {
+                    "word": " more",
+                    "start": 5.76,
+                    "end": 6.02,
+                    "probability": 0.992446780204773
+                },
+                {
+                    "word": " confident",
+                    "start": 6.02,
+                    "end": 6.5,
+                    "probability": 0.9837077260017395
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 6.5,
+            "end": 8.62,
+            "text": " Because he has a lot of stuff to cut out",
+            "tokens": [
+                50687,
+                1436,
+                415,
+                575,
+                257,
+                688,
+                295,
+                1507,
+                281,
+                1723,
+                484,
+                50787
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7858241489955358,
+            "compression_ratio": 1.348623853211009,
+            "no_speech_prob": 0.1449795663356781,
+            "words": [
+                {
+                    "word": " Because",
+                    "start": 6.5,
+                    "end": 7.08,
+                    "probability": 0.021114429458975792
+                },
+                {
+                    "word": " he",
+                    "start": 7.08,
+                    "end": 7.38,
+                    "probability": 0.8200006484985352
+                },
+                {
+                    "word": " has",
+                    "start": 7.38,
+                    "end": 7.5,
+                    "probability": 0.07129993289709091
+                },
+                {
+                    "word": " a",
+                    "start": 7.5,
+                    "end": 7.62,
+                    "probability": 0.22858329117298126
+                },
+                {
+                    "word": " lot",
+                    "start": 7.62,
+                    "end": 7.72,
+                    "probability": 0.1979510486125946
+                },
+                {
+                    "word": " of",
+                    "start": 7.72,
+                    "end": 8.12,
+                    "probability": 0.837516188621521
+                },
+                {
+                    "word": " stuff",
+                    "start": 8.12,
+                    "end": 8.22,
+                    "probability": 0.0943036824464798
+                },
+                {
+                    "word": " to",
+                    "start": 8.22,
+                    "end": 8.22,
+                    "probability": 0.4002576470375061
+                },
+                {
+                    "word": " cut",
+                    "start": 8.22,
+                    "end": 8.42,
+                    "probability": 0.08479025959968567
+                },
+                {
+                    "word": " out",
+                    "start": 8.42,
+                    "end": 8.62,
+                    "probability": 0.3570238947868347
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

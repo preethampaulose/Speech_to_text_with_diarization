@@ -1,0 +1,245 @@
+{
+    "text": " So that's the biggest job security we have. So we won't be able to get over the attention. We won't be able to get over it.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 2.66,
+            "text": " So that's the biggest job security we have.",
+            "tokens": [
+                50364,
+                407,
+                300,
+                311,
+                264,
+                3880,
+                1691,
+                3825,
+                321,
+                362,
+                13,
+                50496
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7096476432604667,
+            "compression_ratio": 1.3977272727272727,
+            "no_speech_prob": 0.012498264200985432,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 0.0,
+                    "end": 0.42,
+                    "probability": 0.3575790822505951
+                },
+                {
+                    "word": " that's",
+                    "start": 0.42,
+                    "end": 0.82,
+                    "probability": 0.7924908995628357
+                },
+                {
+                    "word": " the",
+                    "start": 0.82,
+                    "end": 0.96,
+                    "probability": 0.9956692457199097
+                },
+                {
+                    "word": " biggest",
+                    "start": 0.96,
+                    "end": 1.28,
+                    "probability": 0.9886489510536194
+                },
+                {
+                    "word": " job",
+                    "start": 1.28,
+                    "end": 1.62,
+                    "probability": 0.9431077837944031
+                },
+                {
+                    "word": " security",
+                    "start": 1.62,
+                    "end": 2.1,
+                    "probability": 0.9837462902069092
+                },
+                {
+                    "word": " we",
+                    "start": 2.1,
+                    "end": 2.42,
+                    "probability": 0.8102117776870728
+                },
+                {
+                    "word": " have.",
+                    "start": 2.42,
+                    "end": 2.66,
+                    "probability": 0.9913695454597473
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 2.86,
+            "end": 3.68,
+            "text": " So we won't be able to get over the attention.",
+            "tokens": [
+                50496,
+                407,
+                321,
+                1582,
+                380,
+                312,
+                1075,
+                281,
+                483,
+                670,
+                264,
+                3202,
+                13,
+                50612
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7096476432604667,
+            "compression_ratio": 1.3977272727272727,
+            "no_speech_prob": 0.012498264200985432,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 2.86,
+                    "end": 3.06,
+                    "probability": 0.6953114867210388
+                },
+                {
+                    "word": " we",
+                    "start": 3.06,
+                    "end": 3.08,
+                    "probability": 0.7500285506248474
+                },
+                {
+                    "word": " won't",
+                    "start": 3.08,
+                    "end": 3.18,
+                    "probability": 0.672269657254219
+                },
+                {
+                    "word": " be",
+                    "start": 3.18,
+                    "end": 3.18,
+                    "probability": 0.12012665718793869
+                },
+                {
+                    "word": " able",
+                    "start": 3.18,
+                    "end": 3.18,
+                    "probability": 0.6006584763526917
+                },
+                {
+                    "word": " to",
+                    "start": 3.18,
+                    "end": 3.18,
+                    "probability": 0.9897925853729248
+                },
+                {
+                    "word": " get",
+                    "start": 3.18,
+                    "end": 3.18,
+                    "probability": 0.1377703845500946
+                },
+                {
+                    "word": " over",
+                    "start": 3.18,
+                    "end": 3.2,
+                    "probability": 0.1455480307340622
+                },
+                {
+                    "word": " the",
+                    "start": 3.2,
+                    "end": 3.2,
+                    "probability": 0.19816464185714722
+                },
+                {
+                    "word": " attention.",
+                    "start": 3.2,
+                    "end": 3.68,
+                    "probability": 0.08053836226463318
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 4.5,
+            "end": 5.66,
+            "text": " We won't be able to get over it.",
+            "tokens": [
+                50612,
+                492,
+                1582,
+                380,
+                312,
+                1075,
+                281,
+                483,
+                670,
+                309,
+                13,
+                50676
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7096476432604667,
+            "compression_ratio": 1.3977272727272727,
+            "no_speech_prob": 0.012498264200985432,
+            "words": [
+                {
+                    "word": " We",
+                    "start": 4.5,
+                    "end": 4.5,
+                    "probability": 0.3469916582107544
+                },
+                {
+                    "word": " won't",
+                    "start": 4.5,
+                    "end": 5.08,
+                    "probability": 0.8505304157733917
+                },
+                {
+                    "word": " be",
+                    "start": 5.08,
+                    "end": 5.44,
+                    "probability": 0.6806617379188538
+                },
+                {
+                    "word": " able",
+                    "start": 5.44,
+                    "end": 5.52,
+                    "probability": 0.8226585388183594
+                },
+                {
+                    "word": " to",
+                    "start": 5.52,
+                    "end": 5.64,
+                    "probability": 0.9885920882225037
+                },
+                {
+                    "word": " get",
+                    "start": 5.64,
+                    "end": 5.64,
+                    "probability": 0.46014514565467834
+                },
+                {
+                    "word": " over",
+                    "start": 5.64,
+                    "end": 5.64,
+                    "probability": 0.6995217800140381
+                },
+                {
+                    "word": " it.",
+                    "start": 5.64,
+                    "end": 5.66,
+                    "probability": 0.4086010158061981
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,254 @@
+{
+    "text": " So, I will tell you the basic math out of 100 startups more than 90 percent do not work out. So, right from the beginning you are against the probability.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.14,
+            "text": " So, I will tell you the basic math out of 100 startups more than 90 percent do not work out.",
+            "tokens": [
+                50364,
+                407,
+                11,
+                286,
+                486,
+                980,
+                291,
+                264,
+                3875,
+                5221,
+                484,
+                295,
+                2319,
+                28041,
+                544,
+                813,
+                4289,
+                3043,
+                360,
+                406,
+                589,
+                484,
+                13,
+                50714
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2613751827142177,
+            "compression_ratio": 1.2419354838709677,
+            "no_speech_prob": 0.08552076667547226,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 0.0,
+                    "end": 0.78,
+                    "probability": 0.7169750332832336
+                },
+                {
+                    "word": " I",
+                    "start": 0.86,
+                    "end": 0.9,
+                    "probability": 0.9797705411911011
+                },
+                {
+                    "word": " will",
+                    "start": 0.9,
+                    "end": 1.06,
+                    "probability": 0.6585556864738464
+                },
+                {
+                    "word": " tell",
+                    "start": 1.06,
+                    "end": 1.2,
+                    "probability": 0.9891052842140198
+                },
+                {
+                    "word": " you",
+                    "start": 1.2,
+                    "end": 1.74,
+                    "probability": 0.9973995685577393
+                },
+                {
+                    "word": " the",
+                    "start": 1.74,
+                    "end": 1.9,
+                    "probability": 0.692855179309845
+                },
+                {
+                    "word": " basic",
+                    "start": 1.9,
+                    "end": 2.14,
+                    "probability": 0.9911218881607056
+                },
+                {
+                    "word": " math",
+                    "start": 2.14,
+                    "end": 3.06,
+                    "probability": 0.9468092918395996
+                },
+                {
+                    "word": " out",
+                    "start": 3.06,
+                    "end": 4.04,
+                    "probability": 0.41631007194519043
+                },
+                {
+                    "word": " of",
+                    "start": 4.04,
+                    "end": 4.32,
+                    "probability": 0.983619749546051
+                },
+                {
+                    "word": " 100",
+                    "start": 4.32,
+                    "end": 4.5,
+                    "probability": 0.9181295037269592
+                },
+                {
+                    "word": " startups",
+                    "start": 4.5,
+                    "end": 5.0,
+                    "probability": 0.6086099743843079
+                },
+                {
+                    "word": " more",
+                    "start": 5.0,
+                    "end": 5.34,
+                    "probability": 0.9022507667541504
+                },
+                {
+                    "word": " than",
+                    "start": 5.34,
+                    "end": 5.52,
+                    "probability": 0.9982454776763916
+                },
+                {
+                    "word": " 90",
+                    "start": 5.52,
+                    "end": 5.78,
+                    "probability": 0.9702188372612
+                },
+                {
+                    "word": " percent",
+                    "start": 5.78,
+                    "end": 6.18,
+                    "probability": 0.693383514881134
+                },
+                {
+                    "word": " do",
+                    "start": 6.18,
+                    "end": 6.3,
+                    "probability": 0.9933375120162964
+                },
+                {
+                    "word": " not",
+                    "start": 6.3,
+                    "end": 6.5,
+                    "probability": 0.9990873336791992
+                },
+                {
+                    "word": " work",
+                    "start": 6.5,
+                    "end": 6.7,
+                    "probability": 0.9118189215660095
+                },
+                {
+                    "word": " out.",
+                    "start": 6.7,
+                    "end": 7.14,
+                    "probability": 0.996682345867157
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 7.56,
+            "end": 10.8,
+            "text": " So, right from the beginning you are against the probability.",
+            "tokens": [
+                50714,
+                407,
+                11,
+                558,
+                490,
+                264,
+                2863,
+                291,
+                366,
+                1970,
+                264,
+                8482,
+                13,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.2613751827142177,
+            "compression_ratio": 1.2419354838709677,
+            "no_speech_prob": 0.08552076667547226,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 7.56,
+                    "end": 7.56,
+                    "probability": 0.958158552646637
+                },
+                {
+                    "word": " right",
+                    "start": 7.9,
+                    "end": 7.98,
+                    "probability": 0.8166108727455139
+                },
+                {
+                    "word": " from",
+                    "start": 7.98,
+                    "end": 8.2,
+                    "probability": 0.9896479249000549
+                },
+                {
+                    "word": " the",
+                    "start": 8.2,
+                    "end": 8.34,
+                    "probability": 0.9720453023910522
+                },
+                {
+                    "word": " beginning",
+                    "start": 8.34,
+                    "end": 8.58,
+                    "probability": 0.9977357387542725
+                },
+                {
+                    "word": " you",
+                    "start": 8.58,
+                    "end": 8.9,
+                    "probability": 0.7712451815605164
+                },
+                {
+                    "word": " are",
+                    "start": 8.9,
+                    "end": 9.28,
+                    "probability": 0.9831288456916809
+                },
+                {
+                    "word": " against",
+                    "start": 9.28,
+                    "end": 9.78,
+                    "probability": 0.9872833490371704
+                },
+                {
+                    "word": " the",
+                    "start": 9.78,
+                    "end": 10.16,
+                    "probability": 0.9851177930831909
+                },
+                {
+                    "word": " probability.",
+                    "start": 10.16,
+                    "end": 10.8,
+                    "probability": 0.9729985594749451
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

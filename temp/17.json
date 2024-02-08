@@ -1,0 +1,105 @@
+{
+    "text": " But at the thing is your needs no. Yes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 3.16,
+            "text": " But at the thing is your needs no.",
+            "tokens": [
+                50364,
+                583,
+                412,
+                264,
+                551,
+                307,
+                428,
+                2203,
+                572,
+                13,
+                50514
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9890106320381165,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.4452437162399292,
+            "words": [
+                {
+                    "word": " But",
+                    "start": 0.0,
+                    "end": 0.36,
+                    "probability": 0.06705483794212341
+                },
+                {
+                    "word": " at",
+                    "start": 0.36,
+                    "end": 0.82,
+                    "probability": 0.1929006427526474
+                },
+                {
+                    "word": " the",
+                    "start": 0.82,
+                    "end": 1.02,
+                    "probability": 0.9461892247200012
+                },
+                {
+                    "word": " thing",
+                    "start": 1.02,
+                    "end": 1.18,
+                    "probability": 0.7302740812301636
+                },
+                {
+                    "word": " is",
+                    "start": 1.18,
+                    "end": 1.44,
+                    "probability": 0.9487865567207336
+                },
+                {
+                    "word": " your",
+                    "start": 1.44,
+                    "end": 2.06,
+                    "probability": 0.5656583309173584
+                },
+                {
+                    "word": " needs",
+                    "start": 2.06,
+                    "end": 2.62,
+                    "probability": 0.14819902181625366
+                },
+                {
+                    "word": " no.",
+                    "start": 2.62,
+                    "end": 3.16,
+                    "probability": 0.30361923575401306
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 3.52,
+            "end": 3.58,
+            "text": " Yes.",
+            "tokens": [
+                50514,
+                1079,
+                13,
+                50564
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.9890106320381165,
+            "compression_ratio": 0.8666666666666667,
+            "no_speech_prob": 0.4452437162399292,
+            "words": [
+                {
+                    "word": " Yes.",
+                    "start": 3.52,
+                    "end": 3.58,
+                    "probability": 0.09372871369123459
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

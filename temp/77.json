@@ -1,0 +1,536 @@
+{
+    "text": " Then when we started store I started 50k and by that time I was married now it is like 40 Yeah, but this is still like I think 60% of market like I've some of my friends who graduated from Miami I'm being sorry They are in that 1890 The lifestyle inflation is much more on the private side of the right",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 7.94,
+            "text": " Then when we started store I started 50k and by that time I was married now it is like 40",
+            "tokens": [
+                50364,
+                1396,
+                562,
+                321,
+                1409,
+                3531,
+                286,
+                1409,
+                2625,
+                74,
+                293,
+                538,
+                300,
+                565,
+                286,
+                390,
+                5259,
+                586,
+                309,
+                307,
+                411,
+                3356,
+                50756
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40810548342191255,
+            "compression_ratio": 1.4660194174757282,
+            "no_speech_prob": 0.03451111167669296,
+            "words": [
+                {
+                    "word": " Then",
+                    "start": 0.0,
+                    "end": 0.66,
+                    "probability": 0.49870818853378296
+                },
+                {
+                    "word": " when",
+                    "start": 0.66,
+                    "end": 0.84,
+                    "probability": 0.8549832105636597
+                },
+                {
+                    "word": " we",
+                    "start": 0.84,
+                    "end": 1.02,
+                    "probability": 0.9607910513877869
+                },
+                {
+                    "word": " started",
+                    "start": 1.02,
+                    "end": 1.3,
+                    "probability": 0.9625029563903809
+                },
+                {
+                    "word": " store",
+                    "start": 1.3,
+                    "end": 2.08,
+                    "probability": 0.22570787370204926
+                },
+                {
+                    "word": " I",
+                    "start": 2.08,
+                    "end": 2.94,
+                    "probability": 0.6702763438224792
+                },
+                {
+                    "word": " started",
+                    "start": 2.94,
+                    "end": 3.24,
+                    "probability": 0.9767622351646423
+                },
+                {
+                    "word": " 50k",
+                    "start": 3.24,
+                    "end": 4.28,
+                    "probability": 0.5128200352191925
+                },
+                {
+                    "word": " and",
+                    "start": 4.28,
+                    "end": 4.54,
+                    "probability": 0.6852333545684814
+                },
+                {
+                    "word": " by",
+                    "start": 4.54,
+                    "end": 4.66,
+                    "probability": 0.9786686897277832
+                },
+                {
+                    "word": " that",
+                    "start": 4.66,
+                    "end": 4.84,
+                    "probability": 0.9730159640312195
+                },
+                {
+                    "word": " time",
+                    "start": 4.84,
+                    "end": 5.02,
+                    "probability": 0.9915340542793274
+                },
+                {
+                    "word": " I",
+                    "start": 5.02,
+                    "end": 5.18,
+                    "probability": 0.9124634861946106
+                },
+                {
+                    "word": " was",
+                    "start": 5.18,
+                    "end": 5.48,
+                    "probability": 0.9916765689849854
+                },
+                {
+                    "word": " married",
+                    "start": 5.48,
+                    "end": 5.92,
+                    "probability": 0.9663140177726746
+                },
+                {
+                    "word": " now",
+                    "start": 5.92,
+                    "end": 6.32,
+                    "probability": 0.6954543590545654
+                },
+                {
+                    "word": " it",
+                    "start": 6.32,
+                    "end": 6.7,
+                    "probability": 0.7713284492492676
+                },
+                {
+                    "word": " is",
+                    "start": 6.7,
+                    "end": 7.24,
+                    "probability": 0.9675708413124084
+                },
+                {
+                    "word": " like",
+                    "start": 7.24,
+                    "end": 7.4,
+                    "probability": 0.8960927128791809
+                },
+                {
+                    "word": " 40",
+                    "start": 7.4,
+                    "end": 7.94,
+                    "probability": 0.8410660624504089
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 8.48,
+            "end": 15.52,
+            "text": " Yeah, but this is still like I think 60% of market like I've some of my friends who graduated from Miami",
+            "tokens": [
+                50788,
+                865,
+                11,
+                457,
+                341,
+                307,
+                920,
+                411,
+                286,
+                519,
+                4060,
+                4,
+                295,
+                2142,
+                411,
+                286,
+                600,
+                512,
+                295,
+                452,
+                1855,
+                567,
+                13693,
+                490,
+                18367,
+                51125
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40810548342191255,
+            "compression_ratio": 1.4660194174757282,
+            "no_speech_prob": 0.03451111167669296,
+            "words": [
+                {
+                    "word": " Yeah,",
+                    "start": 8.48,
+                    "end": 8.96,
+                    "probability": 0.37894490361213684
+                },
+                {
+                    "word": " but",
+                    "start": 9.1,
+                    "end": 9.58,
+                    "probability": 0.9349120855331421
+                },
+                {
+                    "word": " this",
+                    "start": 9.58,
+                    "end": 9.78,
+                    "probability": 0.9941009879112244
+                },
+                {
+                    "word": " is",
+                    "start": 9.78,
+                    "end": 9.86,
+                    "probability": 0.9957281947135925
+                },
+                {
+                    "word": " still",
+                    "start": 9.86,
+                    "end": 10.06,
+                    "probability": 0.9918622970581055
+                },
+                {
+                    "word": " like",
+                    "start": 10.06,
+                    "end": 10.28,
+                    "probability": 0.9937877655029297
+                },
+                {
+                    "word": " I",
+                    "start": 10.28,
+                    "end": 10.34,
+                    "probability": 0.9400838613510132
+                },
+                {
+                    "word": " think",
+                    "start": 10.34,
+                    "end": 10.54,
+                    "probability": 0.9953776597976685
+                },
+                {
+                    "word": " 60",
+                    "start": 10.54,
+                    "end": 10.86,
+                    "probability": 0.9848747849464417
+                },
+                {
+                    "word": "%",
+                    "start": 10.86,
+                    "end": 11.14,
+                    "probability": 0.5790244340896606
+                },
+                {
+                    "word": " of",
+                    "start": 11.14,
+                    "end": 11.4,
+                    "probability": 0.8644749522209167
+                },
+                {
+                    "word": " market",
+                    "start": 11.4,
+                    "end": 11.7,
+                    "probability": 0.8430130481719971
+                },
+                {
+                    "word": " like",
+                    "start": 11.7,
+                    "end": 11.9,
+                    "probability": 0.784407913684845
+                },
+                {
+                    "word": " I've",
+                    "start": 11.9,
+                    "end": 12.9,
+                    "probability": 0.5910683572292328
+                },
+                {
+                    "word": " some",
+                    "start": 12.9,
+                    "end": 13.14,
+                    "probability": 0.8391711115837097
+                },
+                {
+                    "word": " of",
+                    "start": 13.14,
+                    "end": 13.3,
+                    "probability": 0.9894529581069946
+                },
+                {
+                    "word": " my",
+                    "start": 13.3,
+                    "end": 13.76,
+                    "probability": 0.990222692489624
+                },
+                {
+                    "word": " friends",
+                    "start": 13.76,
+                    "end": 14.06,
+                    "probability": 0.8606658577919006
+                },
+                {
+                    "word": " who",
+                    "start": 14.06,
+                    "end": 14.26,
+                    "probability": 0.9757165908813477
+                },
+                {
+                    "word": " graduated",
+                    "start": 14.26,
+                    "end": 14.54,
+                    "probability": 0.9720836877822876
+                },
+                {
+                    "word": " from",
+                    "start": 14.54,
+                    "end": 14.94,
+                    "probability": 0.9962467551231384
+                },
+                {
+                    "word": " Miami",
+                    "start": 14.94,
+                    "end": 15.52,
+                    "probability": 0.1413479447364807
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 15.52,
+            "end": 17.12,
+            "text": " I'm being sorry",
+            "tokens": [
+                51125,
+                286,
+                478,
+                885,
+                2597,
+                51225
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40810548342191255,
+            "compression_ratio": 1.4660194174757282,
+            "no_speech_prob": 0.03451111167669296,
+            "words": [
+                {
+                    "word": " I'm",
+                    "start": 15.52,
+                    "end": 16.12,
+                    "probability": 0.3777470737695694
+                },
+                {
+                    "word": " being",
+                    "start": 16.12,
+                    "end": 16.32,
+                    "probability": 0.24480822682380676
+                },
+                {
+                    "word": " sorry",
+                    "start": 16.32,
+                    "end": 17.12,
+                    "probability": 0.9706088304519653
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 17.12,
+            "end": 18.76,
+            "text": " They are in that 1890",
+            "tokens": [
+                51225,
+                814,
+                366,
+                294,
+                300,
+                47725,
+                51325
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40810548342191255,
+            "compression_ratio": 1.4660194174757282,
+            "no_speech_prob": 0.03451111167669296,
+            "words": [
+                {
+                    "word": " They",
+                    "start": 17.12,
+                    "end": 17.68,
+                    "probability": 0.599694550037384
+                },
+                {
+                    "word": " are",
+                    "start": 17.68,
+                    "end": 17.88,
+                    "probability": 0.9237596988677979
+                },
+                {
+                    "word": " in",
+                    "start": 17.88,
+                    "end": 17.98,
+                    "probability": 0.9977261424064636
+                },
+                {
+                    "word": " that",
+                    "start": 17.98,
+                    "end": 18.12,
+                    "probability": 0.931710422039032
+                },
+                {
+                    "word": " 1890",
+                    "start": 18.12,
+                    "end": 18.76,
+                    "probability": 0.5016889572143555
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 19.34,
+            "end": 22.44,
+            "text": " The lifestyle inflation is much more on the private side of the right",
+            "tokens": [
+                51325,
+                440,
+                11716,
+                15860,
+                307,
+                709,
+                544,
+                322,
+                264,
+                4551,
+                1252,
+                295,
+                264,
+                558,
+                51480
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.40810548342191255,
+            "compression_ratio": 1.4660194174757282,
+            "no_speech_prob": 0.03451111167669296,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 19.34,
+                    "end": 19.86,
+                    "probability": 0.2721506953239441
+                },
+                {
+                    "word": " lifestyle",
+                    "start": 19.86,
+                    "end": 20.24,
+                    "probability": 0.9855818152427673
+                },
+                {
+                    "word": " inflation",
+                    "start": 20.24,
+                    "end": 20.62,
+                    "probability": 0.8041055202484131
+                },
+                {
+                    "word": " is",
+                    "start": 20.62,
+                    "end": 20.9,
+                    "probability": 0.9972468614578247
+                },
+                {
+                    "word": " much",
+                    "start": 20.9,
+                    "end": 21.08,
+                    "probability": 0.9982427358627319
+                },
+                {
+                    "word": " more",
+                    "start": 21.08,
+                    "end": 21.28,
+                    "probability": 0.9984641075134277
+                },
+                {
+                    "word": " on",
+                    "start": 21.28,
+                    "end": 21.48,
+                    "probability": 0.9875929951667786
+                },
+                {
+                    "word": " the",
+                    "start": 21.48,
+                    "end": 21.58,
+                    "probability": 0.9962967038154602
+                },
+                {
+                    "word": " private",
+                    "start": 21.58,
+                    "end": 21.82,
+                    "probability": 0.9713952541351318
+                },
+                {
+                    "word": " side",
+                    "start": 21.82,
+                    "end": 22.06,
+                    "probability": 0.9379218816757202
+                },
+                {
+                    "word": " of",
+                    "start": 22.06,
+                    "end": 22.26,
+                    "probability": 0.24973970651626587
+                },
+                {
+                    "word": " the",
+                    "start": 22.26,
+                    "end": 22.34,
+                    "probability": 0.6968591213226318
+                },
+                {
+                    "word": " right",
+                    "start": 22.34,
+                    "end": 22.44,
+                    "probability": 0.24390165507793427
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

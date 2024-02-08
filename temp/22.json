@@ -1,0 +1,271 @@
+{
+    "text": " As you may have asked me, you are doing your research. So, I am saying that I am struggling to figure out what is that number. Number for me because",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 4.5,
+            "text": " As you may have asked me, you are doing your research.",
+            "tokens": [
+                50364,
+                1018,
+                291,
+                815,
+                362,
+                2351,
+                385,
+                11,
+                291,
+                366,
+                884,
+                428,
+                2132,
+                13,
+                50635
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.9239438684975229,
+            "compression_ratio": 1.2869565217391303,
+            "no_speech_prob": 0.058384183794260025,
+            "words": [
+                {
+                    "word": " As",
+                    "start": 0.0,
+                    "end": 0.48,
+                    "probability": 0.057130366563797
+                },
+                {
+                    "word": " you",
+                    "start": 0.48,
+                    "end": 0.62,
+                    "probability": 0.8478237986564636
+                },
+                {
+                    "word": " may",
+                    "start": 0.62,
+                    "end": 1.24,
+                    "probability": 0.5632989406585693
+                },
+                {
+                    "word": " have",
+                    "start": 1.24,
+                    "end": 1.94,
+                    "probability": 0.06446053087711334
+                },
+                {
+                    "word": " asked",
+                    "start": 1.94,
+                    "end": 2.16,
+                    "probability": 0.2198333442211151
+                },
+                {
+                    "word": " me,",
+                    "start": 2.16,
+                    "end": 2.42,
+                    "probability": 0.3154810965061188
+                },
+                {
+                    "word": " you",
+                    "start": 3.2,
+                    "end": 3.24,
+                    "probability": 0.3999209702014923
+                },
+                {
+                    "word": " are",
+                    "start": 3.24,
+                    "end": 3.44,
+                    "probability": 0.43636149168014526
+                },
+                {
+                    "word": " doing",
+                    "start": 3.44,
+                    "end": 3.56,
+                    "probability": 0.02314544841647148
+                },
+                {
+                    "word": " your",
+                    "start": 3.56,
+                    "end": 3.8,
+                    "probability": 0.2953509986400604
+                },
+                {
+                    "word": " research.",
+                    "start": 3.8,
+                    "end": 4.5,
+                    "probability": 0.1867300271987915
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 5.42,
+            "end": 10.66,
+            "text": " So, I am saying that I am struggling to figure out what is that number.",
+            "tokens": [
+                50635,
+                407,
+                11,
+                286,
+                669,
+                1566,
+                300,
+                286,
+                669,
+                9314,
+                281,
+                2573,
+                484,
+                437,
+                307,
+                300,
+                1230,
+                13,
+                50900
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.9239438684975229,
+            "compression_ratio": 1.2869565217391303,
+            "no_speech_prob": 0.058384183794260025,
+            "words": [
+                {
+                    "word": " So,",
+                    "start": 5.42,
+                    "end": 5.9,
+                    "probability": 0.5613606572151184
+                },
+                {
+                    "word": " I",
+                    "start": 6.34,
+                    "end": 6.54,
+                    "probability": 0.9032081365585327
+                },
+                {
+                    "word": " am",
+                    "start": 6.54,
+                    "end": 6.76,
+                    "probability": 0.9597748517990112
+                },
+                {
+                    "word": " saying",
+                    "start": 6.76,
+                    "end": 7.0,
+                    "probability": 0.9543972611427307
+                },
+                {
+                    "word": " that",
+                    "start": 7.0,
+                    "end": 7.18,
+                    "probability": 0.8598937392234802
+                },
+                {
+                    "word": " I",
+                    "start": 7.18,
+                    "end": 7.22,
+                    "probability": 0.8354203701019287
+                },
+                {
+                    "word": " am",
+                    "start": 7.22,
+                    "end": 8.6,
+                    "probability": 0.948710560798645
+                },
+                {
+                    "word": " struggling",
+                    "start": 8.6,
+                    "end": 8.6,
+                    "probability": 0.9401724934577942
+                },
+                {
+                    "word": " to",
+                    "start": 8.6,
+                    "end": 8.7,
+                    "probability": 0.9896312355995178
+                },
+                {
+                    "word": " figure",
+                    "start": 8.7,
+                    "end": 8.92,
+                    "probability": 0.9977301955223083
+                },
+                {
+                    "word": " out",
+                    "start": 8.92,
+                    "end": 9.18,
+                    "probability": 0.9924913048744202
+                },
+                {
+                    "word": " what",
+                    "start": 9.18,
+                    "end": 9.34,
+                    "probability": 0.8201069235801697
+                },
+                {
+                    "word": " is",
+                    "start": 9.34,
+                    "end": 9.58,
+                    "probability": 0.9776509404182434
+                },
+                {
+                    "word": " that",
+                    "start": 9.58,
+                    "end": 10.34,
+                    "probability": 0.8034747838973999
+                },
+                {
+                    "word": " number.",
+                    "start": 10.34,
+                    "end": 10.66,
+                    "probability": 0.8975993394851685
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 10.84,
+            "end": 11.88,
+            "text": " Number for me because",
+            "tokens": [
+                50900,
+                5118,
+                337,
+                385,
+                570,
+                50961
+            ],
+            "temperature": 0.4,
+            "avg_logprob": -0.9239438684975229,
+            "compression_ratio": 1.2869565217391303,
+            "no_speech_prob": 0.058384183794260025,
+            "words": [
+                {
+                    "word": " Number",
+                    "start": 10.84,
+                    "end": 11.18,
+                    "probability": 0.7086271047592163
+                },
+                {
+                    "word": " for",
+                    "start": 11.18,
+                    "end": 11.36,
+                    "probability": 0.6770114898681641
+                },
+                {
+                    "word": " me",
+                    "start": 11.36,
+                    "end": 11.52,
+                    "probability": 0.9927464127540588
+                },
+                {
+                    "word": " because",
+                    "start": 11.52,
+                    "end": 11.88,
+                    "probability": 0.3460210859775543
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

@@ -1,0 +1,834 @@
+{
+    "text": " I want to ask a question. The biggest differentiator is how much I am. Between civil services and startup, is stability or predictability. You have kind of a set career path, yes. Saladize, roles. You don't even know what happens six months down the line. The startup is not going to be ready. So what are your goals for the match? Not the match, the Saladize. So it's my goal. How do you think about the career path? Yes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 1.32,
+            "text": " I want to ask a question.",
+            "tokens": [
+                50364,
+                286,
+                528,
+                281,
+                1029,
+                257,
+                1168,
+                13,
+                50438
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": [
+                {
+                    "word": " I",
+                    "start": 0.0,
+                    "end": 0.34,
+                    "probability": 0.60460364818573
+                },
+                {
+                    "word": " want",
+                    "start": 0.34,
+                    "end": 0.6,
+                    "probability": 0.6335641741752625
+                },
+                {
+                    "word": " to",
+                    "start": 0.6,
+                    "end": 0.74,
+                    "probability": 0.979468822479248
+                },
+                {
+                    "word": " ask",
+                    "start": 0.74,
+                    "end": 0.92,
+                    "probability": 0.9946059584617615
+                },
+                {
+                    "word": " a",
+                    "start": 0.92,
+                    "end": 1.0,
+                    "probability": 0.5357339382171631
+                },
+                {
+                    "word": " question.",
+                    "start": 1.0,
+                    "end": 1.32,
+                    "probability": 0.9753539562225342
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 1.58,
+            "end": 1.58,
+            "text": "",
+            "tokens": [],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": []
+        },
+        {
+            "id": 2,
+            "seek": 0,
+            "start": 1.9,
+            "end": 3.96,
+            "text": " The biggest differentiator is how much I am.",
+            "tokens": [
+                50488,
+                440,
+                3880,
+                27372,
+                1639,
+                307,
+                577,
+                709,
+                286,
+                669,
+                13,
+                50570
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 1.9,
+                    "end": 2.06,
+                    "probability": 0.33855244517326355
+                },
+                {
+                    "word": " biggest",
+                    "start": 2.06,
+                    "end": 2.42,
+                    "probability": 0.9972934126853943
+                },
+                {
+                    "word": " differentiator",
+                    "start": 2.42,
+                    "end": 3.06,
+                    "probability": 0.896515816450119
+                },
+                {
+                    "word": " is",
+                    "start": 3.06,
+                    "end": 3.26,
+                    "probability": 0.22814485430717468
+                },
+                {
+                    "word": " how",
+                    "start": 3.26,
+                    "end": 3.44,
+                    "probability": 0.14086692035198212
+                },
+                {
+                    "word": " much",
+                    "start": 3.44,
+                    "end": 3.58,
+                    "probability": 0.8399272561073303
+                },
+                {
+                    "word": " I",
+                    "start": 3.58,
+                    "end": 3.72,
+                    "probability": 0.34381166100502014
+                },
+                {
+                    "word": " am.",
+                    "start": 3.72,
+                    "end": 3.96,
+                    "probability": 0.6696618795394897
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "seek": 0,
+            "start": 4.22,
+            "end": 6.14,
+            "text": " Between civil services and startup,",
+            "tokens": [
+                50570,
+                18967,
+                5605,
+                3328,
+                293,
+                18578,
+                11,
+                50688
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": [
+                {
+                    "word": " Between",
+                    "start": 4.22,
+                    "end": 4.56,
+                    "probability": 0.7105939388275146
+                },
+                {
+                    "word": " civil",
+                    "start": 4.56,
+                    "end": 4.88,
+                    "probability": 0.725424587726593
+                },
+                {
+                    "word": " services",
+                    "start": 4.88,
+                    "end": 5.3,
+                    "probability": 0.9514411091804504
+                },
+                {
+                    "word": " and",
+                    "start": 5.3,
+                    "end": 5.6,
+                    "probability": 0.9125463366508484
+                },
+                {
+                    "word": " startup,",
+                    "start": 5.6,
+                    "end": 6.14,
+                    "probability": 0.49904879927635193
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "seek": 0,
+            "start": 6.9,
+            "end": 8.66,
+            "text": " is stability or predictability.",
+            "tokens": [
+                50688,
+                307,
+                11826,
+                420,
+                6069,
+                2310,
+                13,
+                50812
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": [
+                {
+                    "word": " is",
+                    "start": 6.9,
+                    "end": 7.02,
+                    "probability": 0.659111738204956
+                },
+                {
+                    "word": " stability",
+                    "start": 7.02,
+                    "end": 7.76,
+                    "probability": 0.47373268008232117
+                },
+                {
+                    "word": " or",
+                    "start": 7.76,
+                    "end": 8.06,
+                    "probability": 0.8907287120819092
+                },
+                {
+                    "word": " predictability.",
+                    "start": 8.06,
+                    "end": 8.66,
+                    "probability": 0.7351679801940918
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "seek": 0,
+            "start": 9.4,
+            "end": 11.08,
+            "text": " You have kind of a set career path,",
+            "tokens": [
+                50812,
+                509,
+                362,
+                733,
+                295,
+                257,
+                992,
+                3988,
+                3100,
+                11,
+                50914
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 9.4,
+                    "end": 9.4,
+                    "probability": 0.6219778060913086
+                },
+                {
+                    "word": " have",
+                    "start": 9.4,
+                    "end": 9.58,
+                    "probability": 0.9695531725883484
+                },
+                {
+                    "word": " kind",
+                    "start": 9.58,
+                    "end": 9.72,
+                    "probability": 0.7401872277259827
+                },
+                {
+                    "word": " of",
+                    "start": 9.72,
+                    "end": 9.82,
+                    "probability": 0.9979887008666992
+                },
+                {
+                    "word": " a",
+                    "start": 9.82,
+                    "end": 10.02,
+                    "probability": 0.8322193026542664
+                },
+                {
+                    "word": " set",
+                    "start": 10.02,
+                    "end": 10.18,
+                    "probability": 0.9881246089935303
+                },
+                {
+                    "word": " career",
+                    "start": 10.18,
+                    "end": 10.6,
+                    "probability": 0.9634745717048645
+                },
+                {
+                    "word": " path,",
+                    "start": 10.6,
+                    "end": 11.08,
+                    "probability": 0.9254178404808044
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "seek": 0,
+            "start": 11.52,
+            "end": 11.6,
+            "text": " yes.",
+            "tokens": [
+                50914,
+                2086,
+                13,
+                50964
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": [
+                {
+                    "word": " yes.",
+                    "start": 11.52,
+                    "end": 11.6,
+                    "probability": 0.2600732147693634
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "seek": 0,
+            "start": 12.06,
+            "end": 13.12,
+            "text": " Saladize, roles.",
+            "tokens": [
+                50964,
+                5996,
+                345,
+                1125,
+                11,
+                9604,
+                13,
+                51014
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": [
+                {
+                    "word": " Saladize,",
+                    "start": 12.06,
+                    "end": 12.58,
+                    "probability": 0.3799290905396144
+                },
+                {
+                    "word": " roles.",
+                    "start": 12.64,
+                    "end": 13.12,
+                    "probability": 0.4484124779701233
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "seek": 0,
+            "start": 13.68,
+            "end": 16.88,
+            "text": " You don't even know what happens six months down the line.",
+            "tokens": [
+                51014,
+                509,
+                500,
+                380,
+                754,
+                458,
+                437,
+                2314,
+                2309,
+                2493,
+                760,
+                264,
+                1622,
+                13,
+                51202
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": [
+                {
+                    "word": " You",
+                    "start": 13.68,
+                    "end": 13.8,
+                    "probability": 0.256064772605896
+                },
+                {
+                    "word": " don't",
+                    "start": 13.8,
+                    "end": 14.14,
+                    "probability": 0.8953239917755127
+                },
+                {
+                    "word": " even",
+                    "start": 14.14,
+                    "end": 14.36,
+                    "probability": 0.9585191607475281
+                },
+                {
+                    "word": " know",
+                    "start": 14.36,
+                    "end": 14.68,
+                    "probability": 0.9958802461624146
+                },
+                {
+                    "word": " what",
+                    "start": 14.68,
+                    "end": 14.84,
+                    "probability": 0.9934055805206299
+                },
+                {
+                    "word": " happens",
+                    "start": 14.84,
+                    "end": 15.1,
+                    "probability": 0.9802544713020325
+                },
+                {
+                    "word": " six",
+                    "start": 15.1,
+                    "end": 15.74,
+                    "probability": 0.3023972511291504
+                },
+                {
+                    "word": " months",
+                    "start": 15.74,
+                    "end": 16.0,
+                    "probability": 0.9633642435073853
+                },
+                {
+                    "word": " down",
+                    "start": 16.0,
+                    "end": 16.32,
+                    "probability": 0.8884221315383911
+                },
+                {
+                    "word": " the",
+                    "start": 16.32,
+                    "end": 16.44,
+                    "probability": 0.9862692952156067
+                },
+                {
+                    "word": " line.",
+                    "start": 16.44,
+                    "end": 16.88,
+                    "probability": 0.9935157299041748
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "seek": 0,
+            "start": 17.16,
+            "end": 18.22,
+            "text": " The startup is not going to be ready.",
+            "tokens": [
+                51202,
+                440,
+                18578,
+                307,
+                406,
+                516,
+                281,
+                312,
+                1919,
+                13,
+                51302
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": [
+                {
+                    "word": " The",
+                    "start": 17.16,
+                    "end": 17.16,
+                    "probability": 0.2685205340385437
+                },
+                {
+                    "word": " startup",
+                    "start": 17.16,
+                    "end": 17.38,
+                    "probability": 0.5255668759346008
+                },
+                {
+                    "word": " is",
+                    "start": 17.38,
+                    "end": 17.62,
+                    "probability": 0.11432752013206482
+                },
+                {
+                    "word": " not",
+                    "start": 17.62,
+                    "end": 17.9,
+                    "probability": 0.7366284132003784
+                },
+                {
+                    "word": " going",
+                    "start": 17.9,
+                    "end": 17.96,
+                    "probability": 0.16011732816696167
+                },
+                {
+                    "word": " to",
+                    "start": 17.96,
+                    "end": 17.96,
+                    "probability": 0.6624526381492615
+                },
+                {
+                    "word": " be",
+                    "start": 17.96,
+                    "end": 18.04,
+                    "probability": 0.21515825390815735
+                },
+                {
+                    "word": " ready.",
+                    "start": 18.04,
+                    "end": 18.22,
+                    "probability": 0.1319289356470108
+                }
+            ]
+        },
+        {
+            "id": 10,
+            "seek": 0,
+            "start": 19.02,
+            "end": 21.92,
+            "text": " So what are your goals for the match?",
+            "tokens": [
+                51302,
+                407,
+                437,
+                366,
+                428,
+                5493,
+                337,
+                264,
+                2995,
+                30,
+                51452
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 19.02,
+                    "end": 19.2,
+                    "probability": 0.7434597611427307
+                },
+                {
+                    "word": " what",
+                    "start": 19.2,
+                    "end": 20.18,
+                    "probability": 0.4009634256362915
+                },
+                {
+                    "word": " are",
+                    "start": 20.18,
+                    "end": 20.44,
+                    "probability": 0.917187511920929
+                },
+                {
+                    "word": " your",
+                    "start": 20.44,
+                    "end": 20.7,
+                    "probability": 0.9875015020370483
+                },
+                {
+                    "word": " goals",
+                    "start": 20.7,
+                    "end": 20.94,
+                    "probability": 0.9956988096237183
+                },
+                {
+                    "word": " for",
+                    "start": 20.94,
+                    "end": 21.5,
+                    "probability": 0.9696139097213745
+                },
+                {
+                    "word": " the",
+                    "start": 21.5,
+                    "end": 21.6,
+                    "probability": 0.8771054148674011
+                },
+                {
+                    "word": " match?",
+                    "start": 21.6,
+                    "end": 21.92,
+                    "probability": 0.06572595983743668
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "seek": 0,
+            "start": 22.3,
+            "end": 23.12,
+            "text": " Not the match, the Saladize.",
+            "tokens": [
+                51452,
+                1726,
+                264,
+                2995,
+                11,
+                264,
+                5996,
+                345,
+                1125,
+                13,
+                51526
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": [
+                {
+                    "word": " Not",
+                    "start": 22.3,
+                    "end": 22.3,
+                    "probability": 0.010789325460791588
+                },
+                {
+                    "word": " the",
+                    "start": 22.3,
+                    "end": 22.48,
+                    "probability": 0.10754252970218658
+                },
+                {
+                    "word": " match,",
+                    "start": 22.48,
+                    "end": 22.68,
+                    "probability": 0.24290946125984192
+                },
+                {
+                    "word": " the",
+                    "start": 22.68,
+                    "end": 22.68,
+                    "probability": 0.05991958826780319
+                },
+                {
+                    "word": " Saladize.",
+                    "start": 22.68,
+                    "end": 23.12,
+                    "probability": 0.6423348387082418
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "seek": 0,
+            "start": 23.68,
+            "end": 25.02,
+            "text": " So it's my goal.",
+            "tokens": [
+                51526,
+                407,
+                309,
+                311,
+                452,
+                3387,
+                13,
+                51602
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": [
+                {
+                    "word": " So",
+                    "start": 23.68,
+                    "end": 23.68,
+                    "probability": 0.48209935426712036
+                },
+                {
+                    "word": " it's",
+                    "start": 23.68,
+                    "end": 24.08,
+                    "probability": 0.623190701007843
+                },
+                {
+                    "word": " my",
+                    "start": 24.08,
+                    "end": 24.24,
+                    "probability": 0.07401358336210251
+                },
+                {
+                    "word": " goal.",
+                    "start": 24.24,
+                    "end": 25.02,
+                    "probability": 0.20445813238620758
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "seek": 0,
+            "start": 25.16,
+            "end": 26.68,
+            "text": " How do you think about the career path?",
+            "tokens": [
+                51602,
+                1012,
+                360,
+                291,
+                519,
+                466,
+                264,
+                3988,
+                3100,
+                30,
+                51702
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": [
+                {
+                    "word": " How",
+                    "start": 25.16,
+                    "end": 25.28,
+                    "probability": 0.28506141901016235
+                },
+                {
+                    "word": " do",
+                    "start": 25.28,
+                    "end": 25.42,
+                    "probability": 0.9716753363609314
+                },
+                {
+                    "word": " you",
+                    "start": 25.42,
+                    "end": 25.54,
+                    "probability": 0.9959388971328735
+                },
+                {
+                    "word": " think",
+                    "start": 25.54,
+                    "end": 25.78,
+                    "probability": 0.9485676884651184
+                },
+                {
+                    "word": " about",
+                    "start": 25.78,
+                    "end": 25.98,
+                    "probability": 0.42709335684776306
+                },
+                {
+                    "word": " the",
+                    "start": 25.98,
+                    "end": 26.18,
+                    "probability": 0.3877204358577728
+                },
+                {
+                    "word": " career",
+                    "start": 26.18,
+                    "end": 26.42,
+                    "probability": 0.19883504509925842
+                },
+                {
+                    "word": " path?",
+                    "start": 26.42,
+                    "end": 26.68,
+                    "probability": 0.7450823783874512
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "seek": 0,
+            "start": 27.06,
+            "end": 27.24,
+            "text": " Yes.",
+            "tokens": [
+                51702,
+                1079,
+                13,
+                51752
+            ],
+            "temperature": 0.0,
+            "avg_logprob": -0.7884237065034754,
+            "compression_ratio": 1.5932835820895523,
+            "no_speech_prob": 0.003001488046720624,
+            "words": [
+                {
+                    "word": " Yes.",
+                    "start": 27.06,
+                    "end": 27.24,
+                    "probability": 0.18525996804237366
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}

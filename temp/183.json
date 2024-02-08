@@ -1,0 +1,71 @@
+{
+    "text": " I've been on. Yes.",
+    "segments": [
+        {
+            "id": 0,
+            "seek": 0,
+            "start": 0.0,
+            "end": 0.48,
+            "text": " I've been on.",
+            "tokens": [
+                50364,
+                286,
+                600,
+                668,
+                322,
+                13,
+                50414
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.8963445822397867,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.46916303038597107,
+            "words": [
+                {
+                    "word": " I've",
+                    "start": 0.0,
+                    "end": 0.24,
+                    "probability": 0.1559902671724558
+                },
+                {
+                    "word": " been",
+                    "start": 0.24,
+                    "end": 0.3,
+                    "probability": 0.9745849967002869
+                },
+                {
+                    "word": " on.",
+                    "start": 0.3,
+                    "end": 0.48,
+                    "probability": 0.7096887826919556
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "seek": 0,
+            "start": 0.68,
+            "end": 0.86,
+            "text": " Yes.",
+            "tokens": [
+                50414,
+                1079,
+                13,
+                50464
+            ],
+            "temperature": 0.2,
+            "avg_logprob": -0.8963445822397867,
+            "compression_ratio": 0.6923076923076923,
+            "no_speech_prob": 0.46916303038597107,
+            "words": [
+                {
+                    "word": " Yes.",
+                    "start": 0.68,
+                    "end": 0.86,
+                    "probability": 0.37413445115089417
+                }
+            ]
+        }
+    ],
+    "language": "en"
+}
